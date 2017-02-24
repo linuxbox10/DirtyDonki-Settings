@@ -14404,7 +14404,7 @@ Eurosport 1 HD
 p:Cyfrowy Polsat S.A.,C:0000
 4225:00820000:3db8:013e:1:0
 Hustler HD
-p:Telespazio,c:000021,c:010020,c:030021,c:050001,C:4b24,C:4abf,C:1884,C:1861,C:1819,C:1813,C:1807,C:1803,C:0b02,C:0b01,C:0647,C:0604,C:0500,
+p:Telespazio,c:000021,c:010020,c:030021,c:050001,C:4b24,C:4abf,C:1884,C:1861,C:1819,C:1813,C:1807,C:1803,C:0b02,C:0b01,C:0647,C:0604,C:0500
 4625:0e080000:0001:0046:1:0
 TV 2 Nyhetskanalen
 p:Telenor,C:0000
@@ -45706,7 +45706,7 @@ Absolute 90s
 p:BSkyB
 d842:011a0000:0838:0002:2:0
 Absolute 70s
-p:BSkyB
+p:BSkyB,c:010902,c:030902
 d842:011a0000:096c:0002:2:0
 Absolute70s
 p:Sky Digital FTA,c:010902,c:030902
@@ -71454,4 +71454,4 @@ p:SkyItalia
 Fusion FGDL
 p:SkyItalia
 end
-Edited with dreamboxEDIT 7.1.0.0 on 05Jan2017 12:32:10
+Edited with dreamboxEDIT 7.1.0.0 on 24Feb2017 13:32:46
