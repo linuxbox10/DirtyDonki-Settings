@@ -1,22 +1,22 @@
 eDVB services /4/
 transponders
 011a0000:07d2:0002
-	s 11739000:29500000:1:6:282:2:0:1:1:0
+	s 11739000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07d3:0002
-	s 11758000:29500000:0:6:282:2:0:1:1:0
+	s 11758000:29500000:0:6:282:2:0:1:1:0:2
 /
 011a0000:07d4:0002
 	s 11778000:27500000:1:2:282:2:0
 /
 011a0000:07d5:0002
-	s 11797000:29500000:0:6:282:2:0:1:1:0
+	s 12460000:29500000:0:6:282:2:0:1:1:0:2
 /
 011a0000:07d7:0002
 	s 11836000:27500000:0:4:282:2:0
 /
 011a0000:07d8:0002
-	s 11856000:29500000:1:6:282:2:0:1:1:0
+	s 11856000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07d9:0002
 	s 11875000:27500000:0:2:282:2:0
@@ -31,25 +31,19 @@ transponders
 	s 11934000:27500000:1:4:282:2:0
 /
 011a0000:07dd:0002
-	s 11953000:27500000:0:2:282:2:0
-/
-011a0000:07de:0002
-	s 11068000:23000000:1:3:282:2:0:1:2:1:2
+	s 11954000:27500000:0:2:282:2:0
 /
 011a0000:07e0:0002
-	s 12012000:29500000:1:6:282:2:0:1:1:0
+	s 12012000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07e2:0002
 	s 12051000:27500000:1:2:282:2:0
 /
-011a0000:07e3:0002
-	s 12070000:27500000:0:4:282:2:0
-/
 011a0000:07e4:0002
-	s 12090000:29500000:1:6:282:2:0:1:1:0
+	s 12090000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07e5:0002
-	s 12109000:27500000:0:4:282:2:0
+	s 12110000:27500000:0:4:282:2:0
 /
 011a0000:07e6:0002
 	s 12129000:27500000:1:2:282:2:0
@@ -58,7 +52,7 @@ transponders
 	s 12148000:27500000:0:4:282:2:0
 /
 011a0000:07e8:0002
-	s 12168000:29500000:1:6:282:2:0:1:1:0
+	s 12168000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07e9:0002
 	s 12187000:27500000:0:4:282:2:0
@@ -67,40 +61,28 @@ transponders
 	s 12207000:27500000:1:4:282:2:0
 /
 011a0000:07eb:0002
-	s 12226000:29500000:0:6:282:2:0:1:1:0
+	s 12226000:29500000:0:6:282:2:0:1:1:0:2
 /
 011a0000:07ec:0002
-	s 12246000:29500000:1:6:282:2:0:1:1:0
+	s 12246000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07ed:0002
-	s 12265000:29500000:0:6:282:2:0:1:1:0
-/
-011a0000:07ee:0002
-	s 12285000:29500000:1:6:282:2:0:1:1:0
+	s 12266000:29500000:0:6:282:2:0:1:1:3:2
 /
 011a0000:07ef:0002
-	s 11836000:27500000:0:4:282:2:0
+	s 12304000:27500000:0:4:282:2:0
 /
 011a0000:07f0:0002
-	s 12324000:29500000:1:6:282:2:0:1:1:0
-/
-011a0000:07f1:0002
-	s 12343000:29500000:0:6:282:2:0:1:1:0
+	s 12324000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07f2:0002
-	s 12363000:29500000:1:6:282:2:0:1:1:0
+	s 12363000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07f3:0002
 	s 12382500:27500000:0:4:282:2:0
 /
-011a0000:07f4:0002
-	s 10993000:22000000:0:4:282:2:0
-/
 011a0000:07f6:0002
-	s 12441000:29500000:1:6:282:2:0:1:1:0
-/
-011a0000:07f7:0002
-	s 12460000:29500000:0:6:282:2:0:1:1:0
+	s 12441000:29500000:1:6:282:2:0:1:1:0:2
 /
 011a0000:07f9:0002
 	s 10714000:22000000:0:4:282:2:0
@@ -118,10 +100,10 @@ transponders
 	s 10788000:22000000:1:4:282:2:0
 /
 011a0000:07ff:0002
-	s 10802000:22000000:0:4:282:2:0
+	s 10803000:22000000:0:4:282:2:0
 /
 011a0000:0800:0002
-	s 10817000:22000000:1:4:282:2:0
+	s 10818000:22000000:1:4:282:2:0
 /
 011a0000:0802:0002
 	s 10847000:23000000:1:2:282:2:0:1:2:1:2
@@ -145,16 +127,16 @@ transponders
 	s 11038000:22000000:1:4:282:2:0
 /
 011a0000:080f:0002
-	s 11053000:23000000:0:3:282:2:0:1:2:1:2
+	s 11053000:23000000:0:3:282:2:0:1:2:3:2
 /
 011a0000:0810:0002
-	s 11068000:23000000:1:2:282:2:0:1:2:1:2
+	s 11068000:23000000:1:3:282:2:0:1:2:0:2
 /
 011a0000:0811:0002
-	s 11081000:22000000:0:4:282:2:0
+	s 11082000:22000000:0:4:282:2:0
 /
 011a0000:0812:0002
-	s 11097000:23000000:1:3:282:2:0:1:2:1:2
+	s 11097000:23000000:1:3:282:2:0:1:2:0:2
 /
 011a0000:0813:0002
 	s 11112000:22000000:0:4:282:2:0
@@ -166,7 +148,7 @@ transponders
 	s 11141000:22000000:0:4:282:2:0
 /
 011a0000:0817:0002
-	s 11170000:22000000:0:4:282:2:0
+	s 11171000:22000000:0:4:282:2:0
 /
 011a0000:0819:0002
 	s 11082000:22000000:0:4:282:2:0
@@ -180,11 +162,8 @@ transponders
 011a0000:082a:0002
 	s 11479000:22000000:1:4:282:2:0
 /
-011a0000:082b:0002
-	s 11493000:22000000:0:4:282:2:0
-/
 011a0000:082c:0002
-	s 11508000:23000000:1:2:282:2:0:1:2:1:2
+	s 11508000:23000000:1:2:282:2:0:1:2:3:0
 /
 011a0000:082d:0002
 	s 11523000:22000000:0:4:282:2:0
@@ -204,23 +183,23 @@ transponders
 011a0000:0832:0002
 	s 11597000:22000000:1:4:282:2:0
 /
-011a0000:0833:0002
-	s 11612000:23000000:0:2:282:2:0:1:2:1:2
+011a0000:0834:0002
+	s 11626000:22000000:1:4:282:2:0
 /
 011a0000:0836:0002
 	s 11656000:22000000:1:4:282:2:0
 /
 011a0000:0837:0002
-	s 11670000:22000000:0:4:282:2:0
+	s 11671000:22000000:0:4:282:2:0
 /
 011a0000:0838:0002
-	s 11685000:22000000:1:4:282:2:0
+	s 11686000:23000000:1:2:282:2:0:1:2:0:2
 /
 011a0000:0839:0002
 	s 11223000:27500000:0:2:282:2:0
 /
 011a0000:083a:0002
-	s 11225000:23000000:1:2:282:2:0:1:2:1:2
+	s 11225000:23000000:1:2:282:2:0:1:2:3:2
 /
 011a0000:083b:0002
 	s 11263000:27500000:0:2:282:2:0
@@ -232,7 +211,7 @@ transponders
 	s 11307000:27500000:0:4:282:2:0
 /
 011a0000:083e:0002
-	s 11307000:27500000:1:2:282:2:0
+	s 11307000:27500000:1:4:282:2:0
 /
 011a0000:083f:0002
 	s 11344000:27500000:0:4:282:2:0
@@ -241,34 +220,28 @@ transponders
 	s 11344000:27500000:1:4:282:2:0
 /
 011a0000:0841:0002
-	s 11385000:29500000:0:6:282:2:0:1:1:2
+	s 11386000:29500000:0:6:282:2:0:1:1:3:2
+/
+011a0000:0842:0002
+	s 11386000:29500000:1:3:282:2:0:1:1:0:2
 /
 011a0000:0844:0002
 	s 11426000:27500000:1:4:282:2:0
 /
-011a0000:08ff:0002
-	s 11307000:27500000:0:4:282:2:0
-/
 011a0000:0900:0002
 	s 11343000:27500000:1:4:282:2:0
-/
-011a0000:0902:0002
-	s 11425000:27500000:1:4:282:2:0
 /
 011a0000:0909:0002
 	s 11344000:27500000:0:4:282:2:0
 /
-011a0000:090a:0002
-	s 11307000:27500000:1:2:282:2:0
+011a0000:090b:003b
+	s 11425000:27500000:0:2:282:2:0
 /
 011a2b10:080d:0002
 	s 11024000:23000000:0:2:282:2:0:1:2:1:2
 /
-011a2b2c:0000:0000
-	s 11052000:23000000:0:3:282:2:0:1:2:1:2
-/
-011a2ca1:0000:0000
-	s 11425000:27500000:0:2:282:2:0
+011a2b68:0837:0002
+	s 11112000:22000000:0:4:282:2:0
 /
 011a2ce6:082b:0002
 	s 11494000:22000000:0:4:282:2:0
@@ -276,178 +249,2839 @@ transponders
 011a2d41:0831:0002
 	s 11582000:22000000:0:4:282:2:0
 /
+011a2f26:07e3:0002
+	s 12070000:27500000:0:4:282:2:0
+/
+011a2f9c:07f1:0002
+	s 12188000:29500000:0:6:282:2:0:1:1:0:2
+/
 011a2fea:07ed:0002
 	s 12266000:27500000:0:4:282:2:0
 /
 011a3010:0000:0000
 	s 12304000:27500000:0:4:282:2:0
 /
-011aab59:0000:0000
-	s 11097000:23000000:1:3:282:2:0:1:2:1:2
-/
-011aac7a:0000:0000
-	s 11386000:29500000:1:3:282:2:0:1:1:2
+011a305e:07f3:0002
+	s 12382000:27500000:0:4:282:2:0
 /
 011aad5c:0833:0002
-	s 11612000:23000000:0:2:282:2:0:1:2:1:2
-/
-011aaf61:0000:0000
-	s 12129000:27500000:1:2:282:2:0
+	s 11612000:23000000:0:2:282:2:0:1:2:0:2
 /
 011aaffd:07ee:0002
 	s 12285000:27500000:1:2:282:2:0
 /
 end
 services
-0f3a:011a0000:07d2:0002:0:0
-
-p:
-1034:011a0000:07d2:0002:4:0
-Anytime
-p:BSkyB
-0f00:011a0000:07d2:0002:25:0
-VICELAND HD
-p:BSkyB
-0f05:011a0000:07d2:0002:25:0
-LFCTV HD
-p:BSkyB
-1007:011a0000:07d2:0002:25:0
-SkyAtlntcVIPHD
-p:BSkyB
-0f28:011a0000:07d2:0002:25:0
-Universal HD
-p:BSkyB
-0f2c:011a0000:07d2:0002:25:0
-Syfy HD
-p:BSkyB
-0f44:011a0000:07d2:0002:25:0
-E! HD
-p:BSkyB
-0f52:011a0000:07d2:0002:25:0
-Dave HD
-p:BSkyB
-29fe:011a0000:07d2:0002:25:0
-10750
-p:BSkyB
-0ed9:011a0000:07ee:0002:0:0
-
-p:
-1034:011a0000:07ee:0002:4:0
-Anytime
-p:BSkyB
-0f7d:011a0000:07ee:0002:25:0
-3965
-p:BSkyB,c:050001
-232a:011a0000:07ee:0002:31:0
-Ultra HD
-p:BSkyB
 2400:011a0000:07f9:0002:1:0
-Channel 4
-p:BSkyB
+Channel 4 Scotland
+p:Sky Digital/Freesat,c:00092b,c:01092c,c:020930,c:03092b
 2404:011a0000:07f9:0002:1:0
 Film4
-p:BSkyB
-2409:011a0000:07f9:0002:1:0
-Film4 +1
-p:BSkyB
+p:Sky Digital/Freesat,c:000931,c:010932,c:020937,c:030931
 240e:011a0000:07f9:0002:1:0
-More4 +1
-p:BSkyB
-2418:011a0000:07f9:0002:1:0
-4Music
-p:BSkyB
-2441:011a0000:07f9:0002:1:0
-c4 l
-p:BSkyB
+More4+1
+p:Sky Digital/Freesat,c:00093f,c:010940,c:020947,c:03093f
+2419:011a0000:07f9:0002:1:0
+E4
+p:Sky Digital/Freesat,c:000944,c:010945,c:030944
+241d:011a0000:07f9:0002:1:0
+Channel 4+1 (ROI)
+p:Sky Digital/Freesat,c:000902,c:010903,c:030902
 23fb:011a0000:07f9:0002:1:0
-Channel 4
-p:BSkyB
+Channel 4 London
+p:Sky Digital/Freesat,c:00090b,c:01090c,c:020913,c:03090b
+2422:011a0000:07f9:0002:1:0
+E4+1 (ROI)
+p:Sky Digital/Freesat
 23fc:011a0000:07f9:0002:1:0
-Channel 4
-p:BSkyB
+Channel 4 South & East
+p:Sky Digital/Freesat,c:000917,c:010918,c:02091d,c:030917
 23fd:011a0000:07f9:0002:1:0
-Channel 4
-p:BSkyB
+Channel 4 Midlands
+p:Sky Digital/Freesat,c:00091c,c:01091d,c:020921,c:03091c
 23fe:011a0000:07f9:0002:1:0
-Channel 4
-p:BSkyB
-23ff:011a0000:07f9:0002:1:0
-Channel 4
-p:BSkyB
-2800:011a0000:0806:0002:1:0
-ITV
-p:BSkyB
+Channel 4 North
+p:Sky Digital/Freesat,c:000921,c:010922,c:020926,c:030921
+240f:011a0000:07f9:0002:1:0
+More4 (Ireland)
+p:Sky Digital/Freesat,c:000912,c:010914,c:020915,c:030912
+cc1a:011a0000:083d:0002:1:0
+Syfy
+p:Sky Digital,c:00091f,c:010920,c:03091f
+cc1f:011a0000:083d:0002:1:0
+Universal (UK)
+p:Sky Digital,c:000913,c:010914,c:030913
+cc24:011a0000:083d:0002:1:0
+Universal (Ireland)
+p:Sky Digital,c:000915,c:010916,c:030915
+cc29:011a0000:083d:0002:1:0
+Movies 24
+p:Sky Digital,c:000917,c:010918,c:030917
+cc2e:011a0000:083d:0002:1:0
+Movies 24+
+p:Sky Digital,c:000919,c:01091a,c:030919
+cc38:011a0000:083d:0002:1:0
+Syfy+1
+p:Sky Digital,c:000924,c:010925,c:030924
+cbfc:011a0000:083d:0002:1:0
+Universal+1
+p:Sky Digital,c:000911,c:010912,c:030911
+cc48:011a0000:083d:0002:1:0
+S4C HD
+p:Sky Digital/Freesat,c:00092e,c:01092f,c:03092e
+cc42:011a0000:083d:0002:1:0
+Motorsport.tv UK
+p:Sky Digital/Freesat,c:00093d,c:01093e,c:03093d
+cc01:011a0000:083d:0002:1:0
+E! (Ireland)
+p:Sky Digital,c:00092b,c:010935,c:03092b
+cc06:011a0000:083d:0002:1:1
+E! (UK)
+p:Sky Digital,c:000927,c:01092a,c:020929,c:030927
+d106:011a0000:0832:0002:1:0
+Channels 24
+p:Sky Digital/Freesat,c:00091c,c:01091d,c:03091c
+d115:011a0000:0832:0002:1:0
+GNTV (Africa)
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+d110:011a0000:0832:0002:1:0
+TJC
+p:Sky Digital/Freesat,c:000932,c:010933,c:030932
+d11a:011a0000:0832:0002:1:0
+Thane
+p:Sky Digital/Freesat,c:000938,c:010939,c:030938
+d11f:011a0000:0832:0002:1:0
+Gospel Channel
+p:Sky Digital/Freesat,c:00090b,c:01090c,c:03090b
+d12e:011a0000:0832:0002:1:0
+NOW 80s
+p:Sky Digital/Freesat,c:000922,c:010923,c:030922
+d138:011a0000:0832:0002:1:0
+SonLife Broadcasting Network
+p:Sky Digital/Freesat,c:000906,c:010908,c:030906
+d15e:011a0000:0832:0002:1:0
+CLTV
+p:Sky Digital/Freesat,c:000918,c:010919,c:030918
+d15f:011a0000:0832:0002:1:0
+CNC World
+p:Sky Digital/Freesat,c:00091a,c:01091b,c:03091a
+d101:011a0000:0832:0002:1:0
+Travel Ch+1
+p:Sky Digital/Freesat,c:000909,c:01090a,c:030909
+d124:011a0000:0832:0002:1:0
+Yanga! (Nigeria)
+p:Sky Digital/Freesat,c:000912,c:010913,c:030912
+d129:011a0000:0832:0002:1:0
+Ideal World
+p:Sky Digital/Freesat,c:00091c,c:01091d,c:03091c
+d136:011a0000:0832:0002:1:0
+Takbeer TV
+p:Sky Digital/Freesat,c:00091e,c:01091f,c:03091e
+d13d:011a0000:0832:0002:1:0
+Create & Craft
+p:Sky Digital/Freesat,c:000920,c:010921,c:030920
+d133:011a0000:0832:0002:1:0
+Ideal Extra
+p:Sky Digital/Freesat,c:000915,c:010916,c:030915
+d10b:011a0000:0832:0002:1:0
+Vintage TV
+p:Sky Digital/Freesat,c:00090e,c:01090f,c:03090e
+d158:011a0000:0832:0002:1:0
+Climax 3
+p:Sky Digital,c:000a4e,c:010a4f,c:030a4e
+1519:011a0000:07e7:0002:1:0
+Sky Sports Golf (UK)
+p:Sky Digital,c:000202,c:010282,c:020242,c:031ffe
+151a:011a0000:07e7:0002:1:0
+Fox+1
+p:Sky Digital,c:000205,c:010285,c:020242,c:031ffe
+1325:011a0000:07e7:0002:1:0
+Sky Atlantic (Ireland)
+p:Sky Digital,c:000209,c:010289,c:031ffe
+132a:011a0000:07e7:0002:1:0
+Sky Sports Box Office
+p:Sky Digital,c:000208,c:010288,c:031ffe
+132d:011a0000:07e7:0002:1:0
+Sky Sports News (ROI)
+p:Sky Digital,c:000200,c:010280,c:020244,c:031ffe
+164f:011a0000:07e7:0002:1:0
+Sky Atlantic
+p:Sky Digital,c:00020a,c:01028b,c:020244,c:031ffe
+1650:011a0000:07e7:0002:1:0
+Sky Witness+1 (UK)
+p:Sky Digital,c:00020b,c:01029f,c:020249,c:031ffe
+1651:011a0000:07e7:0002:1:0
+Eurosport 1
+p:Sky Digital,c:00020c,c:01028d,c:02024a,c:031ffe
+1652:011a0000:07e7:0002:1:0
+TCM
+p:Sky Digital,c:00020d,c:01028e,c:02024b,c:031ffe
+1391:011a0000:07e7:0002:1:0
+Eurosport 2
+p:Sky Digital,c:000207,c:010287,c:020247,c:031ffe
+132b:011a0000:07e7:0002:1:0
+Sky Sports News (UK)
+p:Sky Digital,c:000201,c:010281,c:031ffe,C:0000
+1332:011a0000:07e7:0002:1:0
+Sky Sports Main Events (Ireland)
+p:Sky Digital,c:000203,c:010298,c:031ffe,C:0000
+17e0:011a0000:07e7:0002:1:0
+Nickelodeon
+p:Sky Digital,c:00020e,c:0102a1,c:02024e,c:031ffe
+17e2:011a0000:07e7:0002:1:1
+Nickelodeon+1
+p:Sky Digital,c:00020f,c:010290,c:02024f,c:031ffe
+159c:011a0000:07e7:0002:1:0
+Sky News Arabia
+p:Sky Digital/Freesat,c:000206,c:010286,c:031ffe
+132e:011a0000:07e7:0002:1:0
+Sky Sp News (Pubs)
+p:Sky Digital,c:000201,c:010281,c:031ffe,C:0000
+0f08:011a0000:07e7:0002:1:0
+SkySp F'ball (Pubs)
+p:Sky Digital,c:000204,c:010291,c:02024d,c:031ffe
+1073:011a0000:07e7:0002:1:1
+SkySp News
+p:Sky Digital,c:000200,c:010280,c:020240,c:031ffe
+109f:011a0000:07e7:0002:1:2
+SkySpMainEv
+p:Sky Digital,c:000203,c:010298,c:020243,c:031ffe
+14bc:011a0000:07e7:0002:1:0
+S1Test
+p:Sky Digital,c:000203,c:010283,c:031ffe
+14bd:011a0000:07e7:0002:1:0
+S1Test
+p:Sky Digital,c:000203,c:010283,c:031ffe
+151c:011a0000:07e7:0002:1:0
+Sky Sports Golf (Pubs)
+p:Sky Digital,c:000202,c:010296,c:020242,c:031ffe
+0efe:011a0000:07e7:0002:1:0
+Sky Sports Football (UK)
+p:Sky Digital,c:000204,c:010284,c:02024d,c:031ffe
+159a:011a0000:07e7:0002:1:0
+Pick (ROI)
+p:Sky Digital/Freesat,c:000210,c:010293,c:020250,c:031ffe
+0585:011a0000:07e7:0002:1:0
+Sky Atlantic +1
+p:Sky Digital,c:000211,c:010295,c:020251,c:031ffe
+157f:011a0000:07e7:0002:1:0
+5503
+p:Sky Digital
+5302:011a0000:0814:0002:1:0
+4 Seven
+p:Sky Digital/Freesat,c:00090c,c:01090d,c:02090e,c:03090c
+52d0:011a0000:0814:0002:1:0
+Channel 4 HD
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+c418:011a0000:0837:0002:1:0
+Cartoon Network
+p:Sky Digital,c:000901,c:010903,c:020904,c:030901
+c41d:011a0000:0837:0002:1:1
+Boomerang
+p:Sky Digital,c:000906,c:010907,c:020908,c:030906
+c422:011a0000:0837:0002:1:2
+Boomerang+1
+p:Sky Digital,c:000909,c:01090b,c:02090c,c:030909
+c427:011a0000:0837:0002:1:3
+Cartoon Network+1
+p:Sky Digital,c:00090e,c:01090f,c:020910,c:03090e
+c42c:011a0000:0837:0002:1:4
+CNN International Europe
+p:Sky Digital/Freesat,c:000911,c:010912,c:020913,c:030911
+c472:011a0000:0837:0002:1:5
+CNN International HD
+p:Sky Digital/Freesat,c:000914,c:010916,c:030914
+d322:011a0000:0836:0002:1:0
+Television X - The Fantasy Channel
+p:Sky Digital,c:000905,c:010906,c:030905
+d32d:011a0000:0836:0002:1:0
+Zee TV
+p:Sky Digital,c:000917,c:010918,c:030917
+d32e:011a0000:0836:0002:1:0
+&TV
+p:Sky Digital,c:00091b,c:01091d,c:03091b
+d326:011a0000:0836:0002:1:0
+X Rated 40+
+p:Sky Digital,c:00090f,c:010910,c:03090f
+d324:011a0000:0836:0002:1:1
+X Rated Hookups
+p:Sky Digital,c:000907,c:010908,c:030907
+d327:011a0000:0836:0002:1:0
+X Rated Couples
+p:Sky Digital,c:000909,c:01090a,c:030909
+d329:011a0000:0836:0002:1:1
+Price Crash !
+p:Sky Digital/Freesat
+d32a:011a0000:0836:0002:1:2
+Shop Now TV
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+d32f:011a0000:0836:0002:1:0
+Jus Punjabi
+p:Sky Digital/Freesat,c:000911,c:010912,c:030911
+d328:011a0000:0836:0002:1:0
+holiday & cruise
+p:Sky Digital/Freesat
+d86d:011aad5c:0833:0002:25:1
+Record TV HD
+p:Sky Digital/Freesat,c:000911,c:010912,c:030911
+d868:011aad5c:0833:0002:25:0
+Iran International HD
+p:Sky Digital/Freesat,c:000904,c:010905,c:030904
+d877:011aad5c:0833:0002:25:0
+Al Jazeera English HD
+p:Sky Digital/Freesat,c:000903,c:010901,c:030903
+d863:011a0000:0838:0002:25:0
+Box Nation HD
+p:Sky Digital,c:000922,c:010923,c:030922
+d804:011a0000:0838:0002:25:0
+Colors HD
+p:Sky Digital,c:000901,c:010902,c:030901
+d809:011a0000:0838:0002:25:0
+Daystar HD
+p:Sky Digital/Freesat,c:000905,c:010906,c:030905
+d860:011a0000:0838:0002:25:0
+Bloomberg HD
+p:Sky Digital/Freesat,c:00091f,c:010920,c:03091f
+0f49:011a0000:07ed:0002:25:0
+SkySpCricketHD (Pubs)
+p:Sky Digital,c:000201,c:010281,c:030201
+0f50:011a0000:07ed:0002:25:1
+Lifetime HD
+p:Sky Digital,c:000203,c:010282,c:030203
+0f66:011a0000:07ed:0002:25:0
+SkySp F'ball HD (Pubs)
+p:Sky Digital
+0cc8:011a0000:07ed:0002:25:0
+More 4 HD
+p:Sky Digital,c:000204,c:010287,c:030204
+0cc7:011a0000:07ed:0002:25:0
+Chelsea TV HD
+p:Sky Digital,c:000202,c:010283,c:030202
+0f69:011a0000:07ed:0002:25:0
+SkySp ArenaHD (Pubs)
+p:Sky Digital
+0fa4:011a0000:07ed:0002:25:2
+SkySp Golf HD (Pubs)
+p:Sky Digital,c:000201,c:010281,c:030201
+0fa3:011a0000:07ed:0002:25:0
+SkySpMainEvHD (Pubs)
+p:Sky Digital
+0fc4:011a0000:07ed:0002:25:3
+SkySp News HD
+p:Sky Digital,c:000201,c:010281,c:030201
+0fc8:011a0000:07ed:0002:25:4
+Sky Sports Premier League HD (ROI)
+p:Sky Digital,c:000205,c:010285,c:030205
+0ffe:011a0000:07ed:0002:25:5
+SkySp PL HD (ROI Pubs)
+p:Sky Digital,c:000205,c:010285,c:030205
+106a:011a0000:07ed:0002:25:0
+SkySp F1 HD (Pubs)
+p:Sky Digital
+0fa1:011a0000:07ed:0002:25:0
+SkySp ActionHD (Pubs)
+p:Sky Digital
+0fab:011a0000:07ed:0002:25:0
+Sky Sports Premier League HD (Pubs)
+p:Sky Digital,c:000205,c:010285,c:030205
 280f:011a0000:0806:0002:1:0
-ITV +1
-p:BSkyB
+ITV Granada+1
+p:Sky Digital/Freesat,c:00094b,c:01094c,c:03094b
 2814:011a0000:0806:0002:1:0
 ITV3
-p:BSkyB
+p:Sky Digital/Freesat,c:000d14,c:010d15,c:020945,c:030d14
 2815:011a0000:0806:0002:1:0
 ITV3+1
-p:BSkyB
-2819:011a0000:0806:0002:1:0
-ITV Encore+1
-p:BSkyB
+p:Sky Digital/Freesat,c:000d18,c:010d19,c:02094e,c:030d18
+27f7:011a0000:0806:0002:1:0
+UTV+1
+p:Sky Digital/Freesat,c:00090e,c:010908,c:03090e
+2800:011a0000:0806:0002:1:0
+ITV Westcountry South West
+p:Sky Digital/Freesat,c:000904,c:010901,c:030904
 27d8:011a0000:0806:0002:1:0
-ITV
-p:BSkyB
+ITV Channel Islands
+p:Sky Digital/Freesat,c:000d00,c:010d01,c:02090c,c:030d00
 27e2:011a0000:0806:0002:1:0
-STV
-p:BSkyB
+STV North
+p:Sky Digital/Freesat,c:000d04,c:010d05,c:02092b,c:030d04
 27ec:011a0000:0806:0002:1:0
-STV
-p:BSkyB
+STV West
+p:Sky Digital/Freesat,c:000d08,c:010d09,c:020933,c:030d08
 27ed:011a0000:0806:0002:1:0
-STV
-p:BSkyB
+STV East
+p:Sky Digital/Freesat,c:000d0c,c:010d0d,c:02095a,c:030d0c
 27f1:011a0000:0806:0002:1:0
-STV
-p:BSkyB,f:01
+STV East+1
+p:Sky Digital/Freesat,c:000946,c:01094a,c:030946
 27f6:011a0000:0806:0002:1:0
-UTV
-p:BSkyB
+UTV (Ulster)
+p:Sky Digital/Freesat,c:000d10,c:010d11,c:02093c,c:030d10
 27fe:011a0000:0806:0002:2:0
-talkSPORT
-p:BSkyB
-0b01:011a0000:07e9:0002:1:0
-be3
-p:BSkyB
-1804:011a0000:07e9:0002:1:0
-Zing
-p:BSkyB
-1808:011a0000:07e9:0002:1:0
+Talk Sport
+p:Sky Digital/Freesat,c:010d1b,c:030d1b
+2584:011a0000:07d7:0002:1:0
+TV3+1 (Ireland)
+p:Sky Digital,c:00020c,c:01028c,c:031ffe
+1789:011a0000:07d7:0002:1:0
+Real Lives+1
+p:Sky Digital,c:00020b,c:01029f,c:02024b,c:031ffe
+178a:011a0000:07d7:0002:1:0
+Challenge+1 (UK)
+p:Sky Digital/Freesat,c:00020d,c:0102a1,c:02024d,c:031ffe
+0e1f:011a0000:07d7:0002:1:0
+3e
+p:Sky Digital,c:00020f,c:01028f,c:031ffe
+13fb:011a0000:07d7:0002:1:0
+Viceland
+p:Sky Digital,c:000202,c:010282,c:031ffe
+178f:011a0000:07d7:0002:1:0
+Challenge (UK)
+p:Sky Digital/Freesat,c:00020a,c:01029e,c:02024a,c:031ffe
+1791:011a0000:07d7:0002:1:0
+Forces TV
+p:Sky Digital/Freesat,c:000209,c:010289,c:031ffe
+177b:011a0000:07d7:0002:1:0
+Crime+Inv+1
+p:Sky Digital,c:000208,c:010288,c:031ffe
+15ad:011a0000:07d7:0002:1:0
+History UK
+p:Sky Digital,c:000200,c:010280,c:031ffe
+15ae:011a0000:07d7:0002:1:1
+History UK +1
+p:Sky Digital,c:000201,c:010281,c:031ffe
+15b7:011a0000:07d7:0002:1:0
 Zee Cinema
+p:Sky Digital,c:000210,c:010292,c:031ffe
+15af:011a0000:07d7:0002:1:2
+H2 UK
+p:Sky Digital,c:000203,c:010283,c:031ffe
+15b0:011a0000:07d7:0002:1:3
+Nat Geo UK
+p:Sky Digital,c:000204,c:010285,c:020240,c:031ffe
+15b1:011a0000:07d7:0002:1:4
+Nat Geo UK+1
+p:Sky Digital,c:000205,c:010287,c:020241,c:031ffe
+15b2:011a0000:07d7:0002:1:5
+Crime+Investigation UK
+p:Sky Digital,c:000206,c:010290,c:031ffe
+15b3:011a0000:07d7:0002:1:6
+Nat Geo Wild UK
+p:Sky Digital,c:000207,c:010291,c:031ffe
+15b6:011a0000:07d7:0002:1:0
+Living Foodz
+p:Sky Digital,c:000211,c:010293,c:031ffe
+15b8:011a0000:07d7:0002:1:0
+MUTV
+p:Sky Digital
+15b9:011a0000:07d7:0002:1:0
+Zing UK
+p:Sky Digital
+1612:011a0000:07dc:0002:1:0
+Sky Cinema Modern Greats
+p:Sky Digital,c:000204,c:010284,c:020910,c:031ffe
+1133:011a0000:07dc:0002:1:0
+Sky Cinema Family
+p:Sky Digital,c:000208,c:010288,c:020243,c:031ffe
+1134:011a0000:07dc:0002:1:0
+Sky Cinema Premiere
+p:Sky Digital,c:000205,c:010285,c:020248,c:031ffe
+1135:011a0000:07dc:0002:1:0
+Sky Cinema Premiere+1
+p:Sky Digital,c:000209,c:01029d,c:02090c,c:031ffe
+11ad:011a0000:07dc:0002:1:0
+Sky Intro
+p:Sky Digital,c:00020b,c:01028b,c:031ffe
+1136:011a0000:07dc:0002:1:0
+Sky Cinema Crime & Thriller
+p:Sky Digital,c:00020a,c:01029e,c:02090e,c:031ffe
+157e:011a0000:07dc:0002:1:0
+Sky Cinema Drama & Romance
+p:Sky Digital,c:000203,c:010283,c:020911,c:031ffe
+10ce:011a0000:07dc:0002:1:0
+Sky Cinema Action & Adventure
+p:Sky Digital,c:000207,c:010287,c:02090d,c:031ffe
+10cf:011a0000:07dc:0002:1:0
+Sky Cinema Family
+p:Sky Digital,c:000206,c:010286,c:020244,c:031ffe
+10d0:011a0000:07dc:0002:1:0
+Sky Cinema Sci-Fi & Horror
+p:Sky Digital,c:000200,c:010280,c:02090f,c:031ffe
+10d2:011a0000:07dc:0002:1:0
+Sky Cinema Select
+p:Sky Digital,c:000202,c:010282,c:020242,c:031ffe
+10d4:011a0000:07dc:0002:1:0
+Sky Cinema Disney
+p:Sky Digital,c:000201,c:010281,c:031ffe
+041e:011a0000:07dc:0002:2:0
+ETFG
+p:Sky Digital,c:010063,c:031fff
+15b4:011a0000:07dc:0002:1:0
+Real Lives
+p:Sky Digital,c:00020e,c:010290,c:031ffe
+12c4:011a0000:07dc:0002:1:0
+At The Races UK
+p:Sky Digital,c:00020f,c:010292,c:031ffe
+17ea:011a0000:07dc:0002:1:0
+Ginx eSports TV
+p:Sky Digital,c:00020d,c:01028e,c:031ffe
+1810:011a0000:07dc:0002:1:0
+Challenge (Ireland)
+p:Sky Digital,c:00020c,c:010290,c:03020c
+11a3:011a0000:07dc:0002:1:0
+Sky Intro
+p:Sky Digital,c:00020b,c:01028b,c:031ffe
+138c:011a0000:07dc:0002:1:0
+Sky Intro
+p:Sky Digital,c:00020b,c:01028b,c:031ffe
+0f37:011a0000:07dc:0002:1:0
+Sky On Demand B
+p:Sky Digital,c:000207,c:01028e,c:020242,c:031ffe
+100c:011a0000:07dc:0002:1:0
+Sky Atlantic VIP
+p:Sky Digital,c:000207,c:01028f,c:030207
+1e15:011a0000:0809:0002:1:0
+5
+p:Sky Digital/Freesat,c:00092a,c:01092b,c:02092d,c:03092a
+1e1e:011a0000:0809:0002:1:0
+5 USA
+p:Sky Digital/Freesat,c:000915,c:010916,c:030915
+1e1f:011a0000:0809:0002:1:0
+5 USA+1
+p:Sky Digital/Freesat,c:00091d,c:01091e,c:03091d
+1e23:011a0000:0809:0002:1:0
+5 Star
+p:Sky Digital/Freesat,c:000919,c:01091a,c:030919
+1e24:011a0000:0809:0002:1:0
+5 Select
+p:Sky Digital/Freesat,c:000921,c:010922,c:030921
+1e25:011a0000:0809:0002:1:0
+5 Star+1
+p:Sky Digital/Freesat,c:000925,c:010926,c:030925
+1e28:011a0000:0809:0002:1:0
+5+1
+p:Sky Digital/Freesat,c:000911,c:010912,c:020914,c:030911
+1e32:011a0000:0809:0002:1:0
+5Spike
+p:Sky Digital/Freesat,c:000938,c:010939,c:030938
+1e46:011a0000:0809:0002:1:0
+5 HD
+p:Sky Digital/Freesat,c:000901,c:010902,c:020904,c:030901,c:050001
+1e33:011a0000:0809:0002:1:0
+5Spike+1
+p:Sky Digital/Freesat,c:000932,c:010933,c:030932
+cd14:011a0000:0844:0002:1:0
+Food Network
+p:Sky Digital/Freesat,c:000909,c:01090a,c:030909
+cd4c:011a0000:0844:0002:1:0
+Freesports
+p:Sky Digital/Freesat,c:000903,c:010904,c:030903
+cd19:011a0000:0844:0002:1:0
+PBS America
+p:Sky Digital/Freesat,c:00091b,c:01091c,c:03091b
+cd28:011a0000:0844:0002:1:0
+Gems TV
+p:Sky Digital/Freesat,c:000918,c:010919,c:030918
+cd1e:011a0000:0844:0002:1:0
+Food Network+1
+p:Sky Digital/Freesat,c:00090d,c:01090e,c:03090d
+cd5a:011a0000:0844:0002:1:0
+France 24 HD
+p:Sky Digital/Freesat,c:00091f,c:010920,c:03091f
+cd4e:011a0000:0844:0002:1:0
+Craft Extra
+p:Sky Digital/Freesat,c:000914,c:010915,c:030914
+cd50:011a0000:0844:0002:1:0
+France 24 (in English)
+p:Sky Digital/Freesat,c:000972,c:010975,c:030972
+cd5f:011a0000:0844:0002:1:0
+TV5 Monde
+p:Sky Digital/Freesat,c:000976,c:010977,c:020978,c:030976
+cd64:011a0000:0844:0002:1:0
+Quest HD
+p:Sky Digital/Freesat,c:000901,c:010905,c:030901
+1915:011a0000:07ff:0002:1:0
+BBC One Scotland
+p:Sky Digital/Freesat,c:001388,c:011389,c:02138b,c:031388
+1916:011a0000:07ff:0002:1:0
+BBC Two Scotland
+p:Sky Digital/Freesat,c:0013ec,c:0113ed,c:0213ef,c:0313ec
+1917:011a0000:07ff:0002:1:0
+BBC Alba
+p:Sky Digital/Freesat,c:001450,c:011451,c:021453,c:031450
+1929:011a0000:07ff:0002:1:0
+BBC One North West
+p:Sky Digital/Freesat,c:001644,c:011645,c:021647,c:031644
+1933:011a0000:07ff:0002:1:0
+BBC One Yorkshire & North Midlands
+p:Sky Digital/Freesat,c:0016a8,c:0116a9,c:0216ab,c:0316a8
+193d:011a0000:07ff:0002:1:0
+BBC One South East
+p:Sky Digital/Freesat,c:00170c,c:01170d,c:02170f,c:03170c
+1947:011a0000:07ff:0002:1:0
+BBC One North East and Cumbria
+p:Sky Digital/Freesat,c:0015e0,c:0115e1,c:0215e3,c:0315e0
+1901:011a0000:07ff:0002:2:0
+BBC R Five Live
+p:Sky Digital/Freesat,c:011771,c:031771
+1932:011a0000:07ff:0002:2:0
+BBC R1
+p:Sky Digital/Freesat,c:011839,c:031839
+1934:011a0000:07ff:0002:2:0
+BBC R2
+p:Sky Digital/Freesat,c:01189d,c:03189d
+193c:011a0000:07ff:0002:2:0
+BBC Asian Network
+p:Sky Digital/Freesat,c:011901,c:031901
+1940:011a0000:07ff:0002:2:0
+BBC R Five Live Sports Extra
+p:Sky Digital/Freesat,c:0117d5,c:0317d5
+1942:011a0000:07ff:0002:2:0
+BBC R1 Extra
+p:Sky Digital/Freesat,c:011965,c:031965
+1946:011a0000:07ff:0002:2:0
+BBC R London 94.9 FM
+p:Sky Digital/Freesat,c:0119c9,c:0319c9
+1936:011a0000:07ff:0002:2:0
+BBC R Cymru 2
+p:Sky Digital/Freesat,c:011a2d,c:031a2d
+17d8:011a0000:07db:0002:1:0
+Baby TV
+p:Sky Digital,c:000207,c:01028b,c:031ffe
+107c:011a0000:07db:0002:1:0
+Sky Sports Arena (ROI)
+p:Sky Digital,c:000203,c:010284,c:020242,c:031ffe
+238d:011a0000:07db:0002:1:0
+Disney XD
+p:Sky Digital,c:000911,c:010913,c:020914,c:030911
+238e:011a0000:07db:0002:1:0
+Disney Chnl
+p:Sky Digital,c:000907,c:010909,c:02090a,c:030907
+238f:011a0000:07db:0002:1:0
+Disney Junior
+p:Sky Digital,c:00090c,c:01090d,c:02090f,c:03090c
+2390:011a0000:07db:0002:1:0
+Disney XD+1
+p:Sky Digital,c:00091b,c:01091d,c:02091e,c:03091b
+2391:011a0000:07db:0002:1:0
+Disney Chnl+1
+p:Sky Digital,c:000916,c:010917,c:020919,c:030916
+2392:011a0000:07db:0002:1:0
+Disney Junior+
+p:Sky Digital ©DirtyDonki Settings,c:000920,c:010922,c:020923,c:030920
+0f02:011a0000:07db:0002:1:0
+Sky Sports Arena (ROI)
+p:Sky Digital,c:000203,c:010284,c:020242,c:031ffe
+15a4:011a0000:07db:0002:1:0
+RTÉ One +1
+p:Sky Digital,c:000936,c:010937,c:030900
+15a1:011a0000:07db:0002:1:0
+RTÉ One
+p:Sky Digital,c:00092b,c:01092a,c:03092b
+15a2:011a0000:07db:0002:1:0
+RTÉ Two
+p:Sky Digital,c:00092c,c:01092f,c:03092c
+15a3:011a0000:07db:0002:1:0
+TG4
+p:Sky Digital,c:000910,c:01091f,c:030910
+15a6:011a0000:07db:0002:1:0
+RTÉ News Now
+p:Sky Digital,c:000932,c:010933,c:030932
+15a7:011a0000:07db:0002:1:0
+RTÉ Junior
+p:Sky Digital,c:00093e,c:01093f,c:030900
+15a5:011a0000:07db:0002:1:0
+Oireachtas TV
+p:Sky Digital,c:00093b,c:01093c,c:030900
+1089:011a0000:07db:0002:1:0
+Sky Sports Golf (ROI)
+p:Sky Digital,c:000204,c:010286,c:020243,c:031ffe
+15a8:011a0000:07db:0002:2:0
+RTÉ Radio 1
+p:Sky Digital,c:010905,c:030900
+15a9:011a0000:07db:0002:2:1
+RTÉ 2FM
+p:Sky Digital,c:010924,c:030900
+15aa:011a0000:07db:0002:2:2
+RTÉ Lyric FM
+p:Sky Digital,c:010925,c:030900
+15ab:011a0000:07db:0002:2:3
+RTÉ RnaG
+p:Sky Digital,c:010931,c:030900
+151b:011a0000:07db:0002:1:0
+SkySp Golf
+p:Sky Digital,c:000204,c:010286,c:020243,c:031ffe
+d031:011a0000:083f:0002:1:0
+BT Sport Mosaic 2
+p:Sky Digital,c:000938,c:010939,c:030938
+cfe4:011a0000:083f:0002:1:0
+BT Sport Extra 2
+p:Sky Digital,c:000942,c:010943,c:030942
+cfee:011a0000:083f:0002:1:1
+BT Sport Extra 3
+p:Sky Digital,c:000944,c:010945,c:030944
+cff8:011a0000:083f:0002:1:2
+BT Sport Extra 4
+p:Sky Digital,c:000946,c:010947,c:030946
+d002:011a0000:083f:0002:1:3
+BT Sport Extra 5
+p:Sky Digital,c:000948,c:010949,c:030948
+d00c:011a0000:083f:0002:1:4
+BT Sport Extra 6
+p:Sky Digital,c:00094a,c:01094b,c:03094a
+cfda:011a0000:083f:0002:1:0
+At The Races (Ireland)
+p:Sky Digital,c:000905,c:010903,c:030905
+d025:011a0000:083f:0002:1:0
+BT Sport ESPN (UK & ROI)
+p:Sky Digital,c:00090a,c:01090d,c:03090a
+d020:011a0000:083f:0002:1:0
+BT Sport 2 (UK & ROI)
+p:Sky Digital,c:000906,c:010907,c:030906
+cfd0:011a0000:083f:0002:1:0
+Studio 66 TV1
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+cfd5:011a0000:083f:0002:1:0
+Box Nation
+p:Sky Digital,c:000916,c:010917,c:030916
+d01c:011a0000:083f:0002:1:0
+53276
+p:Sky Digital/Freesat,c:000903,c:010904,c:030903
+d02a:011a0000:083f:0002:1:0
+Paramount Network
+p:Sky Digital/Freesat,c:000919,c:01091a,c:030919
+cfdf:011a0000:083f:0002:1:0
+Get Lucky
+p:Sky Digital/Freesat,c:000913,c:010914,c:030913
+d021:011a0000:083f:0002:1:0
+BT Sport 2 (Pubs)
+p:Sky Digital,c:000906,c:010907,c:030906
+d026:011a0000:083f:0002:1:0
+BT Sport ESPN (Pubs)
+p:Sky Digital,c:00090a,c:01090d,c:03090a
+cfe0:011a0000:083f:0002:1:0
+Psychic Today
+p:Sky Digital/Freesat,c:000913,c:010914,c:030913
+051a:011a0000:07e5:0002:1:0
+Sky Sports F1 (UK & ROI)
+p:Sky Digital,c:000208,c:01029c,c:020248,c:031ffe
+17e6:011a0000:07e5:0002:1:0
+Lifetime+1
+p:Sky Digital,c:00020f,c:01028f,c:031ffe
+1298:011a0000:07e5:0002:1:0
+TV3 (Ireland)
+p:Sky Digital,c:000205,c:010285,c:031ffe
+1657:011a0000:07e5:0002:1:0
+Sky Arts
+p:Sky Digital,c:00020b,c:01028b,c:02024b,c:031ffe
+1658:011a0000:07e5:0002:1:0
+Sky Cinema Hits
+p:Sky Digital,c:00020c,c:0102a0,c:02024c,c:031ffe
+125d:011a0000:07e5:0002:1:0
+Sky One (UK)
+p:Sky Digital,c:00020a,c:01028a,c:02024a,c:031ffe
+119f:011a0000:07e5:0002:1:0
+SkySp Action (Pubs)
+p:Sky Digital,c:000201,c:010281,c:031ffe
+1076:011a0000:07e5:0002:1:0
+Sky Sports Main Event (UK)
+p:Sky Digital,c:000207,c:010283,c:020245,c:031ffe
+057b:011a0000:07e5:0002:1:0
+Sky One (UK)+1
+p:Sky Digital,c:000209,c:010289,c:031ffe
+107b:011a0000:07e5:0002:1:0
+Sky Sports Action (UK & ROI)
+p:Sky Digital,c:000201,c:010281,c:020241,c:031ffe
+158b:011a0000:07e5:0002:1:0
+Fox
+p:Sky Digital,c:000200,c:010280,c:020240,c:031ffe
+159f:011a0000:07e5:0002:1:0
+Comedy Central Extra UK
+p:Sky Digital,c:000211,c:010275,c:031ffe
+15b5:011a0000:07e5:0002:1:0
+Sky Sports Premier League (UK)
+p:Sky Digital,c:000210,c:010291,c:031ffe
+1591:011a0000:07e5:0002:1:0
+Cartoonito
+p:Sky Digital,c:000206,c:010286,c:020246,c:031ffe
+1794:011a0000:07e5:0002:1:0
+Sky Witness (Ireland)
+p:Sky Digital,c:000202,c:010282,c:031ffe
+1798:011a0000:07e5:0002:1:0
+Comedy Central
+p:Sky Digital,c:000207,c:010287,c:020247,c:031ffe
+17de:011a0000:07e5:0002:1:0
+Sky Living+1 (Ireland)
+p:Sky Digital,c:00020e,c:0102a2,c:02024e,c:031ffe
+17e4:011a0000:07e5:0002:1:1
+Nick Jr.
+p:Sky Digital,c:00020d,c:0102a1,c:02024d,c:031ffe
+051b:011a0000:07e5:0002:1:0
+SkySp F1 (Pubs)
+p:Sky Digital,c:000208,c:01029c,c:020248,c:031ffe
+0eff:011a0000:07e5:0002:1:0
+Sky Sports Arena (UK)
+p:Sky Digital,c:000204,c:010284,c:020245,c:031ffe
+1078:011a0000:07e5:0002:1:0
+Sky Sports Main Event (Pubs)
+p:Sky Digital,c:000207,c:010283,c:020245,c:031ffe
+0f13:011a0000:07e5:0002:1:0
+Sky Sports Arena (Pubs)
+p:Sky Digital,c:000204,c:010284,c:020245,c:031ffe
+052e:011a0000:07e5:0002:1:0
+SkySp PL
+p:Sky Digital,c:000210,c:010292,c:02024f,c:031ffe
+0520:011a0000:07ea:0002:1:0
+Sky Sports Premier League (ROI)
+p:Sky Digital,c:000202,c:010282,c:031ffe
+0466:011a0000:07ea:0002:2:0
+1126
+p:Sky Digital/Freesat,c:010913,c:030913
+1581:011a0000:07ea:0002:1:0
+SkySpCricket (UK & ROI)
+p:Sky Digital,c:000205,c:010285,c:031ffe
+159d:011a0000:07ea:0002:1:0
+Sky Two (Ireland)
+p:Sky Digital,c:00020b,c:010292,c:031ffe
+159e:011a0000:07ea:0002:1:0
+be3
+p:Sky Digital,c:000211,c:010295,c:031ffe
+0fff:011a0000:07ea:0002:1:0
+Sky Sports Premier League (ROI)
+p:Sky Digital
+1653:011a0000:07ea:0002:1:0
+Sky Witness
+p:Sky Digital,c:00020c,c:0102a0,c:02024c,c:031ffe
+15a0:011a0000:07ea:0002:1:0
+Nicktoons
+p:Sky Digital,c:000210,c:010293,c:031ffe
+1654:011a0000:07ea:0002:1:0
+Lifetime
+p:Sky Digital,c:00020d,c:01028d,c:031ffe
+1260:011a0000:07ea:0002:1:0
+Sky News (UK)
+p:Sky Digital/Freesat,c:000200,c:010280,c:020240,c:031ffe
+1262:011a0000:07ea:0002:1:0
+Sky News (ROI)
+p:Sky Digital/Freesat,c:000201,c:010281,c:020241,c:031ffe
+128e:011a0000:07ea:0002:1:0
+Sky One (Ireland)
+p:Sky Digital,c:000208,c:010288,c:020248,c:031ffe
+128f:011a0000:07ea:0002:1:0
+Pick
+p:Sky Digital/Freesat,c:000206,c:01029a,c:020246,c:031ffe
+1290:011a0000:07ea:0002:1:0
+Sky Two (UK)
+p:Sky Digital,c:000207,c:010287,c:020247,c:031ffe
+1291:011a0000:07ea:0002:1:0
+Together
+p:Sky Digital/Freesat,c:000209,c:010289,c:020249,c:031ffe
+1292:011a0000:07ea:0002:2:0
+Sky News Radio
+p:Sky Digital/Freesat,c:01028a,c:03028a
+0fb6:011a0000:07ea:0002:1:0
+XXX OfficeGirls
+p:Sky Digital,c:000203,c:010283,c:031ffe
+13f3:011a0000:07ea:0002:1:0
+Pick+1
+p:Sky Digital/Freesat,c:000204,c:010284,c:020244,c:031ffe
+1806:011a0000:07ea:0002:1:0
+Sky Sports Mix
+p:Sky Digital,c:00020f,c:0102a3,c:020249,c:031ffe
+0f01:011a0000:07ea:0002:1:0
+Sky Sports Football (Ireland)
+p:Sky Digital,c:00020a,c:010903,c:031ffe
+0ffd:011a0000:07ea:0002:1:0
+Sky Sports Mix (Pubs)
+p:Sky Digital,c:00020f,c:0102a3,c:020249,c:031ffe
+0fb8:011a0000:07ea:0002:1:0
+MTV Beats
+p:Sky Digital,c:000912,c:010913,c:030901
+0f0f:011a0000:07ea:0002:1:0
+SkySp F'ball
+p:Sky Digital,c:00020a,c:010290,c:020243,c:031ffe
+053e:011a0000:07ea:0002:1:0
+SkySpCricket (Pubs)
+p:Sky Digital,c:000205,c:010299,c:031ffe
+107e:011a0000:07ea:0002:1:0
+Sky Sports Cricket
+p:Sky Digital,c:000205,c:010285,c:031ffe
+d03e:011a0000:083e:0002:1:0
+Scuzz
+p:Sky Digital/Freesat,c:000919,c:01091a,c:030919
+d039:011a0000:083e:0002:1:0
+Tru TV
+p:Sky Digital/Freesat,c:00092a,c:01092b,c:03092a
+d034:011a0000:083e:0002:1:0
+Tru TV+1
+p:Sky Digital/Freesat,c:000913,c:010914,c:030913
+d08e:011a0000:083e:0002:1:0
+Sony Crime+1 (UK)
+p:Sky Digital/Freesat,c:000900,c:010901,c:030900
+d043:011a0000:083e:0002:1:0
+Chart Show Hits
+p:Sky Digital/Freesat,c:00091b,c:01091c,c:03091b
+d048:011a0000:083e:0002:1:0
+True Movies
+p:Sky Digital/Freesat,c:000909,c:01090a,c:030909
+d04d:011a0000:083e:0002:1:0
+True Movies+1
+p:Sky Digital/Freesat Sky Digital ©DirtyDonki Setti,c:00090d,c:01090e,c:03090d
+d052:011a0000:083e:0002:1:0
+Tiny Pop
+p:Sky Digital/Freesat,c:000911,c:010912,c:030911
+d057:011a0000:083e:0002:1:0
+Starz TV
+p:Sky Digital/Freesat,c:000905,c:010906,c:030905
+d05c:011a0000:083e:0002:1:0
+Pop!
+p:Sky Digital/Freesat,c:00090b,c:01090c,c:03090b
+d061:011a0000:083e:0002:1:0
+Tiny Pop+1
+p:Sky Digital/Freesat,c:00091f,c:010920,c:03091f
+d066:011a0000:083e:0002:1:0
+Pop Max
+p:Sky Digital/Freesat,c:000921,c:010922,c:030921
+d06b:011a0000:083e:0002:1:0
+The Vault
+p:Sky Digital/Freesat,c:000915,c:010916,c:030915
+d070:011a0000:083e:0002:1:0
+Pop Max+1
+p:Sky Digital/Freesat,c:00091d,c:01091e,c:03091d
+d075:011a0000:083e:0002:1:0
+Chart Show TV
+p:Sky Digital/Freesat,c:000902,c:010903,c:030902
+d07a:011a0000:083e:0002:1:0
+Pop+1
+p:Sky Digital/Freesat,c:000923,c:010924,c:030923
+d07f:011a0000:083e:0002:1:0
+True Entertainment
+p:Sky Digital/Freesat,c:000925,c:010926,c:030925
+d084:011a0000:083e:0002:1:0
+True Entertainment+1
+p:Sky Digital/Freesat,c:000928,c:010929,c:030928
+d089:011a0000:083e:0002:1:0
+Sony Crime (UK)
+p:Sky Digital/Freesat,c:000904,c:010907,c:030904
+d093:011a0000:083e:0002:1:0
+Sony Crime 2
+p:Sky Digital/Freesat,c:00092d,c:01092e,c:03092d
+253d:011a0000:082f:0002:1:0
+Juwelo
+p:Sky Digital/Freesat,c:000917,c:010918,c:030917
+253b:011a0000:082f:0002:1:0
+Sewing Quarter
+p:Sky Digital/Freesat,c:000926,c:010927,c:030926
+d73e:011a0000:082f:0002:1:0
+High Street 2
+p:Sky Digital/Freesat,c:000930,c:010931,c:030930
+2540:011a0000:082f:0002:1:0
+Sangat
+p:Sky Digital/Freesat,c:00091a,c:01091b,c:03091a
+d740:011a0000:082f:0002:1:0
+High Street 4
+p:Sky Digital/Freesat,c:000922,c:010923,c:030922
+d741:011a0000:082f:0002:1:0
+Yanga! (Nigeria)
+p:Sky Digital/Freesat,c:000901,c:010904,c:030901
+2541:011a0000:082f:0002:1:0
+Hochanda
+p:Sky Digital/Freesat,c:00091c,c:01091d,c:03091c
+d745:011a0000:082f:0002:1:0
+Noor TV
+p:Sky Digital/Freesat,c:000933,c:010934,c:030933
+d747:011a0000:082f:0002:1:0
+Heart
+p:Sky Digital/Freesat,c:00092c,c:01092d,c:03092c
+d746:011a0000:082f:0002:1:0
+Aastha TV
+p:Sky Digital/Freesat
+d748:011a0000:082f:0002:1:0
+Capital TV
+p:Sky Digital/Freesat,c:000932,c:010933,c:030932
+d749:011a0000:082f:0002:1:0
+Clubland TV
+p:Sky Digital/Freesat,c:0009fd,c:0109fe,c:0309fd
+d74b:011a0000:082f:0002:1:0
+Geo Kahani
+p:Sky Digital/Freesat,c:000a03,c:010a04,c:030a03
+d74a:011a0000:082f:0002:1:0
+Now 90´s
+p:Sky Digital/Freesat,c:000a00,c:010a01,c:030a00
+d74c:011a0000:082f:0002:1:0
+NDTV 24x7
+p:Sky Digital/Freesat,c:000938,c:010939,c:030938
+d74d:011a0000:082f:0002:1:0
+PTC Punjabi
+p:Sky Digital/Freesat,c:00092e,c:01092f,c:03092e
+d74e:011a0000:082f:0002:1:0
+mytv
+p:Sky Digital/Freesat,c:000902,c:010903,c:030902
+254d:011a0000:082f:0002:2:0
+Capital XTRA
+p:Sky Digital/Freesat,c:010910,c:030910
+2557:011a0000:082f:0002:2:0
+Radio X
+p:Sky Digital/Freesat,c:01090c,c:03090c
+2558:011a0000:082f:0002:2:0
+Capital (London)
+p:Sky Digital/Freesat,c:01090e,c:03090e
+2559:011a0000:082f:0002:2:0
+Gold
+p:Sky Digital/Freesat,c:010906,c:030906
+255b:011a0000:082f:0002:2:0
+Radio Khuskh Khabri
+p:Sky Digital/Freesat,c:010920,c:030920
+d75c:011a0000:082f:0002:2:0
+Smooth Radio (London)
+p:Sky Digital/Freesat,c:010908,c:030908
+d758:011a0000:082f:0002:2:0
+UCB Ireland
+p:Sky Digital/Freesat,c:010905,c:030905
+d75d:011a0000:082f:0002:2:0
+Smooth Extra
+p:Sky Digital/Freesat,c:010907,c:030907
+2562:011a0000:082f:0002:2:0
+Classic FM
+p:Sky Digital/Freesat,c:010928,c:030928
+2567:011a0000:082f:0002:2:0
+Planet Rock
+p:Sky Digital/Freesat,c:010929,c:030929
+283d:011a0000:07fe:0002:1:0
+BBC One West Midlands
+p:Sky Digital/Freesat,c:001388,c:011389,c:02138a,c:031388
+283f:011a0000:07fe:0002:1:0
+BBC One East Yorkshire & Lincolnshire
+p:Sky Digital/Freesat,c:001450,c:011451,c:021452,c:031450
+2841:011a0000:07fe:0002:1:0
+BBC One East Midlands
+p:Sky Digital/Freesat,c:001519,c:01151a,c:02151b,c:031519
+2842:011a0000:07fe:0002:1:0
+BBC One Norwich
+p:Sky Digital/Freesat,c:00157c,c:01157d,c:02157e,c:03157c
+2843:011a0000:07fe:0002:1:0
+BBC Parliament
+p:Sky Digital/Freesat,c:0013ec,c:0113ed,c:0213ef,c:0313ec
+2847:011a0000:07fe:0002:1:0
+BBC One Wales
+p:Sky Digital/Freesat,c:0015e0,c:0115e1,c:0215e3,c:0315e0
+2848:011a0000:07fe:0002:1:0
+BBC Two Wales
+p:Sky Digital/Freesat,c:001644,c:011645,c:021647,c:031644
+288c:011a0000:07fe:0002:2:0
+BBC R3
+p:Sky Digital/Freesat,c:011771,c:031771
+288d:011a0000:07fe:0002:2:0
+BBC R4 FM
+p:Sky Digital/Freesat,c:011772,c:031772
+288e:011a0000:07fe:0002:2:0
+BBC R4 LW
+p:Sky Digital/Freesat,c:011773,c:031773
+288f:011a0000:07fe:0002:2:0
+BBC 6 Music
+p:Sky Digital/Freesat,c:011774,c:031774
+2890:011a0000:07fe:0002:2:0
+BBC R4 Ex
+p:Sky Digital/Freesat,c:011775,c:031775
+2891:011a0000:07fe:0002:2:0
+BBC R WS
+p:Sky Digital/Freesat,c:011776,c:031776
+2892:011a0000:07fe:0002:2:0
+BBC R Scot.
+p:Sky Digital/Freesat,c:011777,c:031777
+2893:011a0000:07fe:0002:2:0
+BBC R n Gael
+p:Sky Digital/Freesat,c:011778,c:031778
+2894:011a0000:07fe:0002:2:0
+BBC R Wales
+p:Sky Digital/Freesat,c:011779,c:031779
+2895:011a0000:07fe:0002:2:0
+BBC R Cymru
+p:Sky Digital/Freesat,c:01177a,c:03177a
+2896:011a0000:07fe:0002:2:0
+BBC R Ulster
+p:Sky Digital/Freesat,c:01177b,c:03177b
+2897:011a0000:07fe:0002:2:0
+BBC R Foyle
+p:Sky Digital/Freesat,c:01177c,c:03177c
+2f45:011a0000:080b:0002:1:0
+ITV Meridian North
+p:Sky Digital/Freesat,c:000d04,c:010d05,c:02092a,c:030d04
+2f8a:011a0000:080b:0002:1:0
+ITV Westcountry West
+p:Sky Digital/Freesat,c:000910,c:01090d,c:030910
+2f8f:011a0000:080b:0002:1:0
+ITV Westcountry West+1
+p:Sky Digital/Freesat,c:000915,c:010916,c:030915
+2f49:011a0000:080b:0002:1:0
+ITV Tyne Tees+1
+p:Sky Digital/Freesat,c:000905,c:010902,c:030905
+2f4e:011a0000:080b:0002:1:0
+ITV Anglia West
+p:Sky Digital/Freesat,c:000d08,c:010d09,c:020933,c:030d08
+2f58:011a0000:080b:0002:1:0
+ITV Yorks East
+p:Sky Digital/Freesat,c:000d0c,c:010d0d,c:02092d,c:030d0c
+2f62:011a0000:080b:0002:1:0
+ITV Border Scotland
+p:Sky Digital/Freesat,c:000911,c:010912,c:030911
+2f71:011a0000:080b:0002:1:0
+ITV Central East
+p:Sky Digital/Freesat,c:000906,c:010907,c:030906
+2f85:011a0000:080b:0002:1:0
+ITV Yorkshire East+1
+p:Sky Digital/Freesat,c:00091a,c:010944,c:020945,c:03091a
+155f:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 1
+p:Sky Digital,c:000902,c:01090a,c:030901,f:08
+0fb7:011a2f26:07e3:0002:1:0
+XXX Petite
+p:Sky Digital,c:000a18,c:010a19,c:030a18
+1662:011a2f26:07e3:0002:1:0
+XXX Brits
+p:Sky Digital,c:000a1f,c:010a20,c:030a1f
+1560:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 2
+p:Sky Digital,c:000903,c:01090b,c:030901,f:08
+1561:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 3
+p:Sky Digital,c:000904,c:01090c,c:030901,f:08
+1562:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 4
+p:Sky Digital,c:000905,c:01090d,c:030901,f:08
+1563:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 5
+p:Sky Digital,c:000906,c:01090e,c:030901,f:08
+1564:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 6
+p:Sky Digital,c:000907,c:01090f,c:030901,f:08
+1565:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 7
+p:Sky Digital,c:000908,c:010910,c:030901,f:08
+1566:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 8
+p:Sky Digital,c:000909,c:010911,c:030901,f:08
+1567:011a2f26:07e3:0002:1:0
+Sky Sports Active Lo 9
+p:Sky Digital,c:000912,c:010913,c:030912,f:08
+0fb4:011a2f26:07e3:0002:1:0
+XXX Booty
+p:Sky Digital,c:000a1b,c:010a1c,c:030900
+0fb5:011a2f26:07e3:0002:1:1
+XXX Girl Girl
+p:Sky Digital,c:000a15,c:010a16,c:030900
+1648:011a2f26:07e3:0002:1:0
+XXX Drs & Nurses
+p:Sky Digital,c:000a12,c:010a13,c:030900
+1647:011a2f26:07e3:0002:1:0
+XXX My Hot Ex
+p:Sky Digital,c:000a0f,c:010a10,c:030900
+050b:011a2f26:07e3:0002:1:0
+Sports Active
+p:Sky Digital,c:000200,c:010280,c:031ffe
+050c:011a2f26:07e3:0002:1:1
+Sports Active
+p:Sky Digital,c:000201,c:010281,c:031ffe
+050d:011a2f26:07e3:0002:1:2
+Sports Active
+p:Sky Digital,c:000202,c:010282,c:031ffe
+050e:011a2f26:07e3:0002:1:3
+Sports Active
+p:Sky Digital,c:000203,c:010283,c:031ffe
+050f:011a2f26:07e3:0002:1:4
+Sports Active
+p:Sky Digital,c:000204,c:010284,c:031ffe
+0510:011a2f26:07e3:0002:1:5
+Sports Active
+p:Sky Digital,c:000205,c:010285,c:031ffe
+0511:011a2f26:07e3:0002:1:6
+Sports Active
+p:Sky Digital,c:000206,c:010286,c:031ffe
+0512:011a2f26:07e3:0002:1:7
+Sports Active
+p:Sky Digital,c:000207,c:010287,c:031ffe
+0513:011a2f26:07e3:0002:1:8
+Sports Active
+p:Sky Digital,c:000208,c:010288,c:031ffe
+1523:011a2f26:07e3:0002:1:0
+Sports Active
+p:Sky Digital,c:000912,c:010913,c:030901
+152d:011a2f26:07e3:0002:1:1
+Sports Active
+p:Sky Digital,c:000912,c:010913,c:030901
+152e:011a2f26:07e3:0002:1:2
+Sports Active
+p:Sky Digital,c:000902,c:010913,c:030901
+152f:011a2f26:07e3:0002:1:3
+Sports Active
+p:Sky Digital,c:000903,c:010913,c:030901
+1530:011a2f26:07e3:0002:1:4
+Sports Active
+p:Sky Digital,c:000904,c:010913,c:030901
+1531:011a2f26:07e3:0002:1:5
+Sports Active
+p:Sky Digital,c:000905,c:010913,c:030901
+1532:011a2f26:07e3:0002:1:6
+Sports Active
+p:Sky Digital,c:000906,c:010913,c:030901
+1533:011a2f26:07e3:0002:1:7
+Sports Active
+p:Sky Digital,c:000907,c:010913,c:030901
+1534:011a2f26:07e3:0002:1:8
+Sports Active
+p:Sky Digital,c:000908,c:010913,c:030901
+1535:011a2f26:07e3:0002:1:9
+Sports Active
+p:Sky Digital,c:000909,c:010911,c:030901
+17d4:011a2f26:07e3:0002:1:0
+XXX Mums|  Nights
+p:Sky Digital,c:000a1d,c:010a1e,c:030900
+274c:011a0000:07fc:0002:1:0
+ITV London
+p:Sky Digital/Freesat,c:000d00,c:010d01,c:02090f,c:030d00
+2759:011a0000:07fc:0002:1:0
+ITV4+1
+p:Sky Digital/Freesat,c:00090c,c:01090d,c:03090c
+276b:011a0000:07fc:0002:1:0
+ITV Anglia East+1
+p:Sky Digital/Freesat,c:000908,c:010909,c:030908
+2756:011a0000:07fc:0002:1:0
+ITV2
+p:Sky Digital/Freesat,c:000d04,c:010d05,c:020938,c:030d04
+2757:011a0000:07fc:0002:1:0
+CITV
+p:Sky Digital/Freesat,c:000d08,c:010d09,c:020939,c:030d08
+2758:011a0000:07fc:0002:1:0
+ITV4
+p:Sky Digital/Freesat,c:000d0c,c:010d0d,c:020949,c:030d0c
+275b:011a0000:07fc:0002:1:0
+ITV Be
+p:Sky Digital/Freesat,c:000901,c:010904,c:020906,c:030901
+2760:011a0000:07fc:0002:1:0
+ITV Granada
+p:Sky Digital/Freesat,c:000d14,c:010d15,c:020932,c:030d14
+276a:011a0000:07fc:0002:1:0
+ITV Anglia East
+p:Sky Digital/Freesat,c:000d18,c:010d19,c:02092a,c:030d18
+2774:011a0000:07fc:0002:1:0
+ITV Central West
+p:Sky Digital/Freesat,c:000d1c,c:010d1d,c:020956,c:030d1c
+2775:011a0000:07fc:0002:1:0
+ITV Meridian South East+1
+p:Sky Digital/Freesat,c:00092f,c:010930,c:020931,c:03092f
+d355:011a0000:0830:0002:1:0
+SET Asia
+p:Sky Digital,c:00091d,c:01091e,c:03091d
+d356:011a0000:0830:0002:1:0
+Travel Channel
+p:Sky Digital/Freesat,c:00092b,c:01092c,c:03092b
+d357:011a0000:0830:0002:1:0
+Retail TV
+p:Sky Digital/Freesat,c:000923,c:010924,c:030923
+d35b:011a0000:0830:0002:1:0
+Sony SAB (India)
+p:Sky Digital,c:00090c,c:01090d,c:03090c
+d360:011a0000:0830:0002:1:0
+Best Direct
+p:Sky Digital/Freesat,c:000911,c:010912,c:030911
+d363:011a0000:0830:0002:1:0
+RT
+p:Sky Digital/Freesat,c:000934,c:010935,c:030934
+d361:011a0000:0830:0002:1:0
+GOD Europe
+p:Sky Digital/Freesat,c:000904,c:010905,c:030904
+d368:011a0000:0830:0002:1:0
+Sony Mix
+p:Sky Digital,c:000937,c:010938,c:030937
+d37c:011a0000:0830:0002:1:0
+Horse & Country
+p:Sky Digital/Freesat,c:000925,c:010926,c:030925
+d386:011a0000:0830:0002:1:0
+JML Direct
+p:Sky Digital/Freesat,c:000921,c:010922,c:030921
+d397:011a0000:0830:0002:1:0
+ABP News
+p:Sky Digital/Freesat,c:000931,c:010932,c:030931
+d395:011a0000:0830:0002:1:0
+Aaj Tak
+p:Sky Digital/Freesat,c:00090a,c:01090b,c:03090a
+d39b:011a0000:0830:0002:1:0
+Islam TV Urdu
+p:Sky Digital/Freesat,c:00090e,c:01090f,c:03090e
+d39f:011a0000:0830:0002:1:0
+High Street TV 1
+p:Sky Digital/Freesat,c:000928,c:010929,c:030928
+d3a4:011a0000:0830:0002:1:0
+TV Warehouse
+p:Sky Digital/Freesat,c:00091a,c:01091b,c:03091a
+d3a9:011a0000:0830:0002:1:0
+Geo TV
+p:Sky Digital/Freesat,c:000907,c:010908,c:030907
+d381:011a0000:0830:0002:1:0
+NTA International
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+1b59:011a0000:07da:0002:1:0
+Mtv
+p:Sky Digital,c:000913,c:010902,c:020914,c:030901
+1b65:011a0000:07da:0002:1:0
+MTV Music+1
+p:Sky Digital,c:000908,c:010909,c:030908
+1b5a:011a0000:07da:0002:1:0
+VH-1
+p:Sky Digital,c:000918,c:010915,c:020919,c:030901
+1b5b:011a0000:07da:0002:1:0
+MTV Rocks
+p:Sky Digital,c:00091c,c:01091a,c:030901
+1b5d:011a0000:07da:0002:1:0
+Mtv+1
+p:Sky Digital,c:000935,c:010936,c:020944,c:030901
+1b5e:011a0000:07da:0002:1:0
+MTV Hits
+p:Sky Digital,c:00091f,c:01091d,c:020920,c:030901
+1b5f:011a0000:07da:0002:1:0
+MTV Base
+p:Sky Digital,c:000927,c:010925,c:020928,c:030901
+1b60:011a0000:07da:0002:1:0
+MTV Classic
+p:Sky Digital,c:00092b,c:010929,c:02092c,c:030901
+1b61:011a0000:07da:0002:1:0
+MTV OMG
+p:Sky Digital,c:00092d,c:01092e,c:02092f,c:030901
+1b62:011a0000:07da:0002:1:0
+MTV (Ireland)
+p:Sky Digital,c:00093c,c:01093a,c:02093b,c:030901
+1b64:011a0000:07da:0002:1:0
+MTV Music
+p:Sky Digital,c:000933,c:010931,c:020934,c:030901
+1b66:011a0000:07da:0002:1:0
+Club MTV
+p:Sky Digital,c:000923,c:010921,c:020924,c:030901
+1965:011a0000:07e6:0002:1:0
+Home
+p:Sky Digital/Freesat,c:000901,c:010903,c:020902,c:030901
+1978:011a0000:07e6:0002:1:0
+W (UK)
+p:Sky Digital,c:00093b,c:01093d,c:03093b
+1966:011a0000:07e6:0002:1:0
+Eden
+p:Sky Digital,c:00090d,c:01090f,c:02090e,c:03090d
+1968:011a0000:07e6:0002:1:0
+Gold
+p:Sky Digital,c:000917,c:010919,c:020918,c:030917
+1969:011a0000:07e6:0002:1:0
+Yesterday
+p:Sky Digital/Freesat,c:00091c,c:01091e,c:02091d,c:03091c
+196a:011a0000:07e6:0002:1:0
+Dave
+p:Sky Digital/Freesat,c:000904,c:010908,c:020906,c:030904
+196c:011a0000:07e6:0002:1:0
+Good Food
+p:Sky Digital,c:000926,c:010928,c:020927,c:030926
+1979:011a0000:07e6:0002:1:0
+alibi
+p:Sky Digital,c:000912,c:010914,c:020913,c:030912
+197a:011a0000:07e6:0002:1:0
+Drama
+p:Sky Digital/Freesat,c:000944,c:010924,c:020947,c:030944
+197b:011a0000:07e6:0002:1:0
+Really
+p:Sky Digital/Freesat,c:00093f,c:010940,c:020942,c:03093f
+6217:011a0000:07e6:0002:1:0
+Drama (Ireland)
+p:Sky Digital/Freesat,c:000944,c:010924,c:020947,c:030944
+6218:011a0000:07e6:0002:1:0
+Really (Ireland)
+p:Sky Digital/Freesat,c:00093f,c:010940,c:020942,c:03093f
+206c:011a0000:07fa:0002:1:0
+E4+1
+p:Sky Digital/Freesat,c:00092b,c:01092c,c:02093f,c:03092b
+209e:011a0000:07fa:0002:1:0
+Film 4 (Ireland)
+p:Sky Digital/Freesat,c:000907,c:010908,c:030907
+2080:011a0000:07fa:0002:1:0
+Channel 4 (NI)
+p:Sky Digital/Freesat,c:00090b,c:010917,c:03090b
+2077:011a0000:07fa:0002:1:0
+Channel 4+1 (London)
+p:Sky Digital/Freesat,c:00090c,c:01090d,c:02091e,c:03090c
+2078:011a0000:07fa:0002:1:0
+Channel 4+1 (South & East)
+p:Sky Digital/Freesat,c:000912,c:010913,c:020925,c:030912
+207a:011a0000:07fa:0002:1:0
+Channel 4+1 (North)
+p:Sky Digital/Freesat,c:00091c,c:01091d,c:02092f,c:03091c
+207c:011a0000:07fa:0002:1:0
+Channel 4+1 (Scotland)
+p:Sky Digital/Freesat,c:000926,c:010927,c:020939,c:030926
+2094:011a0000:07fa:0002:1:0
+More4
+p:Sky Digital/Freesat,c:000937,c:010938,c:02094e,c:030937
+2095:011a0000:07fa:0002:1:0
+Film4+1
+p:Sky Digital/Freesat,c:000932,c:010933,c:030932
+2072:011a0000:07fa:0002:1:0
+E4 (Ireland)
+p:Sky Digital/Freesat,c:000901,c:010902,c:02093f,c:030901
+2085:011a0000:07fa:0002:1:0
+Channel 4 (ROI)
+p:Sky Digital/Freesat,c:00093e,c:010940,c:03093e
+2870:011a0000:0800:0002:1:0
+CBBC
+p:Sky Digital/Freesat,c:001518,c:011519,c:031518
+2871:011a0000:0800:0002:1:0
+BBC One South
+p:Sky Digital/Freesat,c:001450,c:011451,c:021452,c:031450
+2872:011a0000:0800:0002:1:0
+BBC One South West
+p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0214b6,c:0314b4
+2874:011a0000:0800:0002:1:0
+BBC One Oxford
+p:Sky Digital/Freesat,c:00157c,c:01157d,c:02157e,c:03157c
+2876:011a0000:0800:0002:1:0
+BBC News
+p:Sky Digital/Freesat,c:0013ec,c:0113ed,c:0213ef,c:0313ec
+2879:011a0000:0800:0002:1:0
+BBC One Northern Ireland
+p:Sky Digital/Freesat,c:0015e0,c:0115e1,c:0215e3,c:0315e0
+287a:011a0000:0800:0002:1:0
+BBC Two Northern Ireland
+p:Sky Digital/Freesat,c:001644,c:011645,c:021647,c:031644
+cb86:011a0000:0831:0002:1:0
+Propeller TV
+p:Sky Digital/Freesat,c:00090c,c:01090d,c:03090c
+cb8f:011a0000:0831:0002:1:0
+FrontRunner
+p:Sky Digital/Freesat,c:000925,c:010926,c:030925
+cb87:011a0000:0831:0002:1:0
+Rishtey TV
+p:Sky Digital,c:000922,c:010923,c:030922
+cb88:011a0000:0831:0002:1:0
+Olive TV
+p:Sky Digital/Freesat,c:00090e,c:01090f,c:03090e
+cb8b:011a0000:0831:0002:1:0
+Massive R&B
+p:Sky Digital/Freesat,c:0002c3,c:01025f,c:0302c3
+cb8d:011a0000:0831:0002:1:0
+Property Show
+p:Sky Digital/Freesat,c:00090b,c:01090a,c:03090b
+cbe1:011a0000:0831:0002:2:0
+Heart 80s
+p:Sky Digital/Freesat,c:010920,c:030920
+cb8c:011a0000:0831:0002:1:0
+Star Plus
+p:Sky Digital,c:000901,c:010902,c:030901
+cbac:011a0000:0831:0002:1:0
+Eman Channel
+p:Sky Digital/Freesat,c:00093d,c:01093e,c:03093d
+cb91:011a0000:0831:0002:1:0
+Star GOLD
+p:Sky Digital,c:000919,c:01091a,c:030919
+cbca:011a0000:0831:0002:1:0
+Safeer TV
+p:Sky Digital/Freesat,c:00092c,c:01092d,c:03092c
+cbcf:011a0000:0831:0002:1:0
+TCM+1
+p:Sky Digital,c:000929,c:01092a,c:030929
+cbd9:011a0000:0831:0002:1:0
+Star Bharat
+p:Sky Digital,c:000930,c:010931,c:030930
+cbe2:011a0000:0831:0002:2:0
+Kiss FM
+p:Sky Digital/Freesat,c:010905,c:030905
+cb89:011a0000:0831:0002:1:0
+Colors
+p:Sky Digital/Freesat,c:000915,c:010916,c:030915
+cbd4:011a0000:0831:0002:1:0
+Rishtey Cineplex
+p:Sky Digital,c:000911,c:010912,c:030911
+cb90:011a0000:0831:0002:1:0
+Babestation
+p:Sky Digital,c:000928,c:01092b,c:030928
+cba4:011a0000:0831:0002:2:0
+Panjab Radio
+p:Sky Digital/Freesat,c:010904,c:030904
+cba5:011a0000:0831:0002:2:0
+Sukh Sagar
+p:Sky Digital/Freesat,c:010906,c:030906
+cbe3:011a0000:0831:0002:2:0
+Magic 105.4 FM
+p:Sky Digital/Freesat,c:010907,c:030907
+cb8a:011a0000:0831:0002:1:0
+Kanshi TV
+p:Sky Digital/Freesat,c:000908,c:010909,c:030908
+cb84:011a0000:0831:0002:1:0
+Sony Max
+p:Sky Digital,c:00091b,c:01091c,c:02091d,c:03091b
+cbe0:011a0000:0831:0002:2:0
+Heart
+p:Sky Digital/Freesat
+cbe5:011a0000:0831:0002:2:0
+Absolute 80s
+p:Sky Digital/Freesat,c:010918,c:030918
+cbe6:011a0000:0831:0002:2:1
+Absolute 90s
+p:Sky Digital/Freesat,c:010910,c:030910
+cbe8:011a0000:0831:0002:2:2
+Absolute Classic Rock
+p:Sky Digital/Freesat,c:010914,c:030914
+cbe4:011a0000:0831:0002:2:0
+Absolute Radio
+p:Sky Digital/Freesat,c:01091e,c:03091e
+cbde:011a0000:0831:0002:2:0
+BFBS Radio
+p:Sky Digital/Freesat,c:01091f,c:03091f
+cbdf:011a0000:0831:0002:2:0
+LBC
+p:Sky Digital/Freesat,c:010927,c:030927
+2788:011a0000:0805:0002:1:0
+ITV Border
+p:Sky Digital/Freesat,c:000d28,c:010d29,c:02090a,c:030d28
+278d:011a0000:0805:0002:1:0
+ITV Westcountry South West+1
+p:Sky Digital/Freesat,c:000926,c:010927,c:030926
+2792:011a0000:0805:0002:1:0
+ITV Tyne Tees
+p:Sky Digital/Freesat,c:000d0b,c:010d0c,c:020952,c:030d0b
+2797:011a0000:0805:0002:1:0
+ITV3
+p:Sky Digital,c:000907,c:010908,c:030907
+279b:011a0000:0805:0002:1:0
+ITV Be+1
+p:Sky Digital/Freesat,c:000901,c:010904,c:030901
+279c:011a0000:0805:0002:1:0
+ITV Meridian South
+p:Sky Digital/Freesat,c:000d08,c:010d09,c:020928,c:030d08
+27a1:011a0000:0805:0002:1:0
+ITV Central West+1
+p:Sky Digital/Freesat,c:000936,c:010937,c:02093c,c:030936
+27a6:011a0000:0805:0002:1:0
+ITV Meridian South East
+p:Sky Digital/Freesat,c:000d10,c:010d11,c:02093f,c:030d10
+27ab:011a0000:0805:0002:1:0
+ITV London+1
+p:Sky Digital/Freesat,c:00093a,c:01093b,c:02095d,c:03093a
+27b0:011a0000:0805:0002:1:0
+ITV Yorks West
+p:Sky Digital/Freesat,c:000d14,c:010d15,c:020934,c:030d14
+27b5:011a0000:0805:0002:1:0
+ITV2+1
+p:Sky Digital/Freesat,c:000d18,c:010d19,c:02094c,c:030d18
+c789:011a0000:0815:0002:1:0
+BET:BlackEntTv
+p:Sky Digital/Freesat,c:0008fd,c:0108fe,c:0308fd
+c78a:011a0000:0815:0002:1:0
+Nicktoons (Ireland)
+p:Sky Digital,c:00093b,c:01093c,c:03093b
+c78b:011a0000:0815:0002:1:0
+Comedy Central +1
+p:Sky Digital,c:000918,c:010919,c:030918
+c78c:011a0000:0815:0002:1:0
+Comedy Central ( Ireland)
+p:Sky Digital,c:00091c,c:01091d,c:03091c
+c78d:011a0000:0815:0002:1:0
+Comedy Central+1 (Ireland)
+p:Sky Digital,c:000921,c:010922,c:030921
+c78e:011a0000:0815:0002:1:0
+Comedy Central Extra (Ireland)
+p:Sky Digital,c:000926,c:010927,c:030926
+c78f:011a0000:0815:0002:1:0
+Comedy Xtra+1
+p:Sky Digital,c:000984,c:01092c,c:030984
+c790:011a0000:0815:0002:1:0
+Nick Jr (Ireland)
+p:Sky Digital,c:000909,c:01090a,c:030909
+c791:011a0000:0815:0002:1:0
+Nick Junior Too
+p:Sky Digital,c:00090e,c:01090f,c:03090e
+c792:011a0000:0815:0002:1:0
+Nick Jr+1
+p:Sky Digital,c:000904,c:010905,c:030904
+c793:011a0000:0815:0002:1:0
+Nickelodeon (Ireland)
+p:Sky Digital,c:000913,c:010914,c:030913
+c794:011a0000:0815:0002:1:0
+Nick Junior Too (Ireland)
+p:Sky Digital,c:000931,c:010932,c:030931
+c795:011a0000:0815:0002:1:0
+MTV Music (Ireland)
+p:Sky Digital,c:000936,c:010937,c:030936
+c489:011a0000:0811:0002:1:0
+Pavers Shoes TV
+p:Sky Digital/Freesat,c:00090f,c:010910,c:03090f
+c481:011a0000:0811:0002:1:0
+Showcase
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+c47c:011a0000:0811:0002:1:0
+KTV (India)
+p:Sky Digital/Freesat,c:00092a,c:01092b,c:03092a
+c49f:011a0000:0811:0002:1:0
+Sikh Channel
+p:Sky Digital/Freesat
+c49b:011a0000:0811:0002:1:0
+Keep It Country
+p:Sky Digital/Freesat,c:00091a,c:01091b,c:03091a
+c4a4:011a0000:0811:0002:1:0
+LoveWorld TV
+p:Sky Digital/Freesat,c:000915,c:010916,c:030915
+c486:011a0000:0811:0002:1:0
+Jewellery Maker
+p:Sky Digital/Freesat,c:00091e,c:01091f,c:03091e
+c4db:011a0000:0811:0002:1:0
+Al Jazeera English
+p:Sky Digital/Freesat,c:00090d,c:01090e,c:03090d
+c4d6:011a0000:0811:0002:1:0
+Inspiration
+p:Sky Digital/Freesat,c:00090b,c:01090c,c:03090b
+c4a9:011a0000:0811:0002:1:0
+Hillsong
+p:Sky Digital/Freesat,c:000920,c:010921,c:030920
+c4ae:011a0000:0811:0002:1:0
+Blaze
+p:Sky Digital/Freesat,c:000906,c:010907,c:030906
+c48c:011a0000:0811:0002:1:0
+Bloomberg
+p:Sky Digital/Freesat,c:000926,c:010927,c:030926
+c495:011a0000:0811:0002:1:0
+Ahlulbayt TV
+p:Sky Digital/Freesat,c:000922,c:010923,c:030922
+cb96:011a0000:083c:0002:1:0
+PCNE Chinese
+p:Sky Digital/Freesat,c:00090b,c:01090c,c:0310cb
+cbaa:011a0000:083c:0002:1:0
+Peace TV Urdu
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+cb97:011a0000:083c:0002:1:0
+Islam Channel Urdu
+p:Sky Digital/Freesat,c:000906,c:010907,c:030906
+cb9b:011a0000:083c:0002:1:0
+MTA Muslim TV
+p:Sky Digital/Freesat,c:000932,c:010933,c:0312bf
+cb9c:011a0000:083c:0002:1:0
+TBN UK
+p:Sky Digital/Freesat,c:00093b,c:01093c,c:03093c
+cb9f:011a0000:083c:0002:1:0
+Revelation TV
+p:Sky Digital/Freesat,c:000909,c:01090a,c:03144f
+cba8:011a0000:083c:0002:1:0
+EWTN Catholic
+p:Sky Digital/Freesat,c:000925,c:010926,c:030925
+cba9:011a0000:083c:0002:2:0
+EWTN Radio Europe
+p:Sky Digital/Freesat,c:010927,c:030927
+cba7:011a0000:083c:0002:1:0
+Peace TV (UK)
+p:Sky Digital/Freesat,c:000903,c:010904,c:030903
+189d:011a0000:07fd:0002:1:0
+BBC One London
+p:Sky Digital/Freesat,c:001388,c:011389,c:02138b,c:031388
+18ae:011a0000:07fd:0002:1:0
+CBeebies
+p:Sky Digital/Freesat,c:001450,c:011451,c:031450
+189e:011a0000:07fd:0002:1:0
+BBC Two (England)
+p:Sky Digital/Freesat,c:0013ec,c:0113ed,c:0213ef,c:0313ec
+18ac:011a0000:07fd:0002:1:0
+BBC Four
+p:Sky Digital/Freesat,c:001450,c:011451,c:031450
+18c5:011a0000:07fd:0002:1:0
+BBC One West
+p:Sky Digital/Freesat,c:00170c,c:01170d,c:02170f,c:03170c
+18cf:011a0000:07fd:0002:1:0
+BBC One Cambridge
+p:Sky Digital/Freesat,c:001644,c:011645,c:021647,c:031644
+18d9:011a0000:07fd:0002:1:0
+BBC One Channel Islands
+p:Sky Digital/Freesat,c:0016a8,c:0116a9,c:0216ab,c:0316a8
+18f6:011a0000:07fd:0002:1:0
+BBC Red Button 1
+p:Sky Digital/Freesat,c:001518,c:011519,c:031518
+d7a4:011a0000:0840:0002:1:0
+Babestation Xtra
+p:Sky Digital/Freesat,c:000a44,c:010a45,c:030a44
+d7a7:011a0000:0840:0002:1:0
+amc
+p:Sky Digital,c:000905,c:010906,c:030905
+d7ad:011a0000:0840:0002:1:0
+High Street 3
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+c6d7:011a0000:0840:0002:1:0
+CBS Drama
+p:Sky Digital/Freesat,c:000c08,c:010c09,c:030c08
+d7d3:011a0000:0840:0002:1:0
+55251
+p:Sky Digital/Freesat
+d7a5:011a0000:0840:0002:1:0
+BT Sport 1 (UK & ROI)
+p:Sky Digital,c:000a50,c:010a51,c:030a50
+d7ab:011a0000:0840:0002:1:0
+BT Sport 3 (UK & ROI)
+p:Sky Digital
+d7ff:011a0000:0840:0002:1:0
+S4C
+p:Sky Digital/Freesat,c:000938,c:010939,c:030938
+d7b2:011a0000:0840:0002:1:0
+Horror Channel+1
+p:Sky Digital/Freesat,c:00090a,c:01090b,c:03090a
+d7af:011a0000:0840:0002:1:0
+BT Sport Extra 1
+p:Sky Digital,c:000914,c:010916,c:030914
+d7b3:011a0000:0840:0002:1:0
+BT Sport Mosaic 1
+p:Sky Digital,c:00090d,c:010911,c:03090d
+d7b1:011a0000:0840:0002:1:0
+CBS Reality+1
+p:Sky Digital/Freesat,c:000908,c:010909,c:030908
+d7dc:011a0000:0840:0002:1:0
+BT Sport 3 (Pubs)
+p:Sky Digital,c:000a56,c:010a57,c:030a56
+d7e6:011a0000:0840:0002:1:0
+Your TV International
+p:Sky Digital,c:000913,c:010912,c:030913
+d7d2:011a0000:0840:0002:1:0
+BT Sport 1 (Pubs)
+p:Sky Digital,c:000a50,c:010a51,c:030a50
+d7a2:011a0000:0840:0002:1:0
+Horror Channel
+p:Sky Digital/Freesat,c:000903,c:010904,c:030903
+d7a9:011a0000:0840:0002:1:0
+CBS Action
+p:Sky Digital/Freesat,c:000a54,c:010a55,c:030a54
+d7ae:011a0000:0840:0002:1:0
+CBS Reality
+p:Sky Digital/Freesat,c:000a5a,c:010a5b,c:030a5a
+c7a7:011a0000:0817:0002:1:0
+eir Sport 1 (ROI & NI)
+p:Sky Digital,c:000918,c:010919,c:030901
+c7a8:011a0000:0817:0002:1:0
+Premier Sports 1
+p:Sky Digital,c:00091f,c:01091e,c:030903
+c7a9:011a0000:0817:0002:1:0
+Premier Sports
+p:Sky Digital,c:00091f,c:01091e,c:030903
+c7ac:011a0000:0817:0002:1:0
+Movies 4 Men
+p:Sky Digital/Freesat,c:000909,c:01090a,c:030909
+c7ad:011a0000:0817:0002:1:0
+Sony Movies
+p:Sky Digital,c:00090c,c:01090d,c:03090c
+c7ae:011a0000:0817:0002:1:0
+Movies 4 Men+1
+p:Sky Digital/Freesat,c:00090f,c:010910,c:03090f
+c7af:011a0000:0817:0002:1:0
+Sony Movies+1
+p:Sky Digital,c:000921,c:010922,c:030921
+c7b0:011a0000:0817:0002:1:0
+Racing UK
+p:Sky Digital,c:000906,c:010907,c:030906
+c7aa:011a0000:0817:0002:2:0
+News Talk Radio
+p:Sky Digital/Freesat,c:01091b,c:030901
+c7b2:011a0000:0817:0002:1:0
+eir Sport 1 (ROI Pubs)
+p:Sky Digital,c:000918,c:010919,c:030901
+c7b3:011a0000:0817:0002:1:0
+eir Sport 2 (ROI Pubs)
+p:Sky Digital,c:00091f,c:01091e,c:030903
+c7b8:011a0000:0817:0002:1:0
+Akaal Channel
+p:Sky Digital/Freesat,c:000902,c:010904,c:030902
+1db0:011a0000:082d:0002:1:0
+Home+1
+p:Sky Digital,c:000908,c:010909,c:020905,c:030908
+1db5:011a0000:082d:0002:1:0
+Gold+1
+p:Sky Digital,c:000913,c:010914,c:020915,c:030913
+1dba:011a0000:082d:0002:1:0
+Eden+1
+p:Sky Digital,c:00090d,c:01090f,c:02092c,c:03090d
+1dbf:011a0000:082d:0002:1:0
+W+1 (UK)
+p:Sky Digital,c:000925,c:010927,c:020927,c:030925
+1dc4:011a0000:082d:0002:1:0
+Dave (Ireland)
+p:Sky Digital,c:000937,c:010939,c:020938,c:030937
+1dc8:011a0000:082d:0002:1:0
+Dave ja vu
+p:Sky Digital,c:000901,c:010902,c:020904,c:030901
+1dca:011a0000:082d:0002:1:0
+Good Food +1
+p:Sky Digital,c:000920,c:01091c,c:020918,c:030920
+1dce:011a0000:082d:0002:1:0
+alibi+1
+p:Sky Digital,c:00092e,c:01092a,c:02092c,c:03092e
+1de2:011a0000:082d:0002:1:0
+Yesterday+1
+p:Sky Digital,c:000921,c:010923,c:02092c,c:030921
+1de7:011a0000:082d:0002:1:0
+Gold (Ireland)
+p:Sky Digital,c:000932,c:010933,c:020934,c:030932
+1de8:011a0000:082d:0002:1:0
+alibi (Ireland)
+p:Sky Digital,c:00093c,c:01093d,c:02093f,c:03093c
+1de9:011a0000:082d:0002:1:0
+W (Ireland)
+p:Sky Digital,c:000917,c:010918,c:030917
+ccb0:011a0000:080e:0002:1:0
+I.D (UK)
+p:Sky Digital,c:000913,c:010914,c:030913
+ccb5:011a0000:080e:0002:1:1
+Animal Plnt+1
+p:Sky Digital,c:000905,c:010906,c:030905
+ccbf:011a0000:080e:0002:1:3
+DMAX
+p:Sky Digital,c:000920,c:010921,c:030920
+ccc4:011a0000:080e:0002:1:4
+DMAX+1
+p:Sky Digital,c:00090d,c:01090e,c:03090d
+ccca:011a0000:080e:0002:1:5
+I.D+1
+p:Sky Digital,c:000921,c:010922,c:030921
+ccd3:011a0000:080e:0002:1:7
+Disc.History+1
+p:Sky Digital,c:00091b,c:01091c,c:03091b
+ccd8:011a0000:080e:0002:1:8
+Discovery Shed
+p:Sky Digital,c:00091f,c:010920,c:03091f
+ccde:011a0000:080e:0002:1:9
+TLC+1
+p:Sky Digital,c:000909,c:01090a,c:030909
+cce2:011a0000:080e:0002:1:10
+Discovery Home & Health+1
+p:Sky Digital,c:00090f,c:010910,c:03090f
+cce7:011a0000:080e:0002:1:11
+Disc. Turbo+1
+p:Sky Digital,c:000924,c:010925,c:030924
+ccba:011a0000:080e:0002:1:0
+Disc.Sci+1
+p:Sky Digital,c:000901,c:010902,c:030901
+d7e8:011a0000:082c:0002:25:0
+Racing UK HD
+p:Sky Digital,c:00090a,c:01090b,c:03090a
+d7ea:011a0000:082c:0002:25:0
+MUTV HD
+p:Sky Digital,c:000905,c:010906,c:030905
+d7ee:011a0000:082c:0002:25:0
+FreeSports HD
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+d7e9:011a0000:082c:0002:25:0
+TRT World HD
+p:Sky Digital/Freesat,c:000910,c:010911,c:030910
+d7ec:011a0000:082c:0002:25:0
+eir Sport 1 HD
+p:Sky Digital,c:000901,c:010902,c:030901
+c6c0:011a0000:082a:0002:1:0
+Babes & Brazzers
+p:Sky Digital,c:00090e,c:01090f,c:03090e
+c6c1:011a0000:082a:0002:1:0
+TRT World
+p:Sky Digital/Freesat,c:000913,c:010914,c:030913
+c6c2:011a0000:082a:0002:1:0
+CNBC
+p:Sky Digital/Freesat,c:00093a,c:01093b,c:0318ff
+c6c3:011a0000:082a:0002:1:0
+PTV Global
+p:Sky Digital/Freesat,c:000915,c:010916,c:030915
+c6c4:011a0000:082a:0002:1:0
+Venus TV
+p:Sky Digital/Freesat,c:000911,c:010912,c:030911
+c6c5:011a0000:082a:0002:1:0
+Hidayat TV
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+c6c6:011a0000:082a:0002:1:0
+Iqra Bangla
+p:Sky Digital/Freesat,c:000904,c:010905,c:030904
+c6c7:011a0000:082a:0002:1:0
+Madani Channel
+p:Sky Digital/Freesat,c:000926,c:010927,c:030926
+c6c8:011a0000:082a:0002:1:0
+Vox Africa
+p:Sky Digital/Freesat,c:00090b,c:01090c,c:03090b
+c6ca:011a0000:082a:0002:1:0
+B4U Music
+p:Sky Digital,c:000909,c:01090a,c:030909
+c6cb:011a0000:082a:0002:1:0
+Channel i
+p:Sky Digital/Freesat,c:000945,c:010946,c:030945
+c6cc:011a0000:082a:0002:1:0
+London Live
+p:Sky Digital,c:000948,c:010949,c:030948
+c6cd:011a0000:082a:0002:1:0
+Iqra TV
+p:Sky Digital/Freesat,c:000918,c:010919,c:030918
+c6ce:011a0000:082a:0002:1:0
+Climax
+p:Sky Digital,c:000907,c:010908,c:030907
+c6d0:011a0000:082a:0002:1:0
+B4U Movies
+p:Sky Digital,c:00094b,c:01094c,c:03094b
+c6cf:011a0000:082a:0002:1:0
+TVC News
+p:Sky Digital/Freesat,c:000923,c:010924,c:030923
+5726:011a2ce6:082b:0002:1:0
+Insight HD
+p:Sky Digital,c:000907,c:010908,c:030907
+571d:011a2ce6:082b:0002:1:0
+QVC Extra
+p:Sky Digital,c:000903,c:010904,c:030903
+571f:011a2ce6:082b:0002:1:1
+QVC Beauty
+p:Sky Digital,c:000905,c:010906,c:030905
+571e:011a2ce6:082b:0002:1:0
+QVC Style
+p:Sky Digital,c:000901,c:010902,c:030901
+d3c4:011a0000:0829:0002:1:0
+PTV Prime
+p:Sky Digital/Freesat,c:000938,c:010939,c:030938
+d3c2:011a0000:0829:0002:1:0
+ROK
+p:Sky Digital/Freesat,c:000912,c:010913,c:030912
+d3d6:011a0000:0829:0002:1:0
+Primal Cure
+p:Sky Digital/Freesat,c:000910,c:010914,c:030910
+d3c5:011a0000:0829:0002:1:0
+Adult Channel
+p:Sky Digital/Freesat,c:00090a,c:01090b,c:03090a
+d3c3:011a0000:0829:0002:1:0
+Fame TV
+p:Sky Digital/Freesat,c:000908,c:010909,c:030908
+d3c6:011a0000:0829:0002:1:0
+54214
+p:Sky Digital/Freesat,c:00093d,c:01093e,c:03093d
+d3c8:011a0000:0829:0002:1:0
+CGTN
+p:Sky Digital/Freesat,c:00092f,c:010930,c:03092f
+d3c9:011a0000:0829:0002:1:0
+Retro Movies
+p:Sky Digital/Freesat,c:000917,c:010918,c:030917
+d3cc:011a0000:0829:0002:1:0
+AIT International UK
+p:Sky Digital/Freesat,c:00091c,c:01091d,c:03091c
+d3cd:011a0000:0829:0002:1:0
+NTV (National TV)
+p:Sky Digital/Freesat,c:000936,c:010937,c:030936
+d3cf:011a0000:0829:0002:1:0
+BEN
+p:Sky Digital/Freesat,c:00092c,c:01092d,c:03092c
+d3d0:011a0000:0829:0002:1:0
+Euronews NBC
+p:Sky Digital/Freesat,c:000906,c:010907,c:030906
+d3d1:011a0000:0829:0002:1:0
+British Muslim TV
+p:Sky Digital/Freesat,c:00091f,c:010920,c:03091f
+d3d2:011a0000:0829:0002:1:0
+TV One
+p:Sky Digital/Freesat,c:000903,c:010904,c:030903
+d3d4:011a0000:0829:0002:1:0
+Cruise 1st TV
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+d3d5:011a0000:0829:0002:1:0
+ABN TV
+p:Sky Digital/Freesat,c:00090e,c:01090f,c:03090e
+d21e:011a0000:0841:0002:25:0
+BT Sport 1 HD (Pubs)
+p:Sky Digital,c:000924,c:010925,c:030924
+d219:011a0000:0841:0002:25:0
+BT Sport 2 HD (UK & ROI)
+p:Sky Digital,c:000901,c:010902,c:030901
+d225:011a0000:0841:0002:25:0
+BT Sport Box Office HD
+p:Sky Digital,c:000906,c:010907,c:030906
+d21f:011a0000:0841:0002:25:0
+BT Sport 2 HD (ROI Pubs)
+p:Sky Digital,c:000924,c:010925,c:030924
+d223:011a0000:0841:0002:25:0
+BT Sport ESPN HD (UK & ROI)
+p:Sky Digital,c:00091a,c:01091b,c:03091a
+d220:011a0000:0841:0002:25:0
+BT Sport 3 HD (ROI Pubs)
+p:Sky Digital,c:000924,c:010925,c:030924
+d224:011a0000:0841:0002:25:0
+BT Sport 3 HD (Pubs)
+p:Sky Digital,c:00091a,c:01091b,c:03091a
+d21a:011a0000:0841:0002:25:0
+BT Sport 2 HD (Pubs)
+p:Sky Digital,c:000901,c:010902,c:030901
+19c8:011a0000:07dd:0002:1:0
+QVC
+p:Sky Digital/Freesat,c:000905,c:010906,c:030905
+041c:011a0000:07d4:0002:2:0
+TMS
+p:Sky Digital/Freesat,c:0109fe,c:031fff
+041d:011a0000:07d4:0002:2:0
+ETBG
+p:Sky Digital/Freesat,c:010062,c:031fff
+2329:011a0000:07d4:0002:2:0
+BEM
+p:Sky Digital/Freesat,c:010a02,c:031fff
+1d4d:011a0000:07d4:0002:2:0
+PSL
+p:Sky Digital/Freesat,c:0103e9,c:031fff
+105d:011a0000:07d4:0002:2:0
+IEPG data 1
+p:Sky Digital/Freesat,c:010288,c:031ffe
+2ee0:011a0000:07ef:0002:1:0
+Magic
+p:Sky Digital/Freesat,c:000910,c:010911,c:030910
+2f1c:011a0000:07ef:0002:1:0
+Channel 4 Midlands +1
+p:Sky Digital/Freesat
+2f21:011a0000:07ef:0002:1:0
+Channel 4+1 (NI)
+p:Sky Digital/Freesat
+2ef9:011a0000:07ef:0002:1:0
+Box Upfront
+p:Sky Digital/Freesat,c:000929,c:01092a,c:030929
+2ee5:011a0000:07ef:0002:1:1
+The Box
+p:Sky Digital/Freesat,c:00090e,c:01090f,c:03090e
+2eea:011a0000:07ef:0002:1:2
+Kiss
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+2eef:011a0000:07ef:0002:1:3
+Kerrang!
+p:Sky Digital/Freesat,c:000904,c:010905,c:030904
+2ef4:011a0000:07ef:0002:1:4
+Box Hits
+p:Sky Digital/Freesat,c:000907,c:010908,c:030907
+2f17:011a0000:07ef:0002:1:0
+4Music
+p:Sky Digital/Freesat,c:00090a,c:01090b,c:03090a
+5104:011a0000:080f:0002:25:0
+ITV Granada HD
+p:Sky Digital/Freesat,c:00091a,c:01091b,c:03091a,f:08
+50e6:011a0000:080f:0002:25:0
+ITV2 HD
+p:Sky Digital,c:000901,c:010902,c:020905,c:030901
+5118:011a0000:080f:0002:25:0
+ITV Westcountry West HD
+p:Sky Digital/Freesat,c:000906,c:01090a,c:030906,f:08
+510e:011a0000:080f:0002:25:0
+ITV Tyne Tees HD
+p:Sky Digital/Freesat,c:00090e,c:01090d,c:03090e,f:08
+50fa:011a0000:080f:0002:25:0
+ITV Wales HD
+p:Sky Digital/Freesat,c:000910,c:010911,c:030910,f:08
+5122:011a0000:080f:0002:25:0
+ITV Westcountry South West HD
+p:Sky Digital/Freesat,c:000915,c:010916,c:030915,f:08
+0f05:011a0000:07d2:0002:25:0
+Liverpool FCTV HD
+p:Sky Digital,c:000204,c:010298,c:030204
+1007:011a0000:07d2:0002:25:0
+Sky Atlantic VIP HD
+p:Sky Digital,c:000202,c:010296,c:030202
+0f52:011a0000:07d2:0002:25:0
+Dave HD
+p:Sky Digital,c:000205,c:010299,c:030205
+0f3a:011a0000:07d2:0002:25:0
+Sky On Demand HD3
+p:Sky Digital,c:000202,c:010296,c:030202
+0f28:011a0000:07d2:0002:25:0
+Universal HD
+p:Sky Digital,c:000203,c:010297,c:030203
+0f2c:011a0000:07d2:0002:25:0
+SyFy HD
+p:Sky Digital,c:000201,c:010295,c:030201
+0f44:011a0000:07d2:0002:25:0
+E! HD
+p:Sky Digital,c:000200,c:010294,c:030200
+0ccc:011a0000:07d2:0002:25:0
+TG4 HD
+p:Sky Digital,c:000207,c:010280,c:030207
+29fe:011a0000:07d2:0002:25:0
+Star Plus HD
+p:Sky Digital,c:000207,c:01029b,c:030207
+0e2f:011a0000:07d2:0002:25:0
+Zee TV HD
+p:Sky Digital,c:000206,c:01029a,c:030206
+5208:011a0000:0812:0002:25:0
+ITV London HD
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901,f:08
+523a:011a0000:0812:0002:25:0
+ITV3 HD
+p:Sky Digital/Freesat,c:00090a,c:010916,c:03090a
+5244:011a0000:0812:0002:25:0
+ITV4 HD
+p:Sky Digital/Freesat,c:00091b,c:01091c,c:03091b
+5230:011a0000:0812:0002:25:0
+ITV Yorkshire HD
+p:Sky Digital/Freesat,c:000906,c:010907,c:030906,f:08
+521c:011a0000:0812:0002:25:0
+ITV Meridian South East HD
+p:Sky Digital/Freesat,c:00090b,c:01090d,c:03090b,f:08
+5226:011a0000:0812:0002:25:0
+ITV Central West HD
+p:Sky Digital/Freesat,c:000910,c:010912,c:020913,c:030910,c:050001,f:08
+0eda:011a0000:07d5:0002:25:0
+Sky Sports Main Events HD
+p:Sky Digital,c:000202,c:010282,c:020240,c:030202
+0ef3:011a0000:07d5:0002:25:1
+Sky Sports Golf HD
+p:Sky Digital,c:000201,c:010284,c:020241,c:030201
+0cc6:011a0000:07d5:0002:25:0
+Nick Junior HD (UK)
+p:Sky Digital,c:000205,c:010286,c:030205
+0f03:011a0000:07d5:0002:25:2
+Sky Sports Football HD
+p:Sky Digital,c:000204,c:010283,c:020244,c:030204
+0f25:011a0000:07d5:0002:25:3
+SkySpMainEvHD
+p:Sky Digital,c:000202,c:010282,c:020240,c:030202
+0f2a:011a0000:07d5:0002:25:4
+Sky Sports News HD
+p:Sky Digital,c:000203,c:010297,c:020242,c:030203
+0f4d:011a0000:07d5:0002:25:5
+SkySp News HD
+p:Sky Digital,c:000203,c:010297,c:020242,c:030203
+0f56:011a0000:07d5:0002:25:6
+SkySp Golf HD
+p:Sky Digital,c:000201,c:010284,c:020241,c:030201
+0f57:011a0000:07d5:0002:25:7
+SkySp PL HD
+p:Sky Digital,c:000200,c:010285,c:020243,c:030200
+0f63:011a0000:07d5:0002:25:8
+SkySp F'ball HD
+p:Sky Digital,c:000204,c:010283,c:020244,c:030204
+0fbd:011a0000:07d5:0002:25:9
+Sky Sports Premier League HD
+p:Sky Digital,c:000200,c:010285,c:020243,c:030200
+2330:011a0000:07d5:0002:25:10
+H1Test
+p:Sky Digital,c:000202,c:010296,c:030202
+0f10:011a0000:07e4:0002:25:0
+Comedy Central HD UK
+p:Sky Digital,c:000200,c:010294,c:030200
+0f1d:011a0000:07e4:0002:25:0
+NickelodeonHD
+p:Sky Digital,c:000201,c:010295,c:030201
+0f40:011a0000:07e4:0002:25:0
+MTV HD
+p:Sky Digital,c:000204,c:010298,c:020244,c:030204
+0ef8:011a0000:07e4:0002:25:0
+Nat Geo HD
+p:Sky Digital,c:000202,c:010296,c:030202
+0e2b:011a0000:07e4:0002:25:0
+Disney XD HD
+p:Sky Digital,c:000206,c:01029a,c:030206
+1971:011a0000:07e4:0002:25:0
+Gold HD
+p:Sky Digital,c:000203,c:010297,c:030203
+0f53:011a0000:07e4:0002:25:0
+Alibi HD
+p:Sky Digital,c:000205,c:010299,c:030205
+0f16:011a0000:07e0:0002:25:0
+Sky Movies Crime HD
+p:Sky Digital,c:000203,c:010297,c:020908,c:030203
+0f3d:011a0000:07e0:0002:25:0
+Sky Movies Select HD
+p:Sky Digital,c:000204,c:010298,c:030204
+0eea:011a0000:07e0:0002:25:0
+Sky Movies Family HD
+p:Sky Digital,c:000201,c:010295,c:020907,c:030201
+0ccb:011a0000:07e0:0002:25:0
+Sky One HD (Ireland)
+p:Sky Digital,c:000205,c:010282,c:030205
+0eec:011a0000:07e0:0002:25:0
+3e HD
+p:Sky Digital,c:000202,c:010296,c:030202
+0eed:011a0000:07e0:0002:25:0
+Sky Movies PremiereHD
+p:Sky Digital,c:000200,c:010294,c:020909,c:030200
+0f1b:011a0000:07eb:0002:25:0
+Good Food HD
+p:Sky Digital,c:000200,c:010294,c:030200
+0e2c:011a0000:07eb:0002:25:0
+TV3 Ireland HD
+p:Sky Digital,c:000206,c:01029a,c:030206
+0fbf:011a0000:07eb:0002:25:0
+Sony Max HD
+p:Sky Digital,c:000207,c:01029b,c:030207
+0f55:011a0000:07eb:0002:25:0
+W HD
+p:Sky Digital,c:000205,c:010299,c:030205
+0f1f:011a0000:07eb:0002:25:0
+Cartoon Network HD
+p:Sky Digital,c:000202,c:010296,c:030202
+0f21:011a0000:07eb:0002:25:0
+Disney Junior HD
+p:Sky Digital,c:000201,c:010281,c:020241,c:030201
+0f23:011a0000:07eb:0002:25:0
+Disney Chnl HD
+p:Sky Digital,c:000203,c:010297,c:030203
+0f42:011a0000:07eb:0002:25:0
+TCM HD UK
+p:Sky Digital,c:000204,c:010284,c:020244,c:030204
+1b1c:011a0000:0802:0002:25:0
+BBC Two HD
+p:Sky Digital/Freesat,c:00157c,c:01157d,c:02157f,c:03157c,c:050001
+1b1d:011a0000:0802:0002:25:0
+BBC One HD (England)
+p:Sky Digital/Freesat,c:001518,c:011519,c:02151b,c:031518,c:050001
+1b1f:011a0000:0802:0002:25:0
+BBC One HD (NI)
+p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:02157f,c:0314b4
+1b28:011a0000:0802:0002:25:0
+CBBC HD
+p:Sky Digital/Freesat,c:0015e0,c:0115e1,c:0315e0
+1b3c:011a0000:0802:0002:25:0
+CBBC HD (Eire)
+p:Sky Digital/Freesat,c:0015e0,c:0115e1,c:0315e0
+232e:011a0000:07d3:0002:25:0
+Sky UHD 1
+p:Sky Digital,c:000200,c:010294,c:030900
+0ed9:011a0000:07d3:0002:25:0
+3801
+p:Sky Digital,c:000201,c:010281,c:030201
+0c1c:011a0000:07d3:0002:25:0
+3100
+p:Sky Digital,c:000201,c:010281,c:030201
+0136:011a0000:07d3:0002:25:0
+Sky Insider HD
+p:Sky Digital,c:000201,c:010281,c:030201
+235b:011a0000:07d3:0002:25:0
+Sky Ultra HD
+p:Sky Digital,c:000200,c:010294,c:030900
+0fc0:011a0000:07d3:0002:25:0
+Star Gold HD (UK)
+p:Sky Digital,c:000202,c:010296,c:030202
+0f24:011a0000:07d8:0002:25:0
+E4 HD
+p:Sky Digital,c:000203,c:010297,c:030203
+0f4e:011a0000:07d8:0002:25:0
+Eurosport 2 HD
+p:Sky Digital,c:000200,c:010258,c:030200
+0e2e:011a0000:07d8:0002:25:0
+Sky Sports Main Event HD (ROI)
+p:Sky Digital,c:000201,c:010295,c:030201
+0edc:011a0000:07d8:0002:25:0
+Eurosport 1 HD
+p:Sky Digital,c:000202,c:010296,c:030202
+0f12:011a0000:07d8:0002:25:0
+Sky Sports Arena HD (Pubs)
+p:Sky Digital,c:000204,c:010284,c:020241,c:030204
+0f64:011a0000:07d8:0002:25:0
+Sky Sports Arena HD (UK & ROI)
+p:Sky Digital,c:000204,c:010284,c:020241,c:030204
+0cca:011a0000:07d8:0002:25:0
+Film 4 HD
+p:Sky Digital,c:000205,c:010280,c:030205
+0f2d:011a0000:07ec:0002:25:0
+NatGeoWild HD
+p:Sky Digital,c:000202,c:010296,c:030202
+0f2e:011a0000:07ec:0002:25:0
+History HD
+p:Sky Digital,c:000201,c:010295,c:030201
+0f30:011a0000:07ec:0002:25:0
+Crime+Inv HD
+p:Sky Digital,c:000203,c:010297,c:030203
+0ee6:011a0000:07ec:0002:25:0
+Sky Movies Action HD
+p:Sky Digital,c:000200,c:010294,c:020907,c:030200
+0fbe:011a0000:07ec:0002:25:0
+Sony TV HD
+p:Sky Digital,c:000208,c:010281,c:030208
+0edb:011a0000:07ec:0002:25:0
+Star Plus HD
+p:Sky Digital,c:000204,c:01029b,c:030204
+0f51:011a0000:07ec:0002:25:0
+RTE 1 HD
+p:Sky Digital,c:000205,c:01029a,c:030205
+0f53:011a0000:07ec:0002:25:0
+3923 HD
+p:Sky Digital
+0f54:011a0000:07ec:0002:25:0
+RTE 2 HD
+p:Sky Digital,c:000206,c:01029c,c:030206
+0f3c:011a0000:07e8:0002:25:0
+Sky Movies Disney HD
+p:Sky Digital,c:000204,c:010298,c:030204
+0ee7:011a0000:07e8:0002:25:0
+Sky Movies Modern Greats HD
+p:Sky Digital,c:000203,c:010297,c:020907,c:030203
+0ee8:011a0000:07e8:0002:25:0
+Sky Movies Drama HD
+p:Sky Digital,c:000202,c:010296,c:020908,c:030202
+0ee9:011a0000:07e8:0002:25:0
+Sky Movies ScFi & Horror HD
+p:Sky Digital,c:000200,c:010294,c:020909,c:030200
+0eeb:011a0000:07e8:0002:25:0
+Sky Movies Comedy HD
+p:Sky Digital,c:000201,c:010295,c:02090a,c:030201
+0e29:011a0000:07e8:0002:25:0
+Boomerang HD
+p:Sky Digital,c:000205,c:010299,c:030205
+5140:011a0000:0810:0002:25:0
+STV HD
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901,f:08
+5159:011a0000:0810:0002:25:0
+ITV Box Office HD
+p:Sky Digital,c:00091a,c:01091b,c:03091a
+5168:011a0000:0810:0002:25:0
+ITV Anglia East HD
+p:Sky Digital/Freesat,c:000915,c:010917,c:030915,f:08
+5172:011a0000:0810:0002:25:0
+ITV Border HD
+p:Sky Digital/Freesat,c:000906,c:010907,c:030906,f:08
+514a:011a0000:0810:0002:25:0
+UTV HD
+p:Sky Digital/Freesat,c:000908,c:010909,c:030908,f:08
+515a:011a0000:0810:0002:25:0
+ITV Box Office HD (Pubs)
+p:Sky Digital,c:00091a,c:01091b,c:03091a
+0e2d:011a0000:07f2:0002:25:0
+Sky Sports News HD (ROI)
+p:Sky Digital,c:000203,c:010283,c:020243,c:030203
+0cc9:011a0000:07f2:0002:25:0
+Sky Sports Mix HD
+p:Sky Digital
+0eee:011a0000:07f2:0002:25:1
+Sky Sports Action HD (UK & ROI)
+p:Sky Digital,c:000201,c:010281,c:020241,c:030201
+0ef0:011a0000:07f2:0002:25:2
+SkySp ActionHD (Pubs)
+p:Sky Digital,c:000201,c:010281,c:020241,c:030201
+0efb:011a0000:07f2:0002:25:3
+Sky Sports F1 HD (UK & ROI)
+p:Sky Digital,c:000200,c:010280,c:020240,c:030200
+0efc:011a0000:07f2:0002:25:4
+SkySp F1 HD (Pubs)
+p:Sky Digital,c:000200,c:010280,c:020240,c:030200
+0f0e:011a0000:07f2:0002:25:5
+Sky News HD
+p:Sky Digital,c:000202,c:010296,c:020242,c:030202
+0f26:011a0000:07f2:0002:25:6
+SkySpCricketHD (Pubs)
+p:Sky Digital,c:000204,c:010282,c:030204
+0f4b:011a0000:07f2:0002:25:8
+Sky Sports Cricket HD (UK & ROI)
+p:Sky Digital,c:000204,c:010282,c:020244,c:030204
+cf9b:011a0000:083a:0002:25:0
+NHK World HD
+p:Sky Digital/Freesat,c:00090b,c:01090d,c:03090b
+cf9f:011a0000:083a:0002:25:0
+53151
+p:Sky Digital/Freesat
+cf9e:011a0000:083a:0002:25:0
+Airang TV HD
+p:Sky Digital/Freesat,c:000905,c:010907,c:030905
+cfa0:011a0000:083a:0002:25:0
+eir Sport 2 HD (ROI)
+p:Sky Digital,c:000901,c:010902,c:030901
+cfa1:011a0000:083a:0002:25:0
+Premier Sports HD
+p:Sky Digital,c:000901,c:010902,c:030901
+cf9c:011a0000:083a:0002:25:0
+RT HD
+p:Sky Digital/Freesat,c:00092c,c:01092d,c:03092c
+cfa2:011a0000:083a:0002:25:0
+eir Sport 2 HD (ROI Pubs)
+p:Sky Digital,c:000901,c:010902,c:030901
+22c5:011a2b10:080d:0002:25:0
+BBC One HD (Scotland)
+p:Sky Digital/Freesat,c:0013ec,c:0113ed,c:0213ef,c:0313ec
+22e4:011a2b10:080d:0002:25:0
+CBeebies HD
+p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0314b4
+22cf:011a2b10:080d:0002:25:0
+BBC One HD (Wales)
+p:Sky Digital/Freesat,c:001450,c:011451,c:021453,c:031450
+22d9:011a2b10:080d:0002:25:0
+BBC News HD
+p:Sky Digital/Freesat,c:001388,c:011389,c:031388
+22e3:011a2b10:080d:0002:25:0
+BBC Four HD
+p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0314b4
+22f8:011a2b10:080d:0002:25:0
+CBeebies HD (Eire)
+p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0314b4
+22f7:011a2b10:080d:0002:25:0
+BBC Four HD (Eire)
+p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0314b4
+c5f8:011a0000:0842:0002:25:0
+BT Sport 3 HD (UK & ROI)
+p:Sky Digital,c:000926,c:010928,c:030926
+c5e4:011a0000:0842:0002:25:0
+BT Sport 1 HD (UK & ROI)
+p:Sky Digital,c:00091c,c:01091d,c:03091e
+c5e9:011a0000:0842:0002:25:0
+AMC from BT HD
+p:Sky Digital,c:000938,c:010939,c:030938
+c5e5:011a0000:0842:0002:25:0
+BT Sport 1 HD (ROI Pubs)
+p:Sky Digital,c:00091c,c:01091d,c:03091e
+c5f9:011a0000:0842:0002:25:0
+BT Sport 3 HD (PubsI)
+p:Sky Digital,c:000926,c:010928,c:030926
+1ce9:011a0000:07f6:0002:25:0
+Astra UHD Demo
+p:SES,c:0000d2,c:0100dc,c:0300d2
+1ce8:011a0000:07f6:0002:25:0
+Astra UHD Demo
+p:SES,c:0000d2,c:0100dc,c:0300d2
+1cea:011a0000:07f6:0002:25:0
+Astra UHD Demo
+p:SES,c:000030,c:010102,c:030030
+5849:011a0000:082e:0002:1:0
+ATN Bangla
+p:Sky Digital/Freesat,c:000901,c:010902,c:030901
+5858:011a0000:082e:0002:1:0
+iON TV
+p:Sky Digital/Freesat,c:00091d,c:01091e,c:03091d
+5855:011a0000:082e:0002:1:0
+Aplus TV
+p:Sky Digital/Freesat,c:000918,c:010917,c:030918
+5853:011a0000:082e:0002:1:0
+Birmingham Local
+p:Sky Digital,c:000916,c:010915,c:030916
+5854:011a0000:082e:0002:1:0
+Liverpool Local
+p:Sky Digital,c:000903,c:010904,c:030903
+584c:011a0000:082e:0002:1:0
+XXXpanded TV2
+p:Sky Digital/Freesat,c:000907,c:010908,c:030907
+584b:011a0000:082e:0002:1:2
+Ahlebait TV
+p:Sky Digital/Freesat,c:000905,c:010906,c:030905
+584d:011a0000:082e:0002:1:3
+Hum Europe
+p:Sky Digital/Freesat,c:000909,c:01090a,c:030909
+584e:011a0000:082e:0002:1:4
+Talking Pictures TV
+p:Sky Digital/Freesat,c:00090c,c:01090b,c:03090c
+584f:011a0000:082e:0002:1:5
+Faith World TV
+p:Sky Digital/Freesat,c:000914,c:010913,c:030914
+5850:011a0000:082e:0002:1:6
+KICC TV
+p:Sky Digital/Freesat,c:00090d,c:01090e,c:03090d
+5851:011a0000:082e:0002:1:7
+XXXpanded TV
+p:Sky Digital/Freesat,c:00090f,c:010910,c:03090f
+5852:011a0000:082e:0002:1:0
+The Word Network
+p:Sky Digital/Freesat,c:000926,c:010927,c:030926
+5856:011a0000:082e:0002:1:0
+TV 99
+p:Sky Digital/Freesat,c:00091a,c:01091b,c:03091a
+584a:011a0000:082e:0002:1:0
+CHSTV (Channel S Bangladesh)
+p:Sky Digital/Freesat,c:000928,c:010929,c:030928
+5857:011a0000:082e:0002:1:0
+92 News
+p:Sky Digital/Freesat,c:000911,c:010912,c:030911
+5859:011a0000:082e:0002:1:0
+Hum Masala
+p:Sky Digital/Freesat,c:000920,c:010921,c:030920
+585a:011a0000:082e:0002:1:0
+Hum News
+p:Sky Digital/Freesat,c:00092c,c:01092d,c:03092c
+585e:011a0000:082e:0002:1:0
+Bristol Local
+p:Sky Digital,c:000916,c:010915,c:030916
+585f:011a0000:082e:0002:1:1
+Cardiff Local
+p:Sky Digital,c:000916,c:010915,c:030916
+5860:011a0000:082e:0002:1:2
+Leeds Local
+p:Sky Digital,c:000916,c:010915,c:030916
+5861:011a0000:082e:0002:1:0
+Tyne & Wear Local
+p:Sky Digital,c:000916,c:010915,c:030916
+587b:011a0000:082e:0002:2:0
+WRN Europe
+p:Sky Digital/Freesat,c:010923,c:030923
+587c:011a0000:082e:0002:2:1
+TWR
+p:Sky Digital/Freesat,c:010925,c:030925
+587d:011a0000:082e:0002:2:2
+Desi Radio
+p:Sky Digital/Freesat,c:010919,c:030919
+587e:011a0000:082e:0002:2:3
+Hits Radio
+p:Sky Digital/Freesat,c:01091c,c:03091c
+587f:011a0000:082e:0002:2:4
+Kanshi Radio
+p:Sky Digital/Freesat,c:010903,c:030903
+5880:011a0000:082e:0002:2:5
+Liberty Radio
+p:Sky Digital/Freesat,c:010904,c:030904
+5881:011a0000:082e:0002:2:6
+Jazz FM
+p:Sky Digital/Freesat,c:010924,c:030924
+5882:011a0000:082e:0002:2:7
+Solar Radio
+p:Sky Digital/Freesat,c:01091f,c:03091f
+5883:011a0000:082e:0002:2:8
+GN Radio
+p:Sky Digital/Freesat,c:010922,c:030922
+2968:011a0000:090b:003b:1:0
+TRP 1 (The Racing Partnership)
+p:Freesat,c:001771,c:011772,c:031771
+2922:011a0000:090b:003b:2:1
+Freesat Info
+p:Freesat,c:010e13,c:030e13
+c4e0:011a2b68:0837:0002:1:0
+Arise News
+p:Sky Digital/Freesat,c:000a2d,c:010a2e,c:030900
+c526:011a2b68:0837:0002:1:0
+ARY Family
+p:Sky Digital/Freesat,c:00091a,c:01091b,c:03091a
+c535:011a2b68:0837:0002:1:0
+Chat Box
+p:Sky Digital,c:000934,c:010935,c:030934
+c53a:011a2b68:0837:0002:1:0
+Dunya News
+p:Sky Digital/Freesat,c:000901,c:01090b,c:030901
+c53f:011a2b68:0837:0002:1:0
+MATV National
+p:Sky Digital/Freesat,c:00093a,c:01093b,c:03093a
+c541:011a2b68:0837:0002:1:0
+New Vision TV
+p:Sky Digital/Freesat,c:000911,c:010912,c:030911
+c52b:011a2b68:0837:0002:1:0
+Sanskar
+p:Sky Digital,c:000927,c:010926,c:030927
+c4ef:011a2b68:0837:0002:1:0
+Islam Channel Urdu
+p:Sky Digital/Freesat,c:000909,c:01090a,c:030909
+c508:011a2b68:0837:0002:1:0
+Studio 66 TV2
+p:Sky Digital,c:000905,c:010906,c:030905
+c50d:011a2b68:0837:0002:1:0
+Studio 66 TV3
+p:Sky Digital,c:000907,c:010908,c:030907
+c521:011a2b68:0837:0002:1:0
+Believe TV
+p:Sky Digital,c:000914,c:010915,c:030914
+c512:011a2b68:0837:0002:1:0
+Faith Channel
+p:Sky Digital,c:000912,c:010913,c:030912
+c517:011a2b68:0837:0002:1:0
+News 18 (India)
+p:Sky Digital,c:00090e,c:01090f,c:03090e
+c51c:011a2b68:0837:0002:1:0
+Brit Asia TV
+p:Sky Digital,c:000910,c:010911,c:030910
+c4e5:011a2b68:0837:0002:1:1
+Geo News
+p:Sky Digital,c:000925,c:010924,c:030902
+c4ea:011a2b68:0837:0002:1:2
+Urdu 1
+p:Sky Digital,c:00092e,c:01092f,c:03092e
+c4f9:011a2b68:0837:0002:1:3
+V Channel
+p:Sky Digital,c:000922,c:010923,c:030904
+c503:011a2b68:0837:0002:1:5
+Samaa TV
+p:Sky Digital/Freesat,c:00090c,c:01090d,c:03090c
+c4fe:011a2b68:0837:0002:1:0
+VTV
+p:Sky Digital,c:000919,c:010918,c:030919
+1839:011a305e:07f3:0002:1:0
+Discovery
+p:Sky Digital,c:000901,c:010902,c:020904,c:030901
+183a:011a305e:07f3:0002:1:1
+Animal Planet
+p:Sky Digital,c:000905,c:010906,c:020908,c:030905
+183c:011a305e:07f3:0002:1:2
+Discovery+1
+p:Sky Digital,c:00090d,c:01090e,c:020910,c:03090d
+183d:011a305e:07f3:0002:1:3
+TLC (Ireland)
+p:Sky Digital,c:000911,c:010912,c:020914,c:030911
+183e:011a305e:07f3:0002:1:4
+Discovery Science
+p:Sky Digital,c:000915,c:010916,c:020918,c:030915
+183f:011a305e:07f3:0002:1:5
+Disc.History
+p:Sky Digital,c:000919,c:01091a,c:02091c,c:030919
+1840:011a305e:07f3:0002:1:6
+Discovery Home & Health
+p:Sky Digital,c:00091d,c:01091e,c:020920,c:03091d
+1841:011a305e:07f3:0002:1:7
+Disc.Turbo
+p:Sky Digital,c:000921,c:010922,c:020924,c:030921
+1842:011a305e:07f3:0002:1:8
+Discovery (Ireland)
+p:Sky Digital,c:000925,c:010926,c:020928,c:030925
+1843:011a305e:07f3:0002:1:9
+Quest Red+1
+p:Sky Digital/Freesat,c:000913,c:010929,c:02092a,c:030913
+1844:011a305e:07f3:0002:1:10
+I.D (ROI)
+p:Sky Digital,c:000931,c:010932,c:020933,c:030931
+1845:011a305e:07f3:0002:1:11
+Quest
+p:Sky Digital/Freesat,c:00093c,c:01093f,c:02093e,c:03093c
+1846:011a305e:07f3:0002:1:12
+Quest Red
+p:Sky Digital/Freesat,c:000934,c:010936,c:020937,c:030934
+1847:011a305e:07f3:0002:1:0
+Quest+1
+p:Sky Digital/Freesat,c:000938,c:010939,c:030938
+1859:011a305e:07f3:0002:1:13
+TLC (UK)
+p:Sky Digital,c:000909,c:01090a,c:02090c,c:030909
+03ea:011a0000:07f0:0002:25:2
+Sky Intro HD
+p:Sky Digital,c:000201,c:010281,c:030201
+2422:011a0000:07f0:0002:25:0
+9250
+p:Sky Digital,c:000901,c:010906,c:030901
+0f5c:011a0000:07f0:0002:25:0
+3932
+p:Sky Digital
+2334:011a0000:07f0:0002:25:3
+Ultra HD
+p:Sky Digital,c:00020a,c:01029e,c:03020a
+11d7:011a0000:07f0:0002:25:0
+Sky Intro HD
+p:Sky Digital,c:000201,c:010281,c:030201
+232a:011a0000:07f0:0002:25:4
+Ultra HD
+p:Sky Digital,c:00020a,c:01029e,c:03020a
+1a2c:011a0000:0834:0002:1:0
+Channel 44
+p:Sky Digital/Freesat,c:000906,c:010907,c:030906
+1a30:011a0000:0834:0002:1:0
+Premier Sports 2
+p:Sky Digital/Freesat
+1a2f:011a0000:0834:0002:1:0
+A1TV
+p:Sky Digital/Freesat,c:000908,c:010909,c:030908
+1a2d:011a0000:0834:0002:1:1
+Abu Dhabi TV
+p:Sky Digital/Freesat,c:000904,c:010905,c:030904
+0f0d:011a2f9c:07f1:0002:25:0
+Sky Atlantic HD
+p:Sky Digital,c:000201,c:010281,c:020243,c:030201
+0f15:011a2f9c:07f1:0002:25:1
+Sky One HD
+p:Sky Digital,c:000200,c:010280,c:020240,c:030200
+0f19:011a2f9c:07f1:0002:25:2
+Sky One HD
+p:Sky Digital,c:000200,c:010280,c:020240,c:030200
+0f58:011a2f9c:07f1:0002:25:3
+Sky Witness HD
+p:Sky Digital,c:000203,c:010283,c:020241,c:030203
+0f79:011a2f9c:07f1:0002:25:4
+Sky News HD
+p:Sky Digital,c:000205,c:010285,c:020245,c:030205
+22e3:011a0000:080d:0002:25:0
+BBC Four HD
+p:BSkyB,f:01
+1e46:011a0000:0809:0002:25:0
+Channel 5HD
 p:BSkyB
-100c:011a0000:07e9:0002:1:0
-Sky AtlanticVIP
+1845:011a0000:07f3:0002:1:0
+QUEST
+p:BSkyB,c:00093c,c:01093f,c:02093e,c:03093c
+1847:011a0000:07f3:0002:1:0
+QUEST+1
+p:BSkyB,c:000938,c:01093a,c:02093b,c:030938
+d020:011a0000:0909:0002:1:0
+BT Sport 2
 p:BSkyB
-122d:011a0000:07e9:0002:1:0
-History
+d7dc:011a0000:0900:0002:1:0
+BT Sport 3
 p:BSkyB
-1659:011a0000:07e9:0002:1:0
-H2
+d025:011a0000:0909:0002:1:0
+BT Sport//ESPN
 p:BSkyB
-2463:011a0000:07e9:0002:1:0
-At The Races
+c49b:011a0000:0819:0002:1:0
+BT Sport Extra 1
+p:BSkyB © DirtyDonki Settings,c:00091a,c:01091b,c:03091a,f:01
+cfe4:011a0000:0909:0002:1:0
+BT Sport Extra 2
 p:BSkyB
-138b:011a0000:07e9:0002:1:0
-History +1 hour
+cfee:011a0000:0909:0002:1:0
+BT Sport Extra 3
+p:BSkyB
+cff8:011a0000:0909:0002:1:0
+BT Sport Extra 4
+p:BSkyB
+d002:011a0000:0909:0002:1:0
+BT Sport Extra 5
+p:BSkyB
+d00c:011a0000:0909:0002:1:0
+BT Sport Extra 6
+p:BSkyB
+c7a9:011a0000:0821:0002:1:0
+Premier Sports
+p:BSkyB,c:00091f,c:01091e,c:030903
+c7a7:011a0000:0821:0002:1:0
+Setanta Ireland
+p:BSkyB,c:000918,c:010919,c:02091a,c:030901
+d85e:011a0000:0838:0002:1:0
+MUTV HD
+p:Sky Digital,c:000918,c:010919,c:030918
+0fc6:011a0000:07f0:0002:25:0
+Chelsea TV HD
+p:BSkyB
+d7e8:011a0000:082c:0002:1:0
+Racing UK HD
+p:Sky Digital,c:00090a,c:01090b,c:03090a
+c472:011a0000:0813:0002:1:0
+CNN HD
+p:Sky Digital/Freesat,c:000914,c:010915,c:030914
+d7e7:011a0000:082c:0002:1:0
+&tv HD
+p:Sky Digital/Freesat,c:000901,c:010903,c:030901
+0e27:011a0000:07e0:0002:25:0
+Star Plus HD
+p:BSkyB
+1859:011a0000:07d9:0002:1:0
+TLC
+p:BSkyB
+1537:011a0000:07e7:0002:1:0
+ComedyXtra
+p:BSkyB
+2079:011a0000:07fa:0002:1:0
+Channel 4 +1
+p:BSkyB
+2071:011a0000:07fa:0002:1:0
+E4
+p:BSkyB
+ccbf:011a2d41:0831:0002:1:0
+DMAX
+p:Sky Digital,c:000920,c:010921,c:030920
+ccde:011a2d41:0831:0002:1:0
+TLC+1
+p:Sky Digital,c:000909,c:01090a,c:02090c,c:030909
+1843:011a0000:07d9:0002:1:0
+Quest Red+1
+p:BSkyB
+0585:011a0000:07db:0002:1:0
+Sky Atlantic+1
 p:BSkyB
 178e:011a0000:07e9:0002:1:0
 Real Lives
 p:BSkyB
+d017:011a0000:083f:0002:1:0
+Sony Channel +1
+p:Sky Digital,c:000935,c:010936,c:030935
+cd41:011a0000:0844:0002:1:0
+True Crime
+p:BSkyB,f:40
+cb5c:011a0000:0839:0002:1:0
+propeller
+p:BSkyB
+d854:011a0000:0838:0002:1:0
+Irish TV
+p:BSkyB
+ccce:011a2d41:0831:0002:1:0
+QUEST+1
+p:Sky Digital/Freesat,c:000922,c:010923,c:030922
+177a:011a0000:07d7:0002:1:0
+Lifetime+1
+p:BSkyB
+cce7:011a2d41:0831:0002:1:0
+TLC+2
+p:Sky Digital,c:000924,c:010925,c:030924
+2819:011a0000:0806:0002:1:0
+ITV Encore+1
+p:BSkyB
+ccc4:011a2d41:0831:0002:1:0
+DMAX+1
+p:Sky Digital,c:00090d,c:01090e,c:03090d
+cb8f:011a0000:083b:0002:1:0
+ABN TV
+p:BSkyB
+c508:011a0000:0837:0002:1:0
+Home & Leisure
+p:BSkyB
+1840:011a0000:07d9:0002:1:0
+Home & Health
+p:BSkyB
+cce2:011a2d41:0831:0002:1:0
+Home&Health+1
+p:Sky Digital,c:00090f,c:010910,c:03090f
+ccd8:011a2d41:0831:0002:1:0
+Discovery Shed
+p:Sky Digital,c:00091f,c:010920,c:03091f
+cb84:011a0000:083b:0002:1:0
+Travel Ch +1
+p:BSkyB
+c490:011a0000:0811:0002:1:0
+Flava
+p:BSkyB
+cd2d:011a0000:0844:0002:1:0
+tru TV+1
+p:BSkyB,c:000910,c:010911,c:030910
+cd3c:011a0000:0844:0002:1:0
+YourTV
+p:BSkyB,c:000905,c:010906,c:030905
+2409:011a0000:07f9:0002:1:0
+Film4 +1
+p:BSkyB
+cbcf:011a0000:083b:0002:1:0
+TCM+1
+p:BSkyB
+2418:011a0000:07f9:0002:1:0
+4Music
+p:BSkyB
+cbd4:011a0000:083b:0002:1:0
+Vintage TV
+p:BSkyB
+cb2a:011a0000:0839:0002:1:0
+NOW 80s
+p:BSkyB
+cb8b:011a0000:083b:0002:1:0
+Channel AKA
+p:BSkyB
+c49a:011a0000:0811:0002:1:0
+Keep It Country
+p:BSkyB
+0517:011a0000:07db:0002:1:0
+SkySp PL
+p:BSkyB
+0ffb:011a2fea:07ed:0002:1:0
+Sky Sports Mix
+p:Sky Digital,c:000914,c:010915,c:030901
+12c4:011a0000:07e9:0002:1:0
+At The Races
+p:BSkyB
+1655:011a0000:07ea:0002:1:0
+Chelsea TV
+p:BSkyB
+0f06:011a0000:07d7:0002:1:0
+LFCTV
+p:BSkyB
+12c8:011a0000:07e9:0002:1:0
+MUTV
+p:BSkyB
+cb26:011a0000:0839:0002:1:0
+FrontRunner
+p:BSkyB
+1400:011a0000:07d7:0002:1:0
+GINXeSportsTV
+p:BSkyB
+c42c:011a0000:0813:0002:1:0
+CNN
+p:BSkyB,c:000911,c:010912,c:020913,c:030911
 12c1:011a0000:07e9:0002:1:0
 FOX News
 p:BSkyB
-12c2:011a0000:07e9:0002:1:0
-Crime+Inv
+d859:011a0000:0838:0002:1:0
+CNC World
 p:BSkyB
-12c3:011a0000:07e9:0002:1:0
-Zee Punjabi
+1839:011a0000:07d9:0002:1:0
+Discovery
 p:BSkyB
-12c4:011a0000:07e9:0002:1:0
-At The Races
+183c:011a0000:07d9:0002:1:0
+Discovery+1
+p:BSkyB
+ccb0:011a2d41:0831:0002:1:0
+ID
+p:Sky Digital,c:000913,c:010914,c:020915,c:030913
+183a:011a0000:07d9:0002:1:0
+Animal Planet
+p:BSkyB
+1841:011a0000:07d9:0002:1:0
+Disc.Turbo
+p:BSkyB
+183e:011a0000:07d9:0002:1:0
+Disc.Science
 p:BSkyB
 12c5:011a0000:07e9:0002:1:0
 Nat Geo
@@ -458,2940 +3092,57 @@ p:BSkyB
 12c7:011a0000:07e9:0002:1:0
 Nat Geo Wild
 p:BSkyB
-12c8:011a0000:07e9:0002:1:0
-MUTV
+122d:011a0000:07e9:0002:1:0
+History
 p:BSkyB
-1034:011a0000:07e9:0002:4:0
-Anytime
+138b:011a0000:07e9:0002:1:0
+History +1 hour
 p:BSkyB
-0f01:011a0000:07ea:0002:1:0
-SkySp F'ball
-p:BSkyB
-1806:011a0000:07ea:0002:1:0
-SkySp Mix
-p:BSkyB
-0f0f:011a0000:07ea:0002:1:0
-SkySp F'ball
-p:BSkyB
-0520:011a0000:07ea:0002:1:0
-SkySp PL
-p:BSkyB
-053e:011a0000:07ea:0002:1:0
-SkySpCricket
-p:BSkyB
-1653:011a0000:07ea:0002:1:0
-Sky Living
-p:BSkyB
-1654:011a0000:07ea:0002:1:0
-Lifetime
-p:BSkyB
-1260:011a0000:07ea:0002:1:0
-Sky News
-p:BSkyB
-1262:011a0000:07ea:0002:1:0
-Sky News
-p:BSkyB
-107e:011a0000:07ea:0002:1:0
-SkySpCricket
-p:BSkyB
-1581:011a0000:07ea:0002:1:0
-SkySpCricket
-p:BSkyB
-128e:011a0000:07ea:0002:1:0
-Sky1
-p:BSkyB
-128f:011a0000:07ea:0002:1:0
-Pick
-p:BSkyB
-1290:011a0000:07ea:0002:1:0
-Sky2
-p:BSkyB
-1291:011a0000:07ea:0002:1:0
-Community
-p:BSkyB
-0fb6:011a0000:07ea:0002:1:0
-XXX SummerLust
-p:BSkyB
-0fb8:011a0000:07ea:0002:1:0
-MTV Beats
-p:BSkyB
-11d7:011a0000:07ea:0002:1:0
-4567
-p:BSkyB
-13f3:011a0000:07ea:0002:1:0
-Pick+1
-p:BSkyB
-0ffd:011a0000:07ea:0002:1:0
-SkySp Mix
-p:BSkyB
-0fff:011a0000:07ea:0002:1:0
-SkySp PL
-p:BSkyB
-1292:011a0000:07ea:0002:2:0
-SNR
-p:BSkyB
-cc01:011a0000:08ff:0002:1:0
-E!
-p:BSkyB
-cc06:011a0000:08ff:0002:1:0
-E!
-p:BSkyB
-cc0b:011a0000:08ff:0002:1:0
-E! +1
-p:BSkyB
-cc1a:011a0000:08ff:0002:1:0
-Syfy
-p:BSkyB
-cc1f:011a0000:08ff:0002:1:0
-Universal
-p:BSkyB
-cc20:011a0000:08ff:0002:1:0
-52256
-p:BSkyB
-cc24:011a0000:08ff:0002:1:0
-Universal
-p:BSkyB
-cc29:011a0000:08ff:0002:1:0
-Movies 24
-p:BSkyB
-cc2e:011a0000:08ff:0002:1:0
-Movies24+
-p:BSkyB
-cc38:011a0000:08ff:0002:1:0
-Syfy +1
-p:BSkyB
-cc42:011a0000:08ff:0002:1:0
-Bike
-p:BSkyB
-cbfc:011a0000:08ff:0002:1:0
-Universal+1
-p:BSkyB
-cc48:011a0000:08ff:0002:25:0
-S4C HD
-p:BSkyB
-0f02:011a0000:07db:0002:1:0
-SkySp Arena
-p:BSkyB
-0517:011a0000:07db:0002:1:0
-SkySp PL
-p:BSkyB
-151b:011a0000:07db:0002:1:0
-SkySp Golf
-p:BSkyB
-052e:011a0000:07db:0002:1:0
-SkySp PL
-p:BSkyB
-164d:011a0000:07db:0002:1:0
-Sky2
-p:BSkyB
-107c:011a0000:07db:0002:1:0
-SkySp Arena
-p:BSkyB
-0585:011a0000:07db:0002:1:0
-Sky Atlantic+1
-p:BSkyB
-1089:011a0000:07db:0002:1:0
-SkySp Golf
-p:BSkyB
-238d:011a0000:07db:0002:1:0
-Disney XD
-p:BSkyB
-238e:011a0000:07db:0002:1:0
-Disney Chnl
-p:BSkyB
-238f:011a0000:07db:0002:1:0
-Disney Junior
-p:BSkyB
-2390:011a0000:07db:0002:1:0
-Mickey & Pals
-p:BSkyB
-2391:011a0000:07db:0002:1:0
-Disney Chnl+1
-p:BSkyB
-2392:011a0000:07db:0002:1:0
-Disney Junior+
-p:BSkyB
-17d8:011a0000:07db:0002:1:0
-BabyTV
-p:BSkyB
-17da:011a0000:07db:0002:1:0
-SkyNws Arabia
-p:BSkyB
-17dc:011a0000:07db:0002:1:0
-Nicktoons
-p:BSkyB
-0cf5:011a0000:07db:0002:1:0
-SkySp PL
-p:BSkyB
-13f5:011a0000:07db:0002:1:0
-Pick
-p:BSkyB
-5302:011a0000:0814:0002:1:0
-4seven
-p:BSkyB
-52d0:011a0000:0814:0002:25:0
-Channel 4 HD
-p:BSkyB
-d002:011a0000:0909:0002:1:0
-BT Sport Extra 5
-p:BSkyB
-d00c:011a0000:0909:0002:1:0
-BT Sport Extra 6
-p:BSkyB
-d017:011a0000:0909:0002:1:0
-Sony Chnl +1
-p:BSkyB
-d01c:011a0000:0909:0002:1:0
-Motorsport TV
-p:BSkyB
-d020:011a0000:0909:0002:1:0
-BT Sport 2
-p:BSkyB
-d021:011a0000:0909:0002:1:0
-BT Sport 2
-p:BSkyB
-d025:011a0000:0909:0002:1:0
-BT Sport//ESPN
-p:BSkyB
-d026:011a0000:0909:0002:1:0
-BT Sport//ESPN
-p:BSkyB
-d031:011a0000:0909:0002:1:0
-BT Sport Mosaic 2
-p:BSkyB
-c4cd:011a0000:0909:0002:1:0
-53285
-p:BSkyB
-cfd0:011a0000:0909:0002:1:0
-Studio 66
-p:BSkyB
-cfd5:011a0000:0909:0002:1:0
-BoxNation
-p:BSkyB
-cfda:011a0000:0909:0002:1:0
-53210
-p:BSkyB
-cfdf:011a0000:0909:0002:1:0
-Get Lucky TV
-p:BSkyB
-cfe4:011a0000:0909:0002:1:0
-BT Sport Extra 2
-p:BSkyB
-cfee:011a0000:0909:0002:1:0
-BT Sport Extra 3
-p:BSkyB
-cff8:011a0000:0909:0002:1:0
-BT Sport Extra 4
-p:BSkyB
-2f03:011a3010:0000:0000:1:0
-Channel 4
-p:BSkyB
-2f08:011a3010:0000:0000:1:0
-Channel 4 +1
-p:BSkyB
-2f0d:011a3010:0000:0000:1:0
-E4+1
-p:BSkyB
-2f12:011a3010:0000:0000:1:0
-E4
-p:BSkyB
-2ee0:011a3010:0000:0000:1:0
-Magic
-p:BSkyB
-2ee5:011a3010:0000:0000:1:0
-The Box
-p:BSkyB
-2eea:011a3010:0000:0000:1:0
-KISS
-p:BSkyB
-2eef:011a3010:0000:0000:1:0
-Kerrang!
-p:BSkyB
-2ef4:011a3010:0000:0000:1:0
-Box Hits
-p:BSkyB
-2ef9:011a3010:0000:0000:1:0
-Box Upfront
-p:BSkyB
-2efe:011a3010:0000:0000:1:0
-More4
-p:BSkyB
-c503:011a0000:0813:0002:1:0
-Samaa
-p:BSkyB
-c508:011a0000:0813:0002:1:0
-Studio 66 2
-p:BSkyB
-c50d:011a0000:0813:0002:1:0
-Studio 66 3
-p:BSkyB
-c512:011a0000:0813:0002:1:0
-Flow TV
-p:BSkyB
-c517:011a0000:0813:0002:1:0
-News18
-p:BSkyB
-c51c:011a0000:0813:0002:1:0
-Brit Asia TV
-p:BSkyB
-c521:011a0000:0813:0002:1:0
-Believe TV
-p:BSkyB
-c526:011a0000:0813:0002:1:0
-Channel 44
-p:BSkyB
-c52b:011a0000:0813:0002:1:0
-Climax
-p:BSkyB
-c530:011a0000:0813:0002:1:0
-Gay Network
-p:BSkyB
-c535:011a0000:0813:0002:1:0
-Chat Box
-p:BSkyB
-c53a:011a0000:0813:0002:1:0
-ExGirlfriends
-p:BSkyB
-c53f:011a0000:0813:0002:1:0
-MATV National
-p:BSkyB
-c4e0:011a0000:0813:0002:1:0
-Times Now
-p:BSkyB
-c4e5:011a0000:0813:0002:1:0
-GEO News
-p:BSkyB
-c4ea:011a0000:0813:0002:1:0
-Urdu1 Europe
-p:BSkyB
-c4ef:011a0000:0813:0002:1:0
-Islam Channel
-p:BSkyB
-c4f9:011a0000:0813:0002:1:0
-V Channel
-p:BSkyB
-c4fe:011a0000:0813:0002:1:0
-Made In Tn&Wr
-p:BSkyB
-0f06:011a0000:07d7:0002:1:0
-LFCTV
-p:BSkyB
-0e1f:011a0000:07d7:0002:1:0
-3e
-p:BSkyB
-177b:011a0000:07d7:0002:1:0
-Crime+Inv +1
-p:BSkyB
-2584:011a0000:07d7:0002:1:0
-TV3+1
-p:BSkyB
-1789:011a0000:07d7:0002:1:0
-Real Lives+1
-p:BSkyB
-178a:011a0000:07d7:0002:1:0
-Challenge+1
-p:BSkyB
-178f:011a0000:07d7:0002:1:0
-Challenge
-p:BSkyB
-1791:011a0000:07d7:0002:1:0
-Forces TV
-p:BSkyB
-17ec:011a0000:07d7:0002:1:0
-RTÉ One
-p:BSkyB
-17ee:011a0000:07d7:0002:1:0
-RTÉ2
-p:BSkyB
-17f0:011a0000:07d7:0002:1:0
-RTÉjr
-p:BSkyB
-17f2:011a0000:07d7:0002:1:0
-Oireachtas TV
-p:BSkyB
-17f4:011a0000:07d7:0002:1:0
-TG4
-p:BSkyB
-17f6:011a0000:07d7:0002:1:0
-RTÉ One +1
-p:BSkyB
-17f8:011a0000:07d7:0002:1:0
-RTÉ News Now
-p:BSkyB
-13fb:011a0000:07d7:0002:1:0
-VICELAND
-p:BSkyB
-1800:011a0000:07d7:0002:2:0
-RTÉ R na G
-p:BSkyB
-1802:011a0000:07d7:0002:2:0
-RTÉ Lyric fm
-p:BSkyB
-17fc:011a0000:07d7:0002:2:0
-RTÉ Radio 1
-p:BSkyB
-17fe:011a0000:07d7:0002:2:0
-RTÉ 2FM
-p:BSkyB
-1907:011a0000:07ff:0002:1:0
-ETV2
-p:BSkyB
-1915:011a0000:07ff:0002:1:0
-BBC One Scot
-p:BSkyB
-1916:011a0000:07ff:0002:1:0
-BBC Two Scot
-p:BSkyB
-1917:011a0000:07ff:0002:1:0
-BBC ALBA
-p:BSkyB
-1918:011a0000:07ff:0002:1:0
-BBC ALBA
-p:BSkyB
-1929:011a0000:07ff:0002:1:0
-BBC One N West
-p:BSkyB
-1933:011a0000:07ff:0002:1:0
-BBC One Yorks
-p:BSkyB
-193d:011a0000:07ff:0002:1:0
-BBC One S East
-p:BSkyB
-1947:011a0000:07ff:0002:1:0
-BBC One NE&C
-p:BSkyB
-1901:011a0000:07ff:0002:2:0
-BBC R5L
-p:BSkyB
-1932:011a0000:07ff:0002:2:0
-BBC R1
-p:BSkyB
-1934:011a0000:07ff:0002:2:0
-BBC R2
-p:BSkyB
-193c:011a0000:07ff:0002:2:0
-BBC Asian
-p:BSkyB
-1940:011a0000:07ff:0002:2:0
-BBC R5SX
-p:BSkyB
-1942:011a0000:07ff:0002:2:0
-BBC R1X
-p:BSkyB
-1946:011a0000:07ff:0002:2:0
-BBC RLondon
-p:BSkyB
-0f08:011a0000:07e7:0002:1:0
-SkySp F'ball
-p:BSkyB
-1519:011a0000:07e7:0002:1:0
-SkySp Golf
-p:BSkyB
-151a:011a0000:07e7:0002:1:0
-FOX+1
-p:BSkyB
-151c:011a0000:07e7:0002:1:0
-SkySp Golf
-p:BSkyB
-1325:011a0000:07e7:0002:1:0
-Sky Atlantic
-p:BSkyB
-132a:011a0000:07e7:0002:1:0
-SkySpBoxOff
-p:BSkyB
-132b:011a0000:07e7:0002:1:0
-SkySp News
-p:BSkyB
-132c:011a0000:07e7:0002:1:0
-SP News
-p:BSkyB
-132d:011a0000:07e7:0002:1:0
-SkySp News
-p:BSkyB
-132e:011a0000:07e7:0002:1:0
-SkySp News
-p:BSkyB
-1332:011a0000:07e7:0002:1:0
-SkySpMainEv
-p:BSkyB
-1537:011a0000:07e7:0002:1:0
-ComedyXtra
-p:BSkyB
-153a:011a0000:07e7:0002:1:0
-SkySp Golf
-p:BSkyB
-164f:011a0000:07e7:0002:1:0
-Sky Atlantic
-p:BSkyB
-1650:011a0000:07e7:0002:1:0
-Sky Living+1
-p:BSkyB
-1651:011a0000:07e7:0002:1:0
-Eurosport 1
-p:BSkyB
-1652:011a0000:07e7:0002:1:0
-TCM
-p:BSkyB
-1073:011a0000:07e7:0002:1:0
-SkySp News
-p:BSkyB
-1391:011a0000:07e7:0002:1:0
-Eurosport 2
-p:BSkyB
-109f:011a0000:07e7:0002:1:0
-SkySpMainEv
-p:BSkyB
-14bd:011a0000:07e7:0002:1:0
-S1Test
-p:BSkyB
-17e0:011a0000:07e7:0002:1:0
-Nickelodeon
-p:BSkyB
-17e2:011a0000:07e7:0002:1:0
-Nickelodeon+1
-p:BSkyB
-0cf4:011a0000:07e7:0002:1:0
-SkySp F'ball
-p:BSkyB
-0efe:011a0000:07e7:0002:1:0
-SkySp F'ball
-p:BSkyB
-270f:011a0000:090a:0002:1:0
-53305
-p:BSkyB
-d034:011a0000:090a:0002:1:0
-tru Tv+1
-p:BSkyB
-d039:011a0000:090a:0002:1:0
-tru TV
-p:BSkyB
-d03e:011a0000:090a:0002:1:0
-Scuzz
-p:BSkyB
-d043:011a0000:090a:0002:1:0
-Chartshow Hits
-p:BSkyB
-d048:011a0000:090a:0002:1:0
-True Movies
-p:BSkyB
-d04d:011a0000:090a:0002:1:0
-True Movies+1
-p:BSkyB
-d052:011a0000:090a:0002:1:0
-Tiny Pop
-p:BSkyB
-d057:011a0000:090a:0002:1:0
-Starz TV
-p:BSkyB
-d05c:011a0000:090a:0002:1:0
-POP
-p:BSkyB
-d061:011a0000:090a:0002:1:0
-Tiny Pop +1
-p:BSkyB
-d066:011a0000:090a:0002:1:0
-Pop Max
-p:BSkyB
-d06b:011a0000:090a:0002:1:0
-The Vault
-p:BSkyB
-d070:011a0000:090a:0002:1:0
-Pop Max+1
-p:BSkyB
-d075:011a0000:090a:0002:1:0
-Chart Show TV
-p:BSkyB
-d07a:011a0000:090a:0002:1:0
-POP+1
-p:BSkyB
-d07f:011a0000:090a:0002:1:0
-True Ent
-p:BSkyB
-d084:011a0000:090a:0002:1:0
-True Ent +1
-p:BSkyB
-1810:011a0000:07dc:0002:1:0
-Challenge
-p:BSkyB
-1612:011a0000:07dc:0002:1:0
-Sky Greats
-p:BSkyB
-041e:011a0000:07dc:0002:1:0
-ETFG
-p:BSkyB
-1133:011a0000:07dc:0002:1:0
-Sky Family
-p:BSkyB
-1134:011a0000:07dc:0002:1:0
-Sky Premiere
-p:BSkyB
-1135:011a0000:07dc:0002:1:0
-Sky Prem+1
-p:BSkyB
-1136:011a0000:07dc:0002:1:0
-Sky Thriller
-p:BSkyB
-bf68:011a0000:07dc:0002:1:0
- (sub b +1000)
-p:BSkyB
-157e:011a0000:07dc:0002:1:0
-Sky DramaRom
-p:BSkyB
-bb80:011a0000:07dc:0002:1:0
-___4110
-p:BSkyB
-138c:011a0000:07dc:0002:1:0
-Sky Intro
-p:BSkyB
-b798:011a0000:07dc:0002:1:0
-___4109
-p:BSkyB
-1199:011a0000:07dc:0002:1:0
-Sky
-p:BSkyB
-11a3:011a0000:07dc:0002:1:0
-Sky Intro
-p:BSkyB
-11ad:011a0000:07dc:0002:1:0
-Sky Intro
-p:BSkyB
-22c4:011a0000:07dc:0002:1:0
-EPGP1T
-p:BSkyB
-10ce:011a0000:07dc:0002:1:0
-Sky Action
-p:BSkyB
-10cf:011a0000:07dc:0002:1:0
-Sky Comedy
-p:BSkyB
-10d0:011a0000:07dc:0002:1:0
-Sky Fi
-p:BSkyB
-10d2:011a0000:07dc:0002:1:0
-Sky Select
-p:BSkyB
-10d4:011a0000:07dc:0002:1:0
-Sky Disney
-p:BSkyB
-17ea:011a0000:07dc:0002:1:0
-GINXeSportsTV
-p:BSkyB
-138f:011a0000:07dc:0002:2:0
-Chl Line-up
-p:BSkyB
-d110:011a0000:0832:0002:1:0
-TJC
-p:BSkyB
-d11a:011a0000:0832:0002:1:0
-Thane
-p:BSkyB
-d138:011a0000:0832:0002:1:0
-SonLife
-p:BSkyB
-d15e:011a0000:0832:0002:1:0
-Showcase
-p:BSkyB
-d15f:011a0000:0832:0002:1:0
-CNC World
-p:BSkyB
-0f13:011a0000:07e5:0002:1:0
-SkySp Arena
-p:BSkyB
-051a:011a0000:07e5:0002:1:0
-SkySp F1
-p:BSkyB
-051b:011a0000:07e5:0002:1:0
-SkySp F1
-p:BSkyB
-1656:011a0000:07e5:0002:1:0
-Sky1
-p:BSkyB
-1657:011a0000:07e5:0002:1:0
-Sky Arts
-p:BSkyB
-1658:011a0000:07e5:0002:1:0
-Sky Hits
-p:BSkyB
-125d:011a0000:07e5:0002:1:0
-Sky1
-p:BSkyB
-1076:011a0000:07e5:0002:1:0
-SkySpMainEv
-p:BSkyB
-1078:011a0000:07e5:0002:1:0
-SkySpMainEv
-p:BSkyB
-057b:011a0000:07e5:0002:1:0
-Sky1 +1
-p:BSkyB
-107b:011a0000:07e5:0002:1:0
-SkySp Action
-p:BSkyB
-107d:011a0000:07e5:0002:1:0
-SkySpMainEv
-p:BSkyB
-158b:011a0000:07e5:0002:1:0
-FOX
-p:BSkyB
-1591:011a0000:07e5:0002:1:0
-Cartoonito
-p:BSkyB
-1794:011a0000:07e5:0002:1:0
-Sky Living
-p:BSkyB
-1298:011a0000:07e5:0002:1:0
-TV3
-p:BSkyB
-1798:011a0000:07e5:0002:1:0
-ComedyCentral
-p:BSkyB
-119f:011a0000:07e5:0002:1:0
-SkySp Action
-p:BSkyB
-11a1:011a0000:07e5:0002:1:0
-SkySp Action
-p:BSkyB
-17de:011a0000:07e5:0002:1:0
-Sky Living+1
-p:BSkyB
-17e4:011a0000:07e5:0002:1:0
-Nick Jr.
-p:BSkyB
-17e6:011a0000:07e5:0002:1:0
-Lifetime+1
-p:BSkyB
-0eff:011a0000:07e5:0002:1:0
-SkySp Arena
-p:BSkyB
-cd14:011a0000:0902:0002:1:0
-Food Network
-p:BSkyB
-cd19:011a0000:0902:0002:1:0
-PBS America
-p:BSkyB
-cd1e:011a0000:0902:0002:1:0
-Food Netwrk+1
-p:BSkyB
-cd23:011a0000:0902:0002:1:0
-Dunya News
-p:BSkyB
-cd28:011a0000:0902:0002:1:0
-Gems TV
-p:BSkyB
-cd2d:011a0000:0902:0002:1:0
-QUEST
-p:BSkyB
-cd32:011a0000:0902:0002:1:0
-Made In Bristol
-p:BSkyB
-cd37:011a0000:0902:0002:1:0
-New Vision +1
-p:BSkyB
-cd3c:011a0000:0902:0002:1:0
-YourTV
-p:BSkyB
-cd3f:011a0000:0902:0002:1:0
-At The Races
-p:BSkyB
-cd41:011a0000:0902:0002:1:0
-True Crime
-p:BSkyB
-cd46:011a0000:0902:0002:1:0
-Quest Red
-p:BSkyB
-cd48:011a0000:0902:0002:1:0
-Babenation
-p:BSkyB
-cd4a:011a0000:0902:0002:1:0
-Made In Leeds
-p:BSkyB
-cd4c:011a0000:0902:0002:1:0
-FreeSports
-p:BSkyB
-cd4e:011a0000:0902:0002:1:0
-Craft Extra
-p:BSkyB
-cd5a:011a0000:0902:0002:1:0
-FRANCE Eng
-p:BSkyB
-cd5f:011a0000:0902:0002:1:0
-TV5 MONDE
-p:BSkyB
-1e15:011a0000:0809:0002:1:0
-Channel 5
-p:BSkyB
-1e1e:011a0000:0809:0002:1:0
-5 USA
-p:BSkyB
-1e1f:011a0000:0809:0002:1:0
-5 USA +1
-p:BSkyB
-1e23:011a0000:0809:0002:1:0
-5STAR
-p:BSkyB
-1e24:011a0000:0809:0002:1:0
-My5
-p:BSkyB
-1e25:011a0000:0809:0002:1:0
-5STAR +1
-p:BSkyB
-1e28:011a0000:0809:0002:1:0
-Channel 5+1
-p:BSkyB
-1e32:011a0000:0809:0002:1:0
-Spike
-p:BSkyB
-1e33:011a0000:0809:0002:1:0
-7731
-p:BSkyB
-1e46:011a0000:0809:0002:25:0
-Channel 5HD
-p:BSkyB
-6217:011aaf61:0000:0000:1:0
-Drama
-p:BSkyB
-6218:011aaf61:0000:0000:1:0
-Really
-p:BSkyB
-1965:011aaf61:0000:0000:1:0
-Home
-p:BSkyB
-1966:011aaf61:0000:0000:1:0
-Eden
-p:BSkyB
-1968:011aaf61:0000:0000:1:0
-GOLD
-p:BSkyB
-1969:011aaf61:0000:0000:1:0
-YESTERDAY
-p:BSkyB
-196a:011aaf61:0000:0000:1:0
-Dave
-p:BSkyB
-196c:011aaf61:0000:0000:1:0
-Good Food
-p:BSkyB
-1978:011aaf61:0000:0000:1:0
-W
-p:BSkyB
-1979:011aaf61:0000:0000:1:0
-alibi
-p:BSkyB
-197a:011aaf61:0000:0000:1:0
-Drama
-p:BSkyB
-197b:011aaf61:0000:0000:1:0
-Really
-p:BSkyB
-c418:011a0000:0837:0002:1:0
-Cartoon Netwrk
-p:BSkyB
-c41d:011a0000:0837:0002:1:0
-Boomerang
-p:BSkyB
-c422:011a0000:0837:0002:1:0
-Boomerang +1
-p:BSkyB
-c427:011a0000:0837:0002:1:0
-CN+1
-p:BSkyB
-c42c:011a0000:0837:0002:1:0
-CNN
-p:BSkyB
-c472:011a0000:0837:0002:25:0
-CNN HD
-p:BSkyB
-041d:011a0000:07d4:0002:1:0
-ETBG
-p:BSkyB
-571d:011a0000:082b:0002:1:0
-QVC EXTRA
-p:BSkyB
-571e:011a0000:082b:0002:1:0
-QVC Style
-p:BSkyB
-571f:011a0000:082b:0002:1:0
-QVC Beauty
-p:BSkyB
-5726:011a0000:082b:0002:25:0
-Insight HD
-p:BSkyB,c:050001
-cb21:011a0000:0839:0002:1:0
-SONY MAX
-p:BSkyB
-cb22:011a0000:0839:0002:1:0
-Gospel Channel
-p:BSkyB
-cb24:011a0000:0839:0002:1:0
-ShoppingNation
-p:BSkyB
-cb25:011a0000:0839:0002:1:0
-Ideal Extra
-p:BSkyB
-cb26:011a0000:0839:0002:1:0
-FrontRunner
-p:BSkyB
-cb27:011a0000:0839:0002:1:0
-RishteyCine
-p:BSkyB
-cb2a:011a0000:0839:0002:1:0
-NOW 80s
-p:BSkyB
-cb47:011a0000:0839:0002:1:0
-Ideal World
-p:BSkyB
-cb48:011a0000:0839:0002:1:0
-Takbeer TV
-p:BSkyB
-cb52:011a0000:0839:0002:1:0
-COLORS
-p:BSkyB
-cb57:011a0000:0839:0002:1:0
-Create & Craft
-p:BSkyB
-cb5c:011a0000:0839:0002:1:0
-propeller
-p:BSkyB
-cb61:011a0000:0839:0002:1:0
-New Vision TV
-p:BSkyB
-cb66:011a0000:0839:0002:1:0
-TJC Choice
-p:BSkyB
-cb6b:011a0000:0839:0002:1:0
-Property Show
-p:BSkyB
-cb70:011a0000:0839:0002:1:0
-Ahlulbayt TV
-p:BSkyB
-cb80:011a0000:0839:0002:1:0
-Craft Channel
-p:BSkyB
-cb3c:011a0000:0839:0002:2:0
-BFBS Radio
-p:BSkyB
-cb3d:011a0000:0839:0002:2:0
-LBC
-p:BSkyB
-cb3e:011a0000:0839:0002:2:0
-Heart
-p:BSkyB
-cb3f:011a0000:0839:0002:2:0
-Heart 80s
-p:BSkyB
-cb40:011a0000:0839:0002:2:0
-Absolute
-p:BSkyB
-cb41:011a0000:0839:0002:2:0
-Absolute 80s
-p:BSkyB
-cb42:011a0000:0839:0002:2:0
-Absolute 90s
-p:BSkyB
-cb43:011a0000:0839:0002:2:0
-Classic Rock
-p:BSkyB
-d322:011a0000:0836:0002:1:0
-Television X
-p:BSkyB
-d324:011a0000:0836:0002:1:0
-xratedhookups
-p:BSkyB
-d325:011a0000:0836:0002:1:0
-TVXpornstars
-p:BSkyB
-d326:011a0000:0836:0002:1:0
-TVXpaypernight
-p:BSkyB
-d327:011a0000:0836:0002:1:0
-xrated40+
-p:BSkyB
-d328:011a0000:0836:0002:1:0
-holiday+cruise
-p:BSkyB
-d329:011a0000:0836:0002:1:0
-Style&Fashion
-p:BSkyB
-d32a:011a0000:0836:0002:1:0
-Craft Market
-p:BSkyB
-d32d:011a0000:0836:0002:1:0
-Zee TV
-p:BSkyB
-d32e:011a0000:0836:0002:1:0
-&TV
-p:BSkyB
-d32f:011a0000:0836:0002:1:0
-JUS Punjabi
-p:BSkyB
-2938:011a2ca1:0000:0000:1:0
-Fashion One
-p:Freesat
-2968:011a2ca1:0000:0000:1:0
-TRP 1
-p:
-1839:011a0000:07d9:0002:1:0
-Discovery
-p:BSkyB
-183a:011a0000:07d9:0002:1:0
-Animal Planet
-p:BSkyB
-183c:011a0000:07d9:0002:1:0
-Discovery+1
-p:BSkyB
-183d:011a0000:07d9:0002:1:0
-TLC
-p:BSkyB
-183e:011a0000:07d9:0002:1:0
-Disc.Science
+1659:011a0000:07e9:0002:1:0
+H2
 p:BSkyB
 183f:011a0000:07d9:0002:1:0
 Disc.History
 p:BSkyB
-1840:011a0000:07d9:0002:1:0
-Home & Health
-p:BSkyB
-1841:011a0000:07d9:0002:1:0
-Disc.Turbo
-p:BSkyB
-1842:011a0000:07d9:0002:1:0
-Discovery
-p:BSkyB
-1843:011a0000:07d9:0002:1:0
-Quest Red+1
-p:BSkyB
-1844:011a0000:07d9:0002:1:0
-ID
-p:BSkyB
-1859:011a0000:07d9:0002:1:0
-TLC
-p:BSkyB
-253b:011a0000:082f:0002:1:0
-GR SHOP
-p:BSkyB
-253d:011a0000:082f:0002:1:0
-Rocks & Co
-p:BSkyB
-d73e:011a0000:082f:0002:1:0
-High Street TV
-p:BSkyB
-2540:011a0000:082f:0002:1:0
-Sangat
-p:BSkyB
-d740:011a0000:082f:0002:1:0
-High Street TV 3
-p:BSkyB
-2541:011a0000:082f:0002:1:0
-Hochanda
-p:BSkyB
-d741:011a0000:082f:0002:1:0
-KTV
-p:BSkyB
-d745:011a0000:082f:0002:1:0
-Noor TV
-p:BSkyB
-d746:011a0000:082f:0002:1:0
-Aastha
-p:BSkyB
-d747:011a0000:082f:0002:1:0
-Heart TV
-p:BSkyB
-d748:011a0000:082f:0002:1:0
-CAPITAL TV
-p:BSkyB
-d749:011a0000:082f:0002:1:0
-Clubland TV
-p:BSkyB
-d74a:011a0000:082f:0002:1:0
-Chilled 90s
-p:BSkyB
-d74b:011a0000:082f:0002:1:0
-GEO Kahani
-p:BSkyB
-d74c:011a0000:082f:0002:1:0
-NDTV 24x7
-p:BSkyB
-d74d:011a0000:082f:0002:1:0
-PTC PUNJABI
-p:BSkyB
-d74e:011a0000:082f:0002:1:0
-mytv
-p:BSkyB
-254d:011a0000:082f:0002:2:0
-Capital XTRA
-p:BSkyB
-2557:011a0000:082f:0002:2:0
-Radio X
-p:BSkyB
-2558:011a0000:082f:0002:2:0
-Capital
-p:BSkyB
-d758:011a0000:082f:0002:2:0
-UCB Ireland
-p:BSkyB
-2559:011a0000:082f:0002:2:0
-Gold
-p:BSkyB
-255b:011a0000:082f:0002:2:0
-Khushkhabri
-p:BSkyB
-d75c:011a0000:082f:0002:2:0
-Smooth
-p:BSkyB
-d75d:011a0000:082f:0002:2:0
-SmoothExtra
-p:BSkyB
-2562:011a0000:082f:0002:2:0
-Classic FM
-p:BSkyB
-2567:011a0000:082f:0002:2:0
-Planet Rock
-p:BSkyB
-283d:011a0000:07fe:0002:1:0
-BBC One W Mid
-p:BSkyB
-283f:011a0000:07fe:0002:1:0
-BBC One Yk&Li
-p:BSkyB
-2841:011a0000:07fe:0002:1:0
-BBC One E Mid
-p:BSkyB
-2842:011a0000:07fe:0002:1:0
-BBC One East E
-p:BSkyB
-2843:011a0000:07fe:0002:1:0
-BBC Parliament
-p:BSkyB
-2847:011a0000:07fe:0002:1:0
-BBC One Wales
-p:BSkyB
-2848:011a0000:07fe:0002:1:0
-BBC Two Wales
-p:BSkyB
-2851:011a0000:07fe:0002:1:0
-ETV5
-p:BSkyB
-288c:011a0000:07fe:0002:2:0
-BBC R3
-p:BSkyB
-288d:011a0000:07fe:0002:2:0
-BBC R4 FM
-p:BSkyB
-288e:011a0000:07fe:0002:2:0
-BBC R4 LW
-p:BSkyB
-288f:011a0000:07fe:0002:2:0
-BBC 6 Music
-p:BSkyB
-2890:011a0000:07fe:0002:2:0
-BBC R4 Ex
-p:BSkyB
-2891:011a0000:07fe:0002:2:0
-BBC WS
-p:BSkyB
-2892:011a0000:07fe:0002:2:0
-BBC R Scot.
-p:BSkyB
-2893:011a0000:07fe:0002:2:0
-BBC R n Gael
-p:BSkyB
-2894:011a0000:07fe:0002:2:0
-BBC R Wales
-p:BSkyB
-2895:011a0000:07fe:0002:2:0
-BBC R Cymru
-p:BSkyB
-2896:011a0000:07fe:0002:2:0
-BBC R Ulster
-p:BSkyB
-2897:011a0000:07fe:0002:2:0
-BBC R Foyle
-p:BSkyB
-2f45:011a0000:07f4:0002:1:0
-ITV
-p:BSkyB
-2f49:011a0000:07f4:0002:1:0
-ITV +1
-p:BSkyB
-2f4e:011a0000:07f4:0002:1:0
-ITV
-p:BSkyB
-2f58:011a0000:07f4:0002:1:0
-ITV
-p:BSkyB
-2f62:011a0000:07f4:0002:1:0
-ITV
-p:BSkyB
-2f71:011a0000:07f4:0002:1:0
-ITV
-p:BSkyB
-2f76:011a0000:07f4:0002:1:0
-ITV Wales
-p:BSkyB
-2f7b:011a0000:07f4:0002:1:0
-ITV +1
-p:BSkyB
-2f85:011a0000:07f4:0002:1:0
-ITV +1
-p:BSkyB
-2f8a:011a0000:07f4:0002:1:0
-ITV
-p:BSkyB
-2f8f:011a0000:07f4:0002:1:0
-ITV +1
-p:BSkyB
-1647:011a0000:07e3:0002:1:0
-XXX HomeVids
-p:BSkyB
-1648:011a0000:07e3:0002:1:0
-XXX 18 & Dirty
-p:BSkyB
-155f:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-1560:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-1561:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-1562:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-1563:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-1564:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-1565:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-1566:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-1567:011a0000:07e3:0002:1:0
-Sports Active
-p:BSkyB
-0fb4:011a0000:07e3:0002:1:0
-XXX Stepfam
-p:BSkyB
-0fb5:011a0000:07e3:0002:1:0
-XXX Girl Girl
-p:BSkyB
-0fb7:011a0000:07e3:0002:1:0
-XXX Age Gaps
-p:BSkyB
-17d4:011a0000:07e3:0002:1:0
-XXX Mums
-p:BSkyB
-17d6:011a0000:07e3:0002:1:0
-XXX Brits
-p:BSkyB
-1523:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-152d:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-152e:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-152f:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-1530:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-1531:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-1532:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-1533:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-1534:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-1535:011a0000:07e3:0002:130:0
-Sports Active
-p:BSkyB
-5849:011a0000:082e:0002:1:0
-ATN Bangla UK
-p:BSkyB
-584b:011a0000:082e:0002:1:0
-Ahlebait TV
-p:BSkyB
-584c:011a0000:082e:0002:1:0
-Xpanded TV2
-p:BSkyB
-584d:011a0000:082e:0002:1:0
-HUM EUROPE
-p:BSkyB
-584e:011a0000:082e:0002:1:0
-TalkingPictures
-p:BSkyB
-584f:011a0000:082e:0002:1:0
-Faith World TV
-p:BSkyB
-5850:011a0000:082e:0002:1:0
-KICC TV
-p:BSkyB
-5851:011a0000:082e:0002:1:0
-Xpanded TV
-p:BSkyB
-5853:011a0000:082e:0002:1:0
-Made in Bham
-p:BSkyB
-5854:011a0000:082e:0002:1:0
-Made in L'Pool
-p:BSkyB
-5855:011a0000:082e:0002:1:0
-Aplus TV
-p:BSkyB
-5856:011a0000:082e:0002:1:0
-TV 99
-p:BSkyB
-5857:011a0000:082e:0002:1:0
-Bangla TV
-p:BSkyB
-5858:011a0000:082e:0002:1:0
-SEE TV
-p:BSkyB
-5859:011a0000:082e:0002:1:0
-HUM Masala
-p:BSkyB
-274c:011a0000:07fc:0002:1:0
-ITV
-p:BSkyB
-2756:011a0000:07fc:0002:1:0
-ITV2
-p:BSkyB
-2757:011a0000:07fc:0002:1:0
-CITV
-p:BSkyB
-2758:011a0000:07fc:0002:1:0
-ITV4
-p:BSkyB
-2759:011a0000:07fc:0002:1:0
-ITV4+1
-p:BSkyB
-275b:011a0000:07fc:0002:1:0
-ITVBe
-p:BSkyB
-2760:011a0000:07fc:0002:1:0
-ITV
-p:BSkyB
-276a:011a0000:07fc:0002:1:0
-ITV
-p:BSkyB
-276b:011a0000:07fc:0002:1:0
-ITV +1
-p:BSkyB
-2774:011a0000:07fc:0002:1:0
-ITV
-p:BSkyB
-2775:011a0000:07fc:0002:1:0
-ITV +1
-p:BSkyB
-d854:011a0000:0838:0002:1:0
-Irish TV
-p:BSkyB
-d841:011a0000:0838:0002:2:0
-WRN Europe
-p:BSkyB
-d842:011a0000:0838:0002:2:0
-Absolute 70s
-p:BSkyB
-d844:011a0000:0838:0002:2:0
-Ahomka RD
-p:BSkyB
-d845:011a0000:0838:0002:2:0
-TWR
-p:BSkyB
-d848:011a0000:0838:0002:2:0
-Desi Radio
-p:BSkyB
-d849:011a0000:0838:0002:2:0
-Rainbow
-p:BSkyB
-d84b:011a0000:0838:0002:2:0
-Kanshi Radio
-p:BSkyB
-d84d:011a0000:0838:0002:2:0
-Liberty
-p:BSkyB
-d851:011a0000:0838:0002:2:0
-Jazz FM
-p:BSkyB
-d853:011a0000:0838:0002:2:0
-Solar Radio
-p:BSkyB
-d860:011a0000:0838:0002:25:0
-Bloomberg HD
-p:BSkyB
-d863:011a0000:0838:0002:25:0
-BoxNation HD
-p:BSkyB
-d355:011a0000:0830:0002:1:0
-SONY TV
-p:BSkyB
-d356:011a0000:0830:0002:1:0
-Travel Channel
-p:BSkyB
-d357:011a0000:0830:0002:1:0
-Retail TV
-p:BSkyB
-d35b:011a0000:0830:0002:1:0
-SONY SAB
-p:BSkyB
-d35e:011a0000:0830:0002:1:0
-Al Arabiya
-p:BSkyB
-d360:011a0000:0830:0002:1:0
-Best Direct
-p:BSkyB
-d361:011a0000:0830:0002:1:0
-Sony Channel
-p:BSkyB
-d363:011a0000:0830:0002:1:0
-RT
-p:BSkyB
-d368:011a0000:0830:0002:1:0
-SONY MIX
-p:BSkyB
-d37c:011a0000:0830:0002:1:0
-Horse & Country
-p:BSkyB
-d386:011a0000:0830:0002:1:0
-JML Direct
-p:BSkyB
-d395:011a0000:0830:0002:1:0
-AAJ TAK
-p:BSkyB
-d397:011a0000:0830:0002:1:0
-ABP News
-p:BSkyB
-d39a:011a0000:0830:0002:1:0
-Glory TV
-p:BSkyB
-d39f:011a0000:0830:0002:1:0
-Tristar
-p:BSkyB
-d3a4:011a0000:0830:0002:1:0
-TV Warehouse
-p:BSkyB
-d3a9:011a0000:0830:0002:1:0
-GEO TV
-p:BSkyB
-1b59:011a0000:07da:0002:1:0
-MTV
-p:BSkyB
-1b5a:011a0000:07da:0002:1:0
-VH1
-p:BSkyB
-1b5b:011a0000:07da:0002:1:0
-MTV ROCKS
-p:BSkyB
-1b5d:011a0000:07da:0002:1:0
-MTV+1
-p:BSkyB
-1b5e:011a0000:07da:0002:1:0
-MTV HITS
-p:BSkyB
-1b5f:011a0000:07da:0002:1:0
-MTV BASE
-p:BSkyB
-1b60:011a0000:07da:0002:1:0
-MTV CLASSIC
-p:BSkyB
-1b61:011a0000:07da:0002:1:0
-VIVA
-p:BSkyB
-1b62:011a0000:07da:0002:1:0
-MTV
-p:BSkyB
-1b64:011a0000:07da:0002:1:0
-MTV MUSIC
-p:BSkyB
-1b65:011a0000:07da:0002:1:0
-MTV Music +1
-p:BSkyB
-1b66:011a0000:07da:0002:1:0
-MTV DANCE
-p:BSkyB
-206c:011a0000:07fa:0002:1:0
-E4+1
-p:BSkyB
-2071:011a0000:07fa:0002:1:0
-E4
-p:BSkyB
-2077:011a0000:07fa:0002:1:0
-Channel 4 +1
-p:BSkyB
-2078:011a0000:07fa:0002:1:0
-Channel 4 +1
-p:BSkyB
-2079:011a0000:07fa:0002:1:0
-Channel 4 +1
-p:BSkyB
-207a:011a0000:07fa:0002:1:0
-Channel 4 +1
-p:BSkyB
-207b:011a0000:07fa:0002:1:0
-Channel 4 +1
-p:BSkyB
-207c:011a0000:07fa:0002:1:0
-Channel 4 +1
-p:BSkyB
-2094:011a0000:07fa:0002:1:0
-More4
-p:BSkyB
-209e:011a0000:07fa:0002:1:0
-Film4
-p:BSkyB
-23f8:011a0000:07fa:0002:1:0
-e4
-p:BSkyB
-2870:011a0000:0800:0002:1:0
-CBBC
-p:BSkyB
-2871:011a0000:0800:0002:1:0
-BBC One South
-p:BSkyB
-2872:011a0000:0800:0002:1:0
-BBC One S West
-p:BSkyB
-2874:011a0000:0800:0002:1:0
-BBC One Oxford
-p:BSkyB
-2876:011a0000:0800:0002:1:0
-BBC NEWS
-p:BSkyB
-2879:011a0000:0800:0002:1:0
-BBC One NI
-p:BSkyB
-287a:011a0000:0800:0002:1:0
-BBC Two NI
-p:BSkyB
-2883:011a0000:0800:0002:1:0
-ETV6
-p:BSkyB
-2884:011a0000:0800:0002:1:0
-CBBC
-p:BSkyB
-2898:011a0000:0800:0002:1:0
-BBC One NI
-p:BSkyB
-2899:011a0000:0800:0002:1:0
-BBC Two NI
-p:BSkyB
-c47c:011a0000:0811:0002:1:0
-CHSTV
-p:BSkyB
-c481:011a0000:0811:0002:1:0
-FrontRunner 2
-p:BSkyB
-c486:011a0000:0811:0002:1:0
-Jewelry Maker
-p:BSkyB
-c489:011a0000:0811:0002:1:0
-PaversShoes.tv
-p:BSkyB
-c48c:011a0000:0811:0002:1:0
-Bloomberg
-p:BSkyB
-c490:011a0000:0811:0002:1:0
-Flava
-p:BSkyB
-c49b:011a0000:0811:0002:1:0
-Keep It Country
-p:BSkyB
-c49f:011a0000:0811:0002:1:0
-Sikh Channel
-p:BSkyB
-c4a4:011a0000:0811:0002:1:0
-LOVEWORLD TV
-p:BSkyB
-c4a9:011a0000:0811:0002:1:0
-Hillsong
-p:BSkyB
-c4ae:011a0000:0811:0002:1:0
-BLAZE
-p:BSkyB
-c4d6:011a0000:0811:0002:1:0
-Inspiration TV
-p:BSkyB
-c4db:011a0000:0811:0002:1:0
-Al Jazeera Eng
-p:BSkyB
-cb84:011a0000:083b:0002:1:0
-Travel Ch +1
-p:BSkyB
-cb86:011a0000:083b:0002:1:0
-Channels 24
-p:BSkyB
-cb87:011a0000:083b:0002:1:0
-Rishtey
-p:BSkyB
-cb88:011a0000:083b:0002:1:0
-Olive TV
-p:BSkyB
-cb89:011a0000:083b:0002:1:0
-Word Network
-p:BSkyB
-cb8a:011a0000:083b:0002:1:0
-Kanshi TV
-p:BSkyB
-cb8b:011a0000:083b:0002:1:0
-Channel AKA
-p:BSkyB
-cb8c:011a0000:083b:0002:1:0
-Star Plus
-p:BSkyB
-cb8d:011a0000:083b:0002:1:0
-Adult Channel
-p:BSkyB
-cb8f:011a0000:083b:0002:1:0
-ABN TV
-p:BSkyB
-cb90:011a0000:083b:0002:1:0
-Star Utsav
-p:BSkyB
-cb91:011a0000:083b:0002:1:0
-Star GOLD
-p:BSkyB
-cbac:011a0000:083b:0002:1:0
-Eman Channel
-p:BSkyB
-cbc9:011a0000:083b:0002:1:0
-Playboy TV
-p:BSkyB
-cbca:011a0000:083b:0002:1:0
-Safeer TV
-p:BSkyB
-cbcf:011a0000:083b:0002:1:0
-TCM+1
-p:BSkyB
-cbd4:011a0000:083b:0002:1:0
-Vintage TV
-p:BSkyB
-cbd9:011a0000:083b:0002:1:0
-Star Bharat
-p:BSkyB
-cba4:011a0000:083b:0002:2:0
-Panjab Radio
-p:BSkyB
-cba5:011a0000:083b:0002:2:0
-Sukh Sagar
-p:BSkyB
-cbe2:011a0000:083b:0002:2:0
-Kiss
-p:BSkyB
-cbe3:011a0000:083b:0002:2:0
-Magic
-p:BSkyB
-2788:011a0000:0805:0002:1:0
-ITV Border
-p:BSkyB
-278d:011a0000:0805:0002:1:0
-ITV +1
-p:BSkyB
-2792:011a0000:0805:0002:1:0
-ITV
-p:BSkyB
-2797:011a0000:0805:0002:1:0
-ITV Encore
-p:BSkyB
-279b:011a0000:0805:0002:1:0
-ITVBe+1
-p:BSkyB
-279c:011a0000:0805:0002:1:0
-ITV
-p:BSkyB
-27a1:011a0000:0805:0002:1:0
-ITV +1
-p:BSkyB
-27a6:011a0000:0805:0002:1:0
-ITV
-p:BSkyB
-27ab:011a0000:0805:0002:1:0
-ITV +1
-p:BSkyB
-27b0:011a0000:0805:0002:1:0
-ITV
-p:BSkyB
-27b5:011a0000:0805:0002:1:0
-ITV2+1
-p:BSkyB
-c789:011a0000:0815:0002:1:0
-BET:BlackEntTv
-p:BSkyB
-c78a:011a0000:0815:0002:1:0
-Nicktoons
-p:BSkyB
-c78b:011a0000:0815:0002:1:0
-ComedyCent+1
-p:BSkyB
-c78c:011a0000:0815:0002:1:0
-ComedyCentral
-p:BSkyB
-c78d:011a0000:0815:0002:1:0
-ComedyCent+1
-p:BSkyB
-c78e:011a0000:0815:0002:1:0
-ComedyXtra
-p:BSkyB
-c78f:011a0000:0815:0002:1:0
-ComedyXtra+1
-p:BSkyB
-c790:011a0000:0815:0002:1:0
-Nick Jr.
-p:BSkyB
-c791:011a0000:0815:0002:1:0
-Nick Jr Too
-p:BSkyB
-c792:011a0000:0815:0002:1:0
-Nick Jr+1
-p:BSkyB
-c793:011a0000:0815:0002:1:0
-Nickelodeon
-p:BSkyB
-c794:011a0000:0815:0002:1:0
-Nick Jr Too
-p:BSkyB
-c795:011a0000:0815:0002:1:0
-MTV MUSIC
-p:BSkyB
-cb96:011a0000:083c:0002:1:0
-PCNE Chinese
-p:BSkyB
-cb97:011a0000:083c:0002:1:0
-Islam Ch Urdu
-p:BSkyB
-cb9b:011a0000:083c:0002:1:0
-mta-muslim tv
-p:BSkyB
-cb9c:011a0000:083c:0002:1:0
-TBN UK
-p:BSkyB
-cb9e:011a0000:083c:0002:1:0
-GOD Channel
-p:BSkyB
-cb9f:011a0000:083c:0002:1:0
-revelation
-p:BSkyB
-cba7:011a0000:083c:0002:1:0
-Peace TV
-p:BSkyB
-cba8:011a0000:083c:0002:1:0
-EWTN Catholic
-p:BSkyB
-cbaa:011a0000:083c:0002:1:0
-DBN
-p:BSkyB
-cba9:011a0000:083c:0002:2:0
-EWTN
-p:BSkyB
-189d:011a0000:07fd:0002:1:0
-BBC One Lon
-p:BSkyB
-189e:011a0000:07fd:0002:1:0
-BBC Two Eng
-p:BSkyB
-18a2:011a0000:07fd:0002:1:0
-ETV1
-p:BSkyB
-18ac:011a0000:07fd:0002:1:0
-BBC Four
-p:BSkyB
-18ae:011a0000:07fd:0002:1:0
-CBeebies
-p:BSkyB
-18b1:011a0000:07fd:0002:1:0
-BBC One Lon
-p:BSkyB
-18b2:011a0000:07fd:0002:1:0
-BBC Two Eng
-p:BSkyB
-18c0:011a0000:07fd:0002:1:0
-BBC Four
-p:BSkyB
-18c2:011a0000:07fd:0002:1:0
-CBeebies
-p:BSkyB
-18c5:011a0000:07fd:0002:1:0
-BBC One West
-p:BSkyB
-18cf:011a0000:07fd:0002:1:0
-BBC One East W
-p:BSkyB
-18d9:011a0000:07fd:0002:1:0
-BBC One CI
-p:BSkyB
-18f6:011a0000:07fd:0002:1:0
-BBC RB1
-p:BSkyB
-18f7:011a0000:07fd:0002:1:0
-6391
-p:BSkyB
-d7a2:011a0000:0900:0002:1:0
-horror channel
-p:BSkyB
-d7a4:011a0000:0900:0002:1:0
-Lucky Star
-p:BSkyB
-d7a5:011a0000:0900:0002:1:0
-BT Sport 1
-p:BSkyB
-d7a7:011a0000:0900:0002:1:0
-AMC from BT
-p:BSkyB
-d7a9:011a0000:0900:0002:1:0
-CBS Action
-p:BSkyB
-d7ab:011a0000:0900:0002:1:0
-BT Sport 3
-p:BSkyB
-d7ad:011a0000:0900:0002:1:0
-High Street TV 2
-p:BSkyB
-d7ae:011a0000:0900:0002:1:0
-CBS Reality
-p:BSkyB
-d7af:011a0000:0900:0002:1:0
-BT Sport Extra 1
-p:BSkyB
-d7b1:011a0000:0900:0002:1:0
-CBS Reality+1
-p:BSkyB
-d7b2:011a0000:0900:0002:1:0
-horror ch+1
-p:BSkyB
-d7b3:011a0000:0900:0002:1:0
-BT Sport Mosaic
-p:BSkyB
-d7ba:011a0000:0900:0002:1:0
-Psychic Today
-p:BSkyB
-d7d2:011a0000:0900:0002:1:0
-BT Sport 1
-p:BSkyB
-d7d3:011a0000:0900:0002:1:0
-55251
-p:BSkyB
-d7d4:011a0000:0900:0002:1:0
-50368
-p:BSkyB
-c6d7:011a0000:0900:0002:1:0
-CBS Drama
-p:BSkyB
-d7dc:011a0000:0900:0002:1:0
-BT Sport 3
-p:BSkyB
-d7dd:011a0000:0900:0002:1:0
-50342
-p:BSkyB
-d7de:011a0000:0900:0002:1:0
-50343
-p:BSkyB
-d7e6:011a0000:0900:0002:1:0
-Made In Cardiff
-p:BSkyB
-d7ff:011a0000:0900:0002:1:0
-S4C
-p:BSkyB
-c7a7:011a0000:0817:0002:1:0
-eir Sport 1
-p:BSkyB
-c7a8:011a0000:0817:0002:1:0
-eir Sport 2
-p:BSkyB
-c7a9:011a0000:0817:0002:1:0
-Premier Sports
-p:BSkyB
-c7ac:011a0000:0817:0002:1:0
-movies4men
-p:BSkyB
-c7ad:011a0000:0817:0002:1:0
-Sony Movies
-p:BSkyB
-c7ae:011a0000:0817:0002:1:0
-mov4men+1
-p:BSkyB
-c7af:011a0000:0817:0002:1:0
-Sony Movies+1
-p:BSkyB
-c7b0:011a0000:0817:0002:1:0
-Racing UK
-p:BSkyB
-c7b1:011a0000:0817:0002:1:0
-Peace TV Urdu
-p:BSkyB
-c7b2:011a0000:0817:0002:1:0
-eir Sport 1
-p:BSkyB
-c7b3:011a0000:0817:0002:1:0
-eir Sport 2
-p:BSkyB
-c7b5:011a0000:0817:0002:1:0
-51125
-p:BSkyB
-c7b6:011a0000:0817:0002:1:0
-51126
-p:BSkyB
-c7aa:011a0000:0817:0002:2:0
-Newstalk
-p:BSkyB
-1db0:011a0000:082d:0002:1:0
-Home+1
-p:BSkyB
-1db5:011a0000:082d:0002:1:0
-GOLD +1
-p:BSkyB
-1dba:011a0000:082d:0002:1:0
-Eden+1
-p:BSkyB
-1dbf:011a0000:082d:0002:1:0
-W +1
-p:BSkyB
-1dc4:011a0000:082d:0002:1:0
-Dave
-p:BSkyB
-1dc8:011a0000:082d:0002:1:0
-Dave ja vu
-p:BSkyB
-1dca:011a0000:082d:0002:1:0
-Good Food +1
-p:BSkyB
-1dce:011a0000:082d:0002:1:0
-alibi +1
-p:BSkyB
-1de2:011a0000:082d:0002:1:0
-YESTERDAY+1
-p:BSkyB
-1de7:011a0000:082d:0002:1:0
-GOLD
-p:BSkyB
-1de8:011a0000:082d:0002:1:0
-alibi
-p:BSkyB
-1de9:011a0000:082d:0002:1:0
-W
-p:BSkyB
-ccb0:011a0000:0831:0002:1:0
-ID
-p:BSkyB
-ccb5:011a0000:0831:0002:1:0
-Animal Plnt+1
-p:BSkyB
-ccba:011a0000:0831:0002:1:0
-Disc.Sci+1
-p:BSkyB
-ccbf:011a0000:0831:0002:1:0
-DMAX
-p:BSkyB
-ccc4:011a0000:0831:0002:1:0
-DMAX+1
-p:BSkyB
-ccca:011a0000:0831:0002:1:0
-ID+1
-p:BSkyB
-ccce:011a0000:0831:0002:1:0
-QUEST+1
-p:BSkyB
-ccd3:011a0000:0831:0002:1:0
-Disc.History+1
-p:BSkyB
-ccd8:011a0000:0831:0002:1:0
-Discovery Shed
-p:BSkyB
-ccde:011a0000:0831:0002:1:0
-TLC+1
-p:BSkyB
-cce2:011a0000:0831:0002:1:0
-HomeHealth+1
-p:BSkyB
-cce7:011a0000:0831:0002:1:0
-TLC+2
-p:BSkyB
-c6c0:011a0000:082a:0002:1:0
-STV Edinburgh
-p:BSkyB
-c6c1:011a0000:082a:0002:1:0
-TRT World
-p:BSkyB
-c6c2:011a0000:082a:0002:1:0
-CNBC
-p:BSkyB
-c6c3:011a0000:082a:0002:1:0
-PTV Global
-p:BSkyB
-c6c4:011a0000:082a:0002:1:0
-Venus TV
-p:BSkyB
-c6c5:011a0000:082a:0002:1:0
-Hidayat TV
-p:BSkyB
-c6c6:011a0000:082a:0002:1:0
-IQRA BANGLA
-p:BSkyB
-c6c7:011a0000:082a:0002:1:0
-Madani Chnl
-p:BSkyB
-c6c8:011a0000:082a:0002:1:0
-Vox Africa
-p:BSkyB
-c6ca:011a0000:082a:0002:1:0
-B4U Music
-p:BSkyB
-c6cb:011a0000:082a:0002:1:0
-Channel i
-p:BSkyB
-c6cc:011a0000:082a:0002:1:0
-London Live
-p:BSkyB
-c6cd:011a0000:082a:0002:1:0
-IQRA TV
-p:BSkyB
-c6ce:011a0000:082a:0002:1:0
-STV2
-p:BSkyB
-c6cf:011a0000:082a:0002:1:0
-TVC News
-p:BSkyB
-c6d0:011a0000:082a:0002:1:0
-B4U Movies
-p:BSkyB
-d3c2:011a0000:0829:0002:1:0
-ROK
-p:BSkyB
-d3c4:011a0000:0829:0002:1:0
-PTV Prime
-p:BSkyB
-d3c6:011a0000:0829:0002:1:0
-Notts TV
-p:BSkyB
-d3c7:011a0000:0829:0002:1:0
-Akaal Channel
-p:BSkyB
-d3c8:011a0000:0829:0002:1:0
-CGTN
-p:BSkyB
-d3c9:011a0000:0829:0002:1:0
-Nollywood
-p:BSkyB
-d3ca:011a0000:0829:0002:1:0
-TVC News +1
-p:BSkyB
-d3cb:011a0000:0829:0002:1:0
-DM Plus TV
-p:BSkyB
-d3cc:011a0000:0829:0002:1:0
-AIT Int'l
-p:BSkyB
-d3cd:011a0000:0829:0002:1:0
-NTV
-p:BSkyB
-d3cf:011a0000:0829:0002:1:0
-BEN
-p:BSkyB
-d3d0:011a0000:0829:0002:1:0
-Euronews
-p:BSkyB
-d3d1:011a0000:0829:0002:1:0
-British Muslim
-p:BSkyB
-d3d2:011a0000:0829:0002:1:0
-TV One
-p:BSkyB
-d3d3:011a0000:0829:0002:1:0
-Abu Dhabi TV
-p:BSkyB
-d3d4:011a0000:0829:0002:1:0
-Cruise1st.tv
-p:BSkyB
-19c8:011a0000:07dd:0002:1:0
-QVC
-p:BSkyB
-0fe3:011a0000:07f7:0002:1:0
-4067
-p:BSkyB,c:050001
-0f0a:011a0000:07f7:0002:25:0
-Sky News HD
-p:BSkyB
-0f17:011a0000:07f7:0002:25:0
-Sky Arts HD
-p:BSkyB
-181a:011a0000:07f7:0002:25:0
-Sky Living HD
-p:BSkyB
-0e25:011a0000:07f7:0002:25:0
-FOX HD
-p:BSkyB
-0f47:011a0000:07f7:0002:25:0
-Sky Hits HD
-p:BSkyB,c:050001
-0f6f:011a0000:07f7:0002:25:0
-Sky1 HD
-p:BSkyB
-0f03:011a0000:07d5:0002:25:0
-SkySp F'ball HD
-p:BSkyB
-0f25:011a0000:07d5:0002:25:0
-SkySpMainEvHD
-p:BSkyB
-0f2a:011a0000:07d5:0002:25:0
-SkySp News HD
-p:BSkyB,c:050001
-2330:011a0000:07d5:0002:25:0
-H1Test
-p:BSkyB,c:050001
-0f4d:011a0000:07d5:0002:25:0
-SkySp News HD
-p:BSkyB
-0f56:011a0000:07d5:0002:25:0
-SkySp Golf HD
-p:BSkyB
-0f57:011a0000:07d5:0002:25:0
-SkySp PL HD
-p:BSkyB
-0f63:011a0000:07d5:0002:25:0
-SkySp F'ball HD
-p:BSkyB
-0fbd:011a0000:07d5:0002:25:0
-SkySp PL HD
-p:BSkyB
-0eda:011a0000:07d5:0002:25:0
-SkySpMainEvHD
-p:BSkyB
-0ef3:011a0000:07d5:0002:25:0
-SkySp Golf HD
-p:BSkyB
-0f04:011a0000:07f0:0002:25:0
-Film4 HD
-p:BSkyB
-040b:011a0000:07f0:0002:25:0
-SkySpBoxOffHD
-p:BSkyB
-0f68:011a0000:07f0:0002:25:0
-More4 HD
-p:BSkyB
-0fbe:011a0000:07f0:0002:25:0
-SONY TV HD
-p:BSkyB
-0fc2:011a0000:07f0:0002:25:0
-TG4 HD
-p:BSkyB
-0fc6:011a0000:07f0:0002:25:0
-Chelsea TV HD
-p:BSkyB
-0fc7:011a0000:07f0:0002:25:0
-Nick Jr. HD
-p:BSkyB
-03fe:011a0000:07f0:0002:25:0
-Sky Intro
-p:BSkyB
-5104:011a2b2c:0000:0000:25:0
-ITV HD
-p:BSkyB,f:01
-510e:011a2b2c:0000:0000:25:0
-ITV HD
-p:BSkyB
-5118:011a2b2c:0000:0000:25:0
-ITV HD
-p:BSkyB
-5122:011a2b2c:0000:0000:25:0
-ITV HD
-p:BSkyB
-50e6:011a2b2c:0000:0000:25:0
-ITV2 HD
-p:BSkyB
-50fa:011a2b2c:0000:0000:25:0
-ITV Wales HD
-p:BSkyB,f:01
-5208:011aab59:0000:0000:25:0
-ITV HD
-p:BSkyB,f:01
-521c:011aab59:0000:0000:25:0
-ITV HD
-p:BSkyB,f:01
-5226:011aab59:0000:0000:25:0
-ITV HD
-p:BSkyB,f:01
-5230:011aab59:0000:0000:25:0
-ITV HD
-p:BSkyB,f:01
-523a:011aab59:0000:0000:25:0
-ITV3 HD
-p:BSkyB,f:01
-5244:011aab59:0000:0000:25:0
-ITV4 HD
-p:BSkyB,f:01
-0f0d:011a0000:07f1:0002:25:0
-Sky Atlantic HD
-p:BSkyB
-0f15:011a0000:07f1:0002:25:0
-Sky1 HD
-p:BSkyB
-0f19:011a0000:07f1:0002:25:0
-Sky1 HD
-p:BSkyB
-0e26:011a0000:07f1:0002:25:0
-Discovery HD
-p:BSkyB
-0f58:011a0000:07f1:0002:25:0
-Sky Living HD
-p:BSkyB
-0f7a:011a0000:07f1:0002:25:0
-3962
-p:BSkyB
-0f7b:011a0000:07f1:0002:25:0
-3963
-p:BSkyB
-0ed9:011a0000:07f1:0002:25:0
-3801
-p:BSkyB
-0f0e:011a0000:07f2:0002:25:0
-Sky News HD
-p:BSkyB
-0f26:011a0000:07f2:0002:25:0
-SkySpCricketHD
-p:BSkyB
-0e2d:011a0000:07f2:0002:25:0
-SkySp News HD
-p:BSkyB
-0f4b:011a0000:07f2:0002:25:0
-SkySpCricketHD
-p:BSkyB
-0eee:011a0000:07f2:0002:25:0
-SkySp ActionHD
-p:BSkyB
-0ef0:011a0000:07f2:0002:25:0
-SkySp ActionHD
-p:BSkyB
-0efb:011a0000:07f2:0002:25:0
-SkySp F1 HD
-p:BSkyB
-0efc:011a0000:07f2:0002:25:0
-SkySp F1 HD
-p:BSkyB
-0f10:011a0000:07e4:0002:25:0
-ComedyCentHD
-p:BSkyB
-0f1c:011a0000:07e4:0002:25:0
-3868
-p:BSkyB
-0f1d:011a0000:07e4:0002:25:0
-NickelodeonHD
-p:BSkyB
-0e2b:011a0000:07e4:0002:25:0
-Disney XD HD
-p:BSkyB
-0f40:011a0000:07e4:0002:25:0
-MTV HD
-p:BSkyB
-0f53:011a0000:07e4:0002:25:0
-alibi HD
-p:BSkyB
-1971:011a0000:07e4:0002:25:0
-6513
-p:BSkyB,c:050001
-0ef8:011a0000:07e4:0002:25:0
-Nat Geo HD
-p:BSkyB
-0f12:011a0000:07d8:0002:25:0
-SkySp ArenaHD
-p:BSkyB
-0f24:011a0000:07d8:0002:25:0
-E4 HD
-p:BSkyB
-0e2e:011a0000:07d8:0002:25:0
-SkySpMainEvHD
-p:BSkyB
-0f4e:011a0000:07d8:0002:25:0
-Eurosport 2 HD
-p:BSkyB
-0f64:011a0000:07d8:0002:25:0
-SkySp ArenaHD
-p:BSkyB
-0edc:011a0000:07d8:0002:25:0
-Eurosport 1 HD
-p:BSkyB
-0f16:011a0000:07e0:0002:25:0
-Sky Thriller HD
-p:BSkyB,c:050001
-0e27:011a0000:07e0:0002:25:0
-Star Plus HD
-p:BSkyB
-0f3d:011a0000:07e0:0002:25:0
-Sky Select HD
-p:BSkyB,c:050001
-0eea:011a0000:07e0:0002:25:0
-Sky Family HD
-p:BSkyB,c:050001
-0eec:011a0000:07e0:0002:25:0
-3e HD
-p:BSkyB
-0eed:011a0000:07e0:0002:25:0
-SkyPremiereHD
-p:BSkyB
-d219:011a0000:0841:0002:25:0
-BT Sport 2 HD
-p:BSkyB
-d21a:011a0000:0841:0002:25:0
-BT Sport 2 HD
-p:BSkyB
-d21e:011a0000:0841:0002:25:0
-BT Sport 1 HD
-p:BSkyB
-d21f:011a0000:0841:0002:25:0
-BT Sport 2 HD
-p:BSkyB
-d220:011a0000:0841:0002:25:0
-BT Sport 3 HD
-p:BSkyB
-d223:011a0000:0841:0002:25:0
-BTSpt//ESPNHD
-p:BSkyB
-d224:011a0000:0841:0002:25:0
-BTSpt//ESPNHD
-p:BSkyB
-0f1b:011a0000:07eb:0002:25:0
-Good Food HD
-p:BSkyB
-0f1f:011a0000:07eb:0002:25:0
-Cartoon Net HD
-p:BSkyB,c:050001
-0f21:011a0000:07eb:0002:25:0
-Disney Jnr HD
-p:BSkyB
-0f23:011a0000:07eb:0002:25:0
-Disney Chnl HD
-p:BSkyB
-0e2c:011a0000:07eb:0002:25:0
-TV3 HD
-p:BSkyB
-0f42:011a0000:07eb:0002:25:0
-TCM HD
-p:BSkyB,c:050001
-0f55:011a0000:07eb:0002:25:0
-W HD
-p:BSkyB
-0fbf:011a0000:07eb:0002:25:0
-SONY MAX HD
-p:BSkyB
-1b1c:011a0000:0802:0002:25:0
-BBC Two HD
-p:BSkyB
-1b1d:011a0000:0802:0002:25:0
-BBC One HD
-p:BSkyB,c:050001
-1b1f:011a0000:0802:0002:25:0
-BBC One NI HD
-p:BSkyB,c:050001
-1b21:011a0000:0802:0002:25:0
-6945
-p:BSkyB
-1b28:011a0000:0802:0002:25:0
-CBBC HD
-p:BSkyB
-1b30:011a0000:0802:0002:25:0
-BBC Two HD
-p:BSkyB
-1b31:011a0000:0802:0002:25:0
-BBC One HD
-p:BSkyB,c:050001
-1b33:011a0000:0802:0002:25:0
-BBC One NI HD
-p:BSkyB
-1b3c:011a0000:0802:0002:25:0
-CBBC HD
-p:BSkyB
-0c1d:011a0000:07d3:0002:25:0
-Sky Insider HD
-p:BSkyB
-2328:011a0000:07d3:0002:31:0
-Ultra HD
-p:BSkyB
-232e:011a0000:07d3:0002:31:0
-U1MON
-p:BSkyB
-0e28:011a0000:07ec:0002:25:0
-RTÉ2 HD
-p:BSkyB
-0f2d:011a0000:07ec:0002:25:0
-NatGeoWild HD
-p:BSkyB
-0f2e:011a0000:07ec:0002:25:0
-History HD
-p:BSkyB
-0f30:011a0000:07ec:0002:25:0
-Crime+Inv HD
-p:BSkyB
-0f43:011a0000:07ec:0002:25:0
-TLC HD
-p:BSkyB
-0f51:011a0000:07ec:0002:25:0
-RTÉ One HD
-p:BSkyB
-0ee6:011a0000:07ec:0002:25:0
-Sky Action HD
-p:BSkyB,c:050001
-0e29:011a0000:07e8:0002:25:0
-Boomerang HD
-p:BSkyB
-0e2a:011a0000:07e8:0002:25:0
-AnimalPlnt HD
-p:BSkyB
-0f3c:011a0000:07e8:0002:25:0
-Sky Disney HD
-p:BSkyB
-0ee7:011a0000:07e8:0002:25:0
-Sky Greats HD
-p:BSkyB
-0ee8:011a0000:07e8:0002:25:0
-Sky DraRomHD
-p:BSkyB
-0ee9:011a0000:07e8:0002:25:0
-Sky Fi HD
-p:BSkyB,c:050001
-0eeb:011a0000:07e8:0002:25:0
-Sky Comedy HD
-p:BSkyB
-5140:011a0000:07de:0002:25:0
-STV HD
-p:BSkyB
-514a:011a0000:07de:0002:25:0
-UTV HD
-p:Freesat
-5154:011a0000:07de:0002:25:0
-ITV Encore HD
-p:BSkyB
-5159:011a0000:07de:0002:25:0
-ITV Box Off HD
-p:BSkyB
-5168:011a0000:07de:0002:25:0
-ITV HD
-p:BSkyB
-5172:011a0000:07de:0002:25:0
-ITV HD
-p:BSkyB
-0f49:011a0000:07ed:0002:25:0
-SkySpCricketHD
-p:BSkyB
-0f4c:011a0000:07ed:0002:25:0
-SkySp Mix HD
-p:BSkyB
-0f50:011a0000:07ed:0002:25:0
-Lifetime HD
-p:BSkyB
-0f66:011a0000:07ed:0002:25:0
-SkySp F'ball HD
-p:BSkyB
-0f69:011a0000:07ed:0002:25:0
-SkySp ArenaHD
-p:BSkyB
-106a:011a0000:07ed:0002:25:0
-SkySp F1 HD
-p:BSkyB
-0fa1:011a0000:07ed:0002:25:0
-SkySp ActionHD
-p:BSkyB
-0fa3:011a0000:07ed:0002:25:0
-SkySpMainEvHD
-p:BSkyB
-0fa4:011a0000:07ed:0002:25:0
-SkySp Golf HD
-p:BSkyB
-0fab:011a0000:07ed:0002:25:0
-SkySp PL HD
-p:BSkyB
-0fc4:011a0000:07ed:0002:25:0
-SkySp News HD
-p:BSkyB
-0fc8:011a0000:07ed:0002:25:0
-SkySp PL HD
-p:BSkyB
-0ffc:011a0000:07ed:0002:25:0
-SkySp Mix HD
-p:BSkyB
-0ffe:011a0000:07ed:0002:25:0
-SkySp PL HD
-p:BSkyB
-d868:011a0000:0833:0002:25:0
-COLORS HD
-p:BSkyB,c:050001
-d86d:011a0000:0833:0002:25:0
-Record TV HD
-p:BSkyB,c:050001
-d872:011a0000:0833:0002:25:0
-DAYSTAR HD
-p:BSkyB
-d877:011a0000:0833:0002:25:0
-Al Jazeera HD
-p:BSkyB
-cf9b:011a0000:083a:0002:25:0
-NHK World HD
-p:BSkyB
-cf9c:011a0000:083a:0002:25:0
-RT HD
-p:BSkyB
-cf9e:011a0000:083a:0002:25:0
-Arirang TV HD
-p:BSkyB,c:050001
-cfa0:011a0000:083a:0002:25:0
-eir Sport 2 HD
-p:BSkyB
-cfa1:011a0000:083a:0002:25:0
-Premier HD
-p:BSkyB
-cfa2:011a0000:083a:0002:25:0
-eir Sport 2 HD
-p:BSkyB
-22c5:011a0000:080d:0002:25:0
-BBC One ScotHD
-p:BSkyB,f:01
-22cf:011a0000:080d:0002:25:0
-BBC One Wal HD
-p:BSkyB,f:01
-22d9:011a0000:080d:0002:25:0
-BBC NEWS HD
-p:BSkyB,f:01
-22e3:011a0000:080d:0002:25:0
-BBC Four HD
-p:BSkyB,f:01
-22e4:011a0000:080d:0002:25:0
-CBeebies HD
-p:BSkyB,f:01
-22f7:011a0000:080d:0002:25:0
-BBC Four HD
-p:BSkyB
-22f8:011a0000:080d:0002:25:0
-CBeebies HD
-p:BSkyB,f:01
-c5e4:011aac7a:0000:0000:25:0
-BT Sport 1 HD
-p:BSkyB
-c5e5:011aac7a:0000:0000:25:0
-BT Sport 1 HD
-p:BSkyB
-c5e6:011aac7a:0000:0000:25:0
-50662
-p:BSkyB
-c5e7:011aac7a:0000:0000:25:0
-50663
-p:BSkyB
-c5e9:011aac7a:0000:0000:25:0
-AMC from BTHD
-p:BSkyB
-c5f8:011aac7a:0000:0000:25:0
-BT Sport 3 HD
-p:BSkyB
-c5f9:011aac7a:0000:0000:25:0
-BT Sport 3 HD
-p:BSkyB
-c5fa:011aac7a:0000:0000:25:0
-50682
-p:BSkyB
-c5fb:011aac7a:0000:0000:25:0
-50683
-p:BSkyB
-d7e7:011a0000:082c:0002:25:0
-&tv HD
-p:BSkyB,c:050001
-d7e8:011a0000:082c:0002:25:0
-Racing UK HD
-p:BSkyB,c:050001
-d7e9:011a0000:082c:0002:25:0
-TRT World HD
-p:BSkyB,c:050001
-d7ea:011a0000:082c:0002:25:0
-MUTV HD
-p:BSkyB
-1ce8:011a0000:07f6:0002:31:0
-Astra UHD Demo
-p:SES ASTRA
-1ce9:011a0000:07f6:0002:31:0
-Astra UHD Demo
-p:SES ASTRA
-1cea:011a0000:07f6:0002:31:0
-SES UHD Demo
-p:SES
-22c5:011a2b10:080d:0002:25:0
-BBC One Scotland HD
-p:Sky Digital/Freesat,c:0013ec,c:0213ef,c:0313ec,c:0413ed
-22cf:011a2b10:080d:0002:25:0
-BBC One Wales HD
-p:Sky Digital/Freesat,c:001450,c:021453,c:031450,c:041451
-22d9:011a2b10:080d:0002:25:0
-BBC NEWS HD
-p:Sky Digital/Freesat,c:001388,c:02138b,c:031388,c:041389
-5226:011a0000:0812:0002:25:0
-ITV Central West HD
-p:BSkyB,c:000910,c:020913,c:030910,c:040912,f:08
-5104:011a0000:080f:0002:25:0
-ITV Granada HD
-p:BSkyB,c:00091a,c:01091b,c:02091d,c:03091a,f:08
-5208:011a0000:0812:0002:25:0
-ITV London HD
-p:BSkyB,c:000901,c:010902,c:020904,c:030901,f:08
-521c:011a0000:0812:0002:25:0
-ITV Meridian South East HD
-p:BSkyB,c:00090b,c:01090d,c:02090e,c:03090b,f:08
-510e:011a0000:080f:0002:25:0
-ITV Tyne Tees HD
-p:BSkyB,c:00090e,c:01090d,c:03090e,f:08
-50fa:011a0000:080f:0002:25:0
-ITV Wales HD
-p:BSkyB,c:000910,c:010911,c:020913,c:030910,f:08
-5230:011a0000:0812:0002:25:0
-ITV Yorkshire HD
-p:BSkyB,c:000906,c:010907,c:030906,f:08
-50e6:011a0000:080f:0002:25:0
-ITV2 HD
-p:BSkyB,c:000901,c:020905,c:030901,c:040903
-523a:011a0000:0812:0002:25:0
-ITV3 HD
-p:BSkyB,c:00090a,c:020918,c:03090a,c:040916,f:40
-5244:011a0000:0812:0002:25:0
-ITV4 HD
-p:BSkyB,c:00091b,c:02091d,c:03091b,c:04091c,f:40
-52d0:011a0000:0814:0002:1:0
-Channel 4HD
-p:Sky Digital/Freesat,c:000901,c:010902,c:020905,c:030901
-ccca:011a2d41:0831:0002:1:0
-ID+1
-p:Sky Digital,c:000921,c:010922,c:030921
-d7a2:011a0000:0840:0002:1:0
-horror channel
-p:BSkyB,c:000903,c:010904,c:030903
-d7b2:011a0000:0840:0002:1:0
-horror ch+1
-p:BSkyB,c:00090a,c:01090b,c:03090a
-d048:011a0000:083e:0002:1:0
-True Movies
-p:BSkyB,c:000909,c:01090a,c:030909
-d04d:011a0000:083e:0002:1:0
-True Movies+1
-p:BSkyB,c:00090d,c:01090e,c:03090d
-c7ac:011a0000:0821:0002:1:0
-movies4men
-p:BSkyB,c:000909,c:01090a,c:030909
-c7ae:011a0000:0821:0002:1:0
-mov4men+1
-p:BSkyB,c:00090f,c:010910,c:03090f
-cc29:011a0000:083d:0002:1:0
-Movies 24
-p:BSkyB,c:000917,c:010918,c:030917
-cc2e:011a0000:083d:0002:1:0
-Movies24+
-p:BSkyB,c:000919,c:01091a,c:030919
-d7a9:011a0000:0840:0002:1:0
-CBS Action
-p:BSkyB,c:000a54,c:010a55,c:030a54
-c6d7:011a0000:0840:0002:1:0
-CBS Drama
-p:BSkyB,c:000c08,c:010c09,c:030c08
-d7ae:011a0000:0840:0002:1:0
-CBS Reality
-p:BSkyB,c:000a5a,c:010a5b,c:02092a,c:030a5a
-d7b1:011a0000:0840:0002:1:0
-CBS Reality+1
-p:BSkyB,c:000908,c:010909,c:02092b,c:030908
-d7d2:011a0000:0840:0002:1:0
-BT Sport 1
-p:BSkyB,c:000a50,c:010a51,c:020918,c:030a50
-d7dc:011a0000:0840:0002:1:0
-BT Sport 3
-p:BSkyB,c:000a56,c:010a57,c:02091a,c:030a56
-c49b:011a0000:0819:0002:1:0
-BT Sport Extra 1
-p:BSkyB © Vhannibal Setting,c:00091a,c:01091b,c:03091a,f:01
-d85e:011a0000:0838:0002:25:0
-MUTV HD
-p:BSkyB,c:000918,c:030918,c:040919
-c7a9:011a0000:0821:0002:1:0
-Premier Sports
-p:BSkyB,c:00091f,c:01091e,c:030903
-c7a7:011a0000:0821:0002:1:0
-Setanta Ireland
-p:BSkyB,c:000918,c:010919,c:02091a,c:030901
-cfd5:011a0000:083f:0002:1:0
-Property TV
-p:Sky Digital/Freesat,c:000917,c:010918,c:030917
-5168:011a0000:0810:0002:25:0
-ITV HD
-p:BSkyB,f:40
-5118:011a0000:080f:0002:25:0
-ITV HD
-p:BSkyB,f:40
-5122:011a0000:080f:0002:25:0
-ITV HD
-p:BSkyB,f:40
-5172:011a0000:0810:0002:25:0
-20850
-p:BSkyB,f:40
-5140:011a0000:0810:0002:25:0
-STV HD
-p:BSkyB,c:000901,c:010902,c:030901,f:08
-514a:011a0000:0810:0002:25:0
-UTV HD
-p:BSkyB,c:000908,c:010909,c:030908,f:08
-cc48:011a0000:083d:0002:1:0
-S4C HD
-p:Sky Digital/Freesat,c:00092e,c:01092f,c:03092e
-5159:011a0000:0810:0002:25:0
-ITV Box Office HD
-p:Sky Digital,c:00091a,c:01091b,c:03091a
-1e46:011a0000:0809:0002:1:0
-Channel 5HD
-p:Sky Digital/Freesat,c:000901,c:010902,c:020904,c:030901
-22e3:011a2b10:080d:0002:25:0
-BBC Four HD
-p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0314b4
-d85e:011a0000:0838:0002:1:0
-MUTV HD
-p:Sky Digital,c:000918,c:010919,c:030918
-d7e8:011a0000:082c:0002:1:0
-Racing UK HD
-p:Sky Digital,c:00090a,c:01090b,c:03090a
-d86d:011aad5c:0833:0002:25:0
-TV Record HD
-p:Sky Digital/Freesat,c:000911,c:010912,c:030911
-c472:011a0000:0813:0002:1:0
-CNN HD
-p:Sky Digital/Freesat,c:000914,c:010915,c:030914
-d877:011aad5c:0833:0002:25:0
-Al Jazeera English HD
-p:Sky Digital/Freesat,c:000903,c:010901,c:030903
-22e4:011a2b10:080d:0002:25:0
-CBeebies HD
-p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0314b4
-d7e7:011a0000:082c:0002:1:0
-&tv HD
-p:Sky Digital/Freesat,c:000901,c:010903,c:030901
-d868:011aad5c:0833:0002:25:0
-Colors HD
-p:Sky Digital/Freesat,c:000914,c:010915,c:030914
-1978:011a0000:07e6:0002:1:0
-W
-p:BSkyB,c:00093b,c:01093d,c:02093c,c:03093b
-1968:011a0000:07e6:0002:1:0
-GOLD
-p:BSkyB,c:000917,c:010919,c:020918,c:030917
-196a:011a0000:07e6:0002:1:0
-Dave
-p:BSkyB,c:000904,c:010908,c:020906,c:030904
-cc1f:011a0000:083d:0002:1:0
-Universal
-p:BSkyB,c:000913,c:010914,c:030913
-cc1a:011a0000:083d:0002:1:0
-Syfy
-p:BSkyB,c:00091f,c:010920,c:03091f
-1979:011a0000:07e6:0002:1:0
-alibi
-p:BSkyB,c:000912,c:010914,c:020913,c:030912
-196c:011a0000:07e6:0002:1:0
-Good Food
-p:BSkyB,c:000926,c:010928,c:020927,c:030926
-ccbf:011a2d41:0831:0002:1:0
-DMAX
-p:Sky Digital,c:000920,c:010921,c:030920
-cbfc:011a0000:083d:0002:1:0
-Universal+1
-p:BSkyB,c:000911,c:010912,c:030911
-cc01:011a0000:083d:0002:1:0
-E!
-p:BSkyB,f:40
-ccde:011a2d41:0831:0002:1:0
-TLC+1
-p:Sky Digital,c:000909,c:01090a,c:02090c,c:030909
-197b:011a0000:07e6:0002:1:0
-Really
-p:BSkyB,c:00093f,c:010940,c:020942,c:03093f
-197a:011a0000:07e6:0002:1:0
-Drama
-p:BSkyB,c:000944,c:010924,c:020947,c:030944
-d017:011a0000:083f:0002:1:0
-Sony Channel +1
-p:Sky Digital,c:000935,c:010936,c:030935
-d084:011a0000:083e:0002:1:0
-True Ent +1
-p:BSkyB,c:000928,c:010929,c:030928
-d07f:011a0000:083e:0002:1:0
-True Ent
-p:BSkyB,c:000925,c:010926,c:030925
-cd41:011a0000:0844:0002:1:0
-True Crime
-p:BSkyB,f:40
-d039:011a0000:083e:0002:1:0
-tru TV
-p:BSkyB,c:000901,c:010904,c:030901
-d7a7:011a0000:0840:0002:1:0
-AMC from BT
-p:BSkyB,c:000905,c:010906,c:030905
-cc38:011a0000:083d:0002:1:0
-Syfy +1
-p:BSkyB,c:000924,c:010925,c:030924
-ccce:011a2d41:0831:0002:1:0
-QUEST+1
-p:Sky Digital/Freesat,c:000922,c:010923,c:030922
-1965:011a0000:07e6:0002:1:0
-Home
-p:BSkyB,c:000901,c:010903,c:020902,c:030901
-177a:011a0000:07d7:0002:1:0
-Lifetime+1
-p:BSkyB
-cce7:011a2d41:0831:0002:1:0
-TLC+2
-p:Sky Digital,c:000924,c:010925,c:030924
-cc06:011a0000:083d:0002:1:0
-E!
-p:BSkyB,f:40
-ccc4:011a2d41:0831:0002:1:0
-DMAX+1
-p:Sky Digital,c:00090d,c:01090e,c:03090d
-c508:011a0000:0837:0002:1:0
-Home & Leisure
-p:BSkyB
-cce2:011a2d41:0831:0002:1:0
-Home&Health+1
-p:Sky Digital,c:00090f,c:010910,c:03090f
-ccd8:011a2d41:0831:0002:1:0
-Discovery Shed
-p:Sky Digital,c:00091f,c:010920,c:03091f
-cd14:011a0000:0844:0002:1:0
-Food Network
-p:BSkyB,c:000909,c:01090a,c:030909
-cd1e:011a0000:0844:0002:1:0
-Food Netwrk+1
-p:BSkyB,c:00090d,c:01090e,c:03090d
-cfda:011a0000:083f:0002:1:0
-Showcase 3
-p:Sky Digital/Freesat,c:00091a,c:01091b,c:03091a
-cd2d:011a0000:0844:0002:1:0
-tru TV+1
-p:BSkyB,c:000910,c:010911,c:030910
-cd3c:011a0000:0844:0002:1:0
-YourTV
-p:BSkyB,c:000905,c:010906,c:030905
-5726:011a2ce6:082b:0002:1:0
-Insight HD
-p:Sky Digital,c:000907,c:010908,c:030907
-d7ff:011a0000:0840:0002:1:0
-S4C
-p:BSkyB,c:000938,c:010939,c:030938
-2ef9:011a0000:07ef:0002:1:0
-Box Upfront
-p:Sky Digital/Freesat,c:000929,c:01092a,c:030929
-2ee5:011a0000:07ef:0002:1:0
-The Box
-p:Sky Digital/Freesat,c:00090e,c:01090f,c:03090e
-2ef4:011a0000:07ef:0002:1:0
-Box Hits
-p:Sky Digital/Freesat,c:000907,c:010908,c:030907
-2eea:011a0000:07ef:0002:1:0
-KISS
-p:Sky Digital/Freesat,c:000901,c:010902,c:030901
-2ee0:011a0000:07ef:0002:1:0
-Magic
-p:Sky Digital/Freesat,c:000910,c:010911,c:030910
-d075:011a0000:083e:0002:1:0
-Chart Show TV
-p:BSkyB,c:000902,c:010903,c:030902
-d06b:011a0000:083e:0002:1:0
-The Vault
-p:BSkyB,c:000915,c:010916,c:030915
-d03e:011a0000:083e:0002:1:0
-Scuzz
-p:BSkyB,c:000919,c:01091a,c:030919
-2eef:011a0000:07ef:0002:1:0
-Kerrang!
-p:Sky Digital/Freesat,c:000904,c:010905,c:030904
-d057:011a0000:083e:0002:1:0
-Starz TV
-p:BSkyB,c:000905,c:010906,c:030905
-d043:011a0000:083e:0002:1:0
-Chartshow Hits
-p:BSkyB,c:00091b,c:01091c,c:03091b
-d034:011a0000:083e:0002:1:0
-Flava
-p:BSkyB,c:000913,c:010914,c:030913
-c49a:011a0000:0811:0002:1:0
-Keep It Country
-p:BSkyB
-0ffb:011a2fea:07ed:0002:1:0
-Sky Sports Mix
-p:Sky Digital,c:000914,c:010915,c:030901
-d7a5:011a0000:0840:0002:1:0
-BT Sport 1
-p:BSkyB,c:000a50,c:010a51,c:030a50
-d020:011a0000:083f:0002:1:0
-BT Sport 2
-p:Sky Digital,c:000906,c:010907,c:030906
-d7ab:011a0000:0840:0002:1:0
-BT Sport 3
-p:BSkyB
-1655:011a0000:07ea:0002:1:0
-Chelsea TV
-p:BSkyB
-d025:011a0000:083f:0002:1:0
-BT Sport ESPN
-p:Sky Digital,c:00090a,c:01090d,c:03090a
-d01c:011a0000:083f:0002:1:0
-Motors TV
-p:Sky Digital,c:000903,c:010904,c:030903
-cc42:011a0000:083d:0002:1:0
-Bike
-p:BSkyB,c:000908,c:010909,c:030908
-1400:011a0000:07d7:0002:1:0
-GINXeSportsTV
-p:BSkyB
-c42c:011a0000:0813:0002:1:0
-CNN
-p:BSkyB,c:000911,c:010912,c:020913,c:030911
-cd5a:011a0000:0844:0002:1:0
-FRANCE Eng
-p:BSkyB,c:000972,c:010975,c:030972
-d859:011a0000:0838:0002:1:0
-CNC World
-p:BSkyB
-ccb0:011a2d41:0831:0002:1:0
-ID
-p:Sky Digital,c:000913,c:010914,c:020915,c:030913
-1966:011a0000:07e6:0002:1:0
-Eden
-p:BSkyB,c:00090d,c:01090f,c:02090e,c:03090d
-cd19:011a0000:0844:0002:1:0
-PBS America
-p:BSkyB,c:00091b,c:01091c,c:03091b
 ccd3:011a2d41:0831:0002:1:0
 Disc.History+1
 p:Sky Digital,c:00091b,c:01091c,c:03091b
-1969:011a0000:07e6:0002:1:0
-YESTERDAY
-p:BSkyB,c:00091c,c:01091e,c:02091d,c:03091c
 ccb5:011a2d41:0831:0002:1:0
 Animal Plnt+1
 p:Sky Digital,c:000905,c:010906,c:030905
+ccca:011a2d41:0831:0002:1:0
+ID+1
+p:Sky Digital,c:000921,c:010922,c:030921
+12c2:011a0000:07e9:0002:1:0
+Crime+Inv
+p:BSkyB
 ccba:011a2d41:0831:0002:1:0
 Disc.Sci+1
 p:Sky Digital,c:000901,c:010902,c:030901
 c4e0:011a0000:0837:0002:1:0
 Times Now
 p:BSkyB
+cb9e:011a0000:083c:0002:1:0
+GOD Channel
+p:BSkyB
 d872:011aad5c:0833:0002:25:0
 Daystar HD
 p:Sky Digital/Freesat,c:000907,c:010908,c:030907
+cb89:011a0000:083b:0002:1:0
+Word Network
+p:BSkyB
+cb22:011a0000:0839:0002:1:0
+Gospel Channel
+p:BSkyB
 d156:011a0000:0832:0002:1:0
 Believe TV
 p:BSkyB,c:00090a,c:01090b,c:03090a
-d11f:011a0000:0832:0002:1:0
-Flow TV
-p:BSkyB,c:000942,c:010943,c:030942
+cb88:011a0000:083b:0002:1:0
+Olive TV
+p:BSkyB
+cb86:011a0000:083b:0002:1:0
+Channels 24
+p:BSkyB
 c418:011a0000:0813:0002:1:0
 Cartoon Netwrk
 p:BSkyB
@@ -3413,36 +3164,21 @@ p:Sky Digital
 15bb:011a2fea:07ed:0002:1:0
 Nick Jr.
 p:Sky Digital
-d05c:011a0000:083e:0002:1:0
-POP
-p:BSkyB,c:00090b,c:01090c,c:03090b
-d052:011a0000:083e:0002:1:0
-Tiny Pop
-p:BSkyB,c:000911,c:010912,c:030911
 c422:011a0000:0813:0002:1:0
 Boomerang +1
 p:BSkyB
 15bc:011a2fea:07ed:0002:1:0
 BabyTV
 p:Sky Digital/Freesat,c:000918,c:010919,c:030918
-d061:011a0000:083e:0002:1:0
-Tiny Pop +1
-p:BSkyB,c:00091f,c:010920,c:03091f
-d07a:011a0000:083e:0002:1:0
-POP+1
-p:BSkyB,c:000923,c:010924,c:030923
-d066:011a0000:083e:0002:1:0
-Kix
-p:BSkyB,c:000921,c:010922,c:030921
-d070:011a0000:083e:0002:1:0
-Kix+1
-p:BSkyB,c:00091d,c:01091e,c:03091d
-cd28:011a0000:0844:0002:1:0
-Gems TV
-p:BSkyB,c:000918,c:010919,c:030918
-d7ad:011a0000:0840:0002:1:0
-High Street TV 2
-p:BSkyB,c:000901,c:010902,c:030901
+cb47:011a0000:0839:0002:1:0
+Ideal World
+p:BSkyB
+cb66:011a0000:0839:0002:1:0
+TJC Choice
+p:BSkyB
+cb25:011a0000:0839:0002:1:0
+Ideal Extra
+p:BSkyB
 19cb:011a0000:07dd:0002:1:0
 QVC Beauty
 p:BSkyB
@@ -3452,14 +3188,23 @@ p:BSkyB
 19c9:011a0000:07dd:0002:1:0
 QVC Extra
 p:BSkyB
-cd4e:011a0000:0844:0002:1:0
-Craft Extra
-p:BSkyB,f:40
+cb57:011a0000:0839:0002:1:0
+Create & Craft
+p:BSkyB
 19ca:011a0000:07dd:0002:1:0
 QVC Style
 p:BSkyB
+cb80:011a0000:0839:0002:1:0
+Craft Channel
+p:BSkyB
 1bee:011a0000:07e2:0002:1:0
 SONY TV Asia
+p:BSkyB
+cbd9:011a0000:083b:0002:1:0
+Star Bharat
+p:BSkyB
+cb52:011a0000:0839:0002:1:0
+COLORS
 p:BSkyB
 c51c:011a0000:0837:0002:1:0
 Zee TV
@@ -3476,29 +3221,44 @@ p:BSkyB
 d142:011a0000:0832:0002:1:0
 MATV National
 p:BSkyB,c:00093d,c:01093e,c:03093d
-cd5f:011a0000:0844:0002:1:0
-TV5 MONDE
-p:BSkyB,c:000976,c:010977,c:020978,c:030976
-d101:011a0000:0832:0002:1:0
-ARY News
-p:BSkyB,c:00092e,c:01092f,c:03092e
+d3d3:011a0000:0829:0002:1:0
+Abu Dhabi TV
+p:BSkyB
+d3ca:011a0000:0829:0002:1:0
+TVC News +1
+p:BSkyB
+cb27:011a0000:0839:0002:1:0
+RishteyCine
+p:BSkyB
+cb21:011a0000:0839:0002:1:0
+SONY MAX
+p:BSkyB
+d3cb:011a0000:0829:0002:1:0
+DM Plus TV
+p:BSkyB
 cd37:011a0000:0844:0002:1:0
 New Vision +1
 p:BSkyB,c:00096d,c:01096e,c:03096d
-d10b:011a0000:0832:0002:1:0
-Islam Channel
-p:BSkyB,c:000930,c:010931,c:030930
+cb90:011a0000:083b:0002:1:0
+Star Utsav
+p:BSkyB
+cb91:011a0000:083b:0002:1:0
+Star GOLD
+p:BSkyB
 d7ee:011a0000:082c:0002:1:0
 Peace TV
 p:BSkyB
 c4e5:011a0000:0837:0002:1:0
 GEO News
 p:BSkyB
-d3c3:011a0000:0829:0002:1:0
-LOVEWORLD TV
+cb24:011a0000:0839:0002:1:0
+ShoppingNation
 p:BSkyB
-d3c5:011a0000:0829:0002:1:0
-ARISE News
+cb87:011a0000:083b:0002:1:0
+Rishtey
+p:BSkyB
+d39a:011a0000:0830:0002:1:0
+Glory TV
 p:BSkyB
 d154:011a0000:0832:0002:1:0
 Brit Asia TV
@@ -3506,18 +3266,33 @@ p:BSkyB,c:000909,c:01090c,c:030909
 d7ef:011a0000:082c:0002:1:0
 Peace TV Urdu
 p:BSkyB
+c7b1:011a0000:0817:0002:1:0
+Peace TV Urdu
+p:BSkyB
+cb70:011a0000:0839:0002:1:0
+Ahlulbayt TV
+p:BSkyB
 c503:011a0000:0837:0002:1:0
 Samaa
+p:BSkyB
+cb48:011a0000:0839:0002:1:0
+Takbeer TV
 p:BSkyB
 c52b:011a0000:0837:0002:1:0
 Zee Punjabi
 p:BSkyB
+cb8c:011a0000:083b:0002:1:0
+Star Plus
+p:BSkyB
 1225:011a2fea:07ed:0002:1:0
 Sky News Arabia
 p:Sky Digital/Freesat
-d129:011a0000:0832:0002:1:0
-News18
-p:BSkyB,c:000901,c:010902,c:030901
+d3c7:011a0000:0829:0002:1:0
+Akaal Channel
+p:BSkyB
+cbca:011a0000:083b:0002:1:0
+Safeer TV
+p:BSkyB
 cd23:011a0000:0844:0002:1:0
 Dunya News
 p:BSkyB,c:000907,c:010908,c:030907
@@ -3527,6 +3302,12 @@ p:BSkyB
 d157:011a0000:0832:0002:1:0
 Channel 44
 p:BSkyB,c:000920,c:010921,c:030920
+d35e:011a0000:0830:0002:1:0
+Al Arabiya
+p:BSkyB
+cbac:011a0000:083b:0002:1:0
+Eman Channel
+p:BSkyB
 d15b:011a0000:0832:0002:1:0
 Gay Network
 p:BSkyB,c:000914,c:010915,c:030914
@@ -3536,86 +3317,44 @@ p:BSkyB,c:00090d,c:01090e,c:03090d
 d7ba:011a0000:0840:0002:1:0
 Psychic Today
 p:BSkyB,c:00090e,c:01090f,c:03090f
-2f8a:011a0000:080b:0002:1:0
-ITV Westcountry West
-p:Sky Digital/Freesat,c:000910,c:01090d,c:030910
-2f4e:011a0000:080b:0002:1:0
-ITV Anglia W
-p:Sky Digital/Freesat,c:000d08,c:010d09,c:020933,c:030d08
-2f71:011a0000:080b:0002:1:0
-ITV Central East
-p:Sky Digital/Freesat,c:000906,c:010907,c:030906
-2f45:011a0000:080b:0002:1:0
-ITV Mer N
-p:Sky Digital/Freesat,c:000d04,c:010d05,c:02092a,c:030d04
-2f58:011a0000:080b:0002:1:0
-ITV Yorks E
-p:Sky Digital/Freesat,c:000d0c,c:010d0d,c:02092d,c:030d0c
-2f62:011a0000:080b:0002:1:0
-ITV Border Scotland
-p:Sky Digital/Freesat,c:000911,c:010912,c:030911
 0fac:011a0000:07e9:0002:1:0
 BE3
 p:BSkyB
-2f85:011a0000:080b:0002:1:0
-ITV Yorkshire East +1
-p:Sky Digital/Freesat,c:00091a,c:010944,c:020945,c:03091a
-2f49:011a0000:080b:0002:1:0
-ITV Tyne Tees +1
-p:Sky Digital/Freesat,c:000905,c:010902,c:030905
-2f8f:011a0000:080b:0002:1:0
-ITV Westcountry West +1
-p:Sky Digital/Freesat,c:000915,c:010916,c:030915
-d7b3:011a0000:0840:0002:1:0
-BT Sport Mosaic
-p:BSkyB,c:00090d,c:010911,c:03090d
-d031:011a0000:083f:0002:1:0
-BT Sport Mosaic 2
-p:Sky Digital,c:000938,c:010939,c:030938
-d7af:011a0000:0840:0002:1:0
-BT Sport Extra 1
-p:BSkyB,c:000914,c:010916,c:030914
-cfe4:011a0000:083f:0002:1:0
-BT Sport Extra 2
-p:Sky Digital,c:000942,c:010943,c:030942
-cfee:011a0000:083f:0002:1:0
-BT Sport Extra 3
-p:Sky Digital,c:000944,c:010945,c:030944
-cff8:011a0000:083f:0002:1:0
-BT Sport Extra 4
-p:Sky Digital,c:000946,c:010947,c:030946
-d002:011a0000:083f:0002:1:0
-BT Sport Extra 5
-p:Sky Digital,c:000948,c:010949,c:030948
-d00c:011a0000:083f:0002:1:0
-BT Sport Extra 6
-p:Sky Digital,c:00094a,c:01094b,c:03094a
+23ff:011a0000:07f9:0002:1:0
+Channel 4
+p:BSkyB
+207b:011a0000:07fa:0002:1:0
+Channel 4 +1
+p:BSkyB
 cd3f:011a0000:0844:0002:1:0
 At The Races
 p:BSkyB,c:000925,c:010926,c:030925
+ccb0:011a0000:0831:0002:1:0
+ID
+p:BSkyB
 cd4a:011a0000:0844:0002:1:0
 Made In Leeds
 p:BSkyB,c:000928,c:010929,c:030928
 cd32:011a0000:0844:0002:1:0
 Made In Bristol
 p:BSkyB,c:000901,c:010902,c:030901
-d7e6:011a0000:0840:0002:1:0
-Made In Cardiff
-p:BSkyB,c:000912,c:010913,c:030912
 c4fe:011a0000:0837:0002:1:0
 Made In Tn&Wr
 p:BSkyB
-22f8:011a2b10:080d:0002:25:0
-CBeebies HD (Eire)
-p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0314b4
-22f7:011a2b10:080d:0002:25:0
-BBC Four HD (Eire)
-p:Sky Digital/Freesat,c:0014b4,c:0114b5,c:0314b4
-0f54:011a0000:07ec:0002:25:0
-RTE 2 HD
-p:Sky Digital,c:000206,c:01029c,c:030206
+2ee5:011a3010:0000:0000:1:0
+The Box
+p:BSkyB
+2eef:011a3010:0000:0000:1:0
+Kerrang!
+p:BSkyB
+2eea:011a3010:0000:0000:1:0
+KISS
+p:BSkyB
 0fc5:011a0000:07e0:0002:25:0
 UTV Ireland HD
+p:BSkyB
+0fc2:011a0000:07f0:0002:25:0
+TG4 HD
 p:BSkyB
 0af1:011a2fea:07ed:0002:1:0
 RTÉ 1
@@ -3635,6 +3374,9 @@ p:Sky Digital/Freesat,c:000913,c:010914,c:030913
 2f08:011a0000:07ef:0002:1:0
 Channel 4 +1 (Ireland)
 p:Sky Digital/Freesat,c:000918,c:010919,c:030918
+164d:011a0000:07db:0002:1:0
+Sky2
+p:BSkyB
 15be:011a2fea:07ed:0002:1:0
 Sky Living +1 (Ireland)
 p:Sky Digital,c:000a10,c:010a11,c:030902
@@ -3653,48 +3395,114 @@ p:Sky Digital/Freesat,c:00091c,c:01091d,c:03091c
 2efe:011a0000:07ef:0002:1:0
 More4 (Ireland)
 p:Sky Digital/Freesat,c:000920,c:010921,c:030920
-cc24:011a0000:083d:0002:1:0
-Universal
-p:BSkyB,c:000915,c:010916,c:030915
+13f5:011a0000:07db:0002:1:0
+Pick
+p:BSkyB
 0af4:011a2fea:07ed:0002:1:0
 RTÉ New Now
 p:Sky Digital,c:000988,c:010989,c:030900
 0af7:011a2fea:07ed:0002:1:0
 Oireachtas TV
 p:Sky Digital/Freesat,c:0009a6,c:0109a7,c:030900
+1842:011a0000:07d9:0002:1:0
+Discovery
+p:BSkyB
+1844:011a0000:07d9:0002:1:0
+ID
+p:BSkyB
+183d:011a0000:07d9:0002:1:0
+TLC
+p:BSkyB
 1070:011a0000:07e5:0002:1:0
 Sky Sports 2
 p:BSkyB,c:000204,c:010298,c:020244,c:031ffe
 0af6:011a2fea:07ed:0002:1:0
 RTÉ Junior
 p:Sky Digital,c:00099c,c:01099d,c:030900
-cfdf:011a0000:083f:0002:1:0
-Get Lucky
-p:Sky Digital/Freesat,c:000913,c:010914,c:030913
 11a3:011aaffd:07ee:0002:1:0
 Sky Intro
 p:Sky Digital/Freesat,c:00020b,c:01028b,c:03020b
+c53a:011a0000:0813:0002:1:0
+ExGirlfriends
+p:BSkyB
+c52b:011a0000:0813:0002:1:0
+Climax
+p:BSkyB
+c508:011a0000:0813:0002:1:0
+Studio 66 2
+p:BSkyB
+c50d:011a0000:0813:0002:1:0
+Studio 66 3
+p:BSkyB
+cbc9:011a0000:083b:0002:1:0
+Playboy TV
+p:BSkyB
+cb8d:011a0000:083b:0002:1:0
+Adult Channel
+p:BSkyB
 cd48:011a0000:0844:0002:1:0
 Babenation
 p:BSkyB,c:00091d,c:01091e,c:03091d
-d7a4:011a0000:0840:0002:1:0
-Lucky Star
-p:BSkyB,c:000a44,c:010a45,c:030a44
-cfd0:011a0000:083f:0002:1:0
-Studio 66 TV 1
-p:Sky Digital/Freesat,c:000901,c:010902,c:030901
-1ce9:011a0000:07f6:0002:25:0
-Astra 4K UHD Demo
-p:SES Astra,c:0000d2,c:0100dc,c:0300d2
-1ce8:011a0000:07f6:0002:25:0
-Astra UHD Demo
-p:SES Astra,c:0000d2,c:0100dc,c:0300d2
+d325:011a0000:0836:0002:1:0
+TVXpornstars
+p:BSkyB
 18ed:011a0000:07fd:0002:2:0
 BBC R C Mwy
+p:BSkyB
+cb40:011a0000:0839:0002:2:0
+Absolute
+p:BSkyB
+d842:011a0000:0838:0002:2:0
+Absolute 70s
+p:BSkyB
+cb41:011a0000:0839:0002:2:0
+Absolute 80s
+p:BSkyB
+cb42:011a0000:0839:0002:2:0
+Absolute 90s
+p:BSkyB
+cb43:011a0000:0839:0002:2:0
+Classic Rock
+p:BSkyB
+cb3c:011a0000:0839:0002:2:0
+BFBS Radio
+p:BSkyB
+d844:011a0000:0838:0002:2:0
+Ahomka RD
+p:BSkyB
+cb3e:011a0000:0839:0002:2:0
+Heart
+p:BSkyB
+cb3f:011a0000:0839:0002:2:0
+Heart 80s
+p:BSkyB
+cbe2:011a0000:083b:0002:2:0
+Kiss
 p:BSkyB
 d843:011a0000:0838:0002:2:0
 InsightRadio
 p:Sky Digital/Freesat,c:010903,c:030903
+d851:011a0000:0838:0002:2:0
+Jazz FM
+p:BSkyB
+d84d:011a0000:0838:0002:2:0
+Liberty
+p:BSkyB
+cb3d:011a0000:0839:0002:2:0
+LBC
+p:BSkyB
+cbe3:011a0000:083b:0002:2:0
+Magic
+p:BSkyB
+d849:011a0000:0838:0002:2:0
+Rainbow
+p:BSkyB
+d845:011a0000:0838:0002:2:0
+TWR
+p:BSkyB
+d841:011a0000:0838:0002:2:0
+WRN Europe
+p:BSkyB
 0afb:011a2fea:07ed:0002:2:0
 RTE Radio 1
 p:Sky Digital/Freesat,c:010993,c:030900
@@ -3707,23 +3515,32 @@ p:Sky Digital/Freesat,c:010995,c:030900
 0afe:011a2fea:07ed:0002:2:0
 RTE Lyric FM
 p:Sky Digital/Freesat,c:010996,c:030900
+d848:011a0000:0838:0002:2:0
+Desi Radio
+p:BSkyB
+cba4:011a0000:083b:0002:2:0
+Panjab Radio
+p:BSkyB
+cba5:011a0000:083b:0002:2:0
+Sukh Sagar
+p:BSkyB
+d853:011a0000:0838:0002:2:0
+Solar Radio
+p:BSkyB
+d84b:011a0000:0838:0002:2:0
+Kanshi Radio
+p:BSkyB
 138f:011aaffd:07ee:0002:2:0
 Sky Channel Line Up
 p:Sky Digital/Freesat,c:01028e,c:03028e
-1845:011a0000:07f3:0002:1:0
-QUEST
-p:BSkyB,c:00093c,c:01093f,c:02093e,c:03093c
-1847:011a0000:07f3:0002:1:0
-QUEST+1
-p:BSkyB,c:000938,c:01093a,c:02093b,c:030938,C:0000
-ccb0:011a0000:080e:0002:1:0
-ID
-p:BSkyB,c:000913,c:010914,c:020915,c:030913,C:0000
-ccca:011a0000:080e:0002:1:0
-ID+1
-p:BSkyB,c:000921,c:010922,c:030921,C:0000
-cbcf:011a0000:0831:0002:1:0
-TCM+1
-p:BSkyB,f:40
+22d9:011a0000:080d:0002:25:0
+BBC NEWS HD
+p:BSkyB,c:001388,c:02138b,c:031388,c:041389
+22c5:011a0000:080d:0002:25:0
+BBC One ScotHD
+p:BSkyB,c:0013ec,c:0213ef,c:0313ec,c:0413ed
+22cf:011a0000:080d:0002:25:0
+BBC One Wal HD
+p:BSkyB,c:001450,c:021453,c:031450,c:041451
 end
-Edited with dreamboxEDIT 7.2.0.0 on 22Dec2017 13:30:23
+Edited with dreamboxEDIT 7.2.1.0 on 15Sep2018 10:09:11
