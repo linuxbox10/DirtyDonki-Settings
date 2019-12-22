@@ -1,2 +1,4 @@
-#NAME ------------- 1 (0.8) West -------------
-#SERVICE 1:0:1:D52:15:56:300000:0:0:0:
+#NAME Sat Telecom
+#SERVICE 1:0:1:A:1:1:DE82C7D:0:0:0:
+#SERVICE 1:0:1:9:1:1:DE82C7D:0:0:0:
+#SERVICE 1:0:1:C:1:1:DE82C7D:0:0:0:
